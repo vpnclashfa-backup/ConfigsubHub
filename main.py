@@ -5,7 +5,7 @@ import shutil
 from typing import Set, List, Tuple
 
 # ماژول‌های پروژه
-from src.config import setup_logging, OUTPUT_DIR, SOURCE_TELEGRAM_FILE
+from src.config import setup_logging, OUTPUT_DIR, SOURCE_TELEGRAM_FILE, SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR
 from src.file_handler import (read_source_links, setup_directories, 
                               save_mixed_files, save_source_files)
 from src.network_handler import fetch_all_subs
@@ -33,9 +33,8 @@ def read_telegram_channels() -> List[str]:
                     channels.append(channel_id)
     except FileNotFoundError:
         logging.info(f"فایل منبع تلگرام یافت نشد: {SOURCE_TELEGRAM_FILE}. از این منبع صرف‌نظر می‌شود.")
-        # ایجاد فایل خالی برای استفاده‌های بعدی
         open(SOURCE_TELEGRAM_FILE, 'w').close()
-    return list(set(channels)) # حذف موارد تکراری
+    return list(set(channels))
 
 async def process_subscription_links(all_nodes_set: Set[str]):
     """
@@ -65,7 +64,8 @@ async def process_subscription_links(all_nodes_set: Set[str]):
             
         logging.info(f"تعداد {len(source_nodes)} نود در '{name}' پیدا شد.")
         categorized_source_nodes = categorize_nodes(source_nodes)
-        await save_source_files(name, categorized_source_nodes)
+        # ارسال مسیر پایه صحیح برای لینک‌های اشتراک
+        await save_source_files(SOURCE_LINK_DIR, name, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
 
 async def process_telegram_channels(all_nodes_set: Set[str]):
@@ -79,11 +79,7 @@ async def process_telegram_channels(all_nodes_set: Set[str]):
 
     logging.info(f"تعداد {len(channel_ids)} کانال تلگرام برای پردازش یافت شد.")
     
-    # نکته: اسکرپ کردن تلگرام یک عملیات I/O-bound سنکرون است.
-    # برای جلوگیری از بلاک شدن کامل، می‌توان آن را در یک executor اجرا کرد.
-    # اما برای سادگی فعلی، آن را به صورت متوالی اجرا می‌کنیم.
     for channel_id in channel_ids:
-        # نام منبع همان شناسه کانال خواهد بود
         name = channel_id
         source_nodes = scrape_channel(channel_id)
         
@@ -93,7 +89,8 @@ async def process_telegram_channels(all_nodes_set: Set[str]):
             
         logging.info(f"تعداد {len(source_nodes)} نود در کانال '{name}' پیدا شد.")
         categorized_source_nodes = categorize_nodes(source_nodes)
-        await save_source_files(name, categorized_source_nodes)
+        # ارسال مسیر پایه صحیح برای کانال‌های تلگرام
+        await save_source_files(SOURCE_TELEGRAM_DIR, name, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
 
 async def main():
@@ -109,15 +106,11 @@ async def main():
     
     all_nodes_set: Set[str] = set()
 
-    # --- بخش اول: پردازش لینک‌های اشتراک ---
     await process_subscription_links(all_nodes_set)
-    
-    # --- بخش دوم: پردازش کانال‌های تلگرام ---
     await process_telegram_channels(all_nodes_set)
 
-    # --- بخش نهایی: ساخت فایل‌های میکس ---
     if all_nodes_set:
-        all_nodes_list = sorted(list(all_nodes_set)) # مرتب‌سازی برای خروجی یکنواخت
+        all_nodes_list = sorted(list(all_nodes_set))
         logging.info(f"در مجموع {len(all_nodes_list)} نود منحصر به فرد برای ساخت فایل میکس جمع‌آوری شد.")
         categorized_all_nodes = categorize_nodes(all_nodes_list)
         await save_mixed_files(categorized_all_nodes)
