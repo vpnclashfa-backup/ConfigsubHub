@@ -8,16 +8,20 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # مسیرهای فایل ورودی
 SOURCE_DIR = os.path.join(BASE_DIR, "source")
 SOURCE_NORMAL_FILE = os.path.join(SOURCE_DIR, "normal_sub_link")
-SOURCE_TELEGRAM_FILE = os.path.join(SOURCE_DIR, "telegram") # مسیر اصلاح شده
+SOURCE_TELEGRAM_FILE = os.path.join(SOURCE_DIR, "telegram")
 
 # مسیر پوشه خروجی اصلی
 OUTPUT_DIR = os.path.join(BASE_DIR, "sub")
 
-# مسیرهای زیرپوشه‌های خروجی
+# مسیرهای زیرپوشه‌های خروجی عمومی
 MIX_DIR = os.path.join(OUTPUT_DIR, "mix")
 MIX_BASE64_DIR = os.path.join(MIX_DIR, "base64")
 
 SOURCE_SPECIFIC_DIR = os.path.join(OUTPUT_DIR, "source")
+
+# مسیرهای خروجی منابع مجزا (جدید)
+SOURCE_LINK_DIR = os.path.join(SOURCE_SPECIFIC_DIR, "link")
+SOURCE_TELEGRAM_DIR = os.path.join(SOURCE_SPECIFIC_DIR, "telegram")
 
 # --- Network Configuration ---
 # هدرهای HTTP برای شبیه‌سازی یک مرورگر واقعی
