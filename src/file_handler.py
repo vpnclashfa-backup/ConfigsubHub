@@ -7,7 +7,7 @@ import aiofiles
 
 # وارد کردن تنظیمات از config.py
 from .config import (
-    SOURCE_FILE, OUTPUT_DIR, MIX_DIR, MIX_BASE64_DIR, SOURCE_SPECIFIC_DIR,
+    SOURCE_NORMAL_FILE, OUTPUT_DIR, MIX_DIR, MIX_BASE64_DIR, SOURCE_SPECIFIC_DIR,
     # وارد کردن همه نام‌های فایل میکس برای استفاده در توابع ذخیره‌سازی
     MIX_ALL_FILE_NAME, MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME, 
     MIX_HTTPS_PROXY_FILE_NAME, MIX_HYSTERIA_FILE_NAME, MIX_HY2_FILE_NAME,
@@ -62,7 +62,7 @@ def read_source_links() -> List[tuple[str, str]]:
     """
     links = []
     try:
-        with open(SOURCE_FILE, 'r', encoding='utf-8') as f:
+        with open(SOURCE_NORMAL_FILE, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
                 if not line or '|' not in line:
@@ -73,9 +73,9 @@ def read_source_links() -> List[tuple[str, str]]:
                 if link and name:
                     links.append((name, link))
     except FileNotFoundError:
-        logging.error(f"فایل منبع یافت نشد: {SOURCE_FILE}")
+        logging.error(f"فایل منبع یافت نشد: {SOURCE_NORMAL_FILE}")
         # یک فایل خالی ایجاد می‌کنیم تا در اجرای بعدی برنامه وجود داشته باشد
-        open(SOURCE_FILE, 'w').close()
+        open(SOURCE_NORMAL_FILE, 'w').close()
     return links
 
 async def _save_file_and_base64(directory: str, filename: str, content: str):
