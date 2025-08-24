@@ -5,7 +5,7 @@ import shutil
 from typing import Set, List, Tuple
 
 # ماژول‌های پروژه
-from src.config import setup_logging, OUTPUT_DIR, SOURCE_TELEGRAM_FILE
+from src.config import setup_logging, OUTPUT_DIR, SOURCE_TELEGRAM_FILE, SOURCE_TELEGRAM_DIR
 from src.file_handler import (read_source_links, setup_directories, 
                               save_mixed_files, save_source_files)
 from src.network_handler import fetch_all_subs
@@ -24,6 +24,9 @@ def read_telegram_channels() -> List[str]:
     """
     شناسه‌های کانال‌های تلگرام را از فایل منبع می‌خواند.
     """
+    # اطمینان از وجود پوشه تلگرام
+    os.makedirs(SOURCE_TELEGRAM_DIR, exist_ok=True)
+    
     channels = []
     try:
         with open(SOURCE_TELEGRAM_FILE, 'r', encoding='utf-8') as f:
