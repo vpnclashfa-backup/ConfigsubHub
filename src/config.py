@@ -5,8 +5,10 @@ import logging
 # مسیر ریشه پروژه
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# مسیر فایل ورودی که لینک‌ها در آن قرار دارند
-SOURCE_FILE = os.path.join(BASE_DIR, "source", "normal_sub_link")
+# مسیرهای فایل ورودی
+SOURCE_DIR = os.path.join(BASE_DIR, "source")
+SOURCE_NORMAL_FILE = os.path.join(SOURCE_DIR, "normal_sub_link")
+SOURCE_TELEGRAM_FILE = os.path.join(SOURCE_DIR, "telegram")
 
 # مسیر پوشه خروجی اصلی
 OUTPUT_DIR = os.path.join(BASE_DIR, "sub")
@@ -24,6 +26,11 @@ REQUEST_HEADERS = {
 }
 # حداکثر زمان انتظار برای هر درخواست (به ثانیه)
 REQUEST_TIMEOUT = 10
+
+# --- Telegram Scraper Configuration ---
+# حداکثر عمر پست‌ها برای بررسی (به روز)
+TELEGRAM_POST_MAX_AGE_DAYS = 3
+
 
 # --- File Naming Configuration (Refined List) ---
 MIX_ALL_FILE_NAME = "all.txt"
