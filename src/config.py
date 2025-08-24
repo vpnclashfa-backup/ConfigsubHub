@@ -8,10 +8,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # مسیرهای فایل ورودی
 SOURCE_DIR = os.path.join(BASE_DIR, "source")
 SOURCE_NORMAL_FILE = os.path.join(SOURCE_DIR, "normal_sub_link")
-
-# مسیر جدید برای منابع تلگرام
-SOURCE_TELEGRAM_DIR = os.path.join(SOURCE_DIR, "telegram")
-SOURCE_TELEGRAM_FILE = os.path.join(SOURCE_TELEGRAM_DIR, "channel_list.txt")
+SOURCE_TELEGRAM_FILE = os.path.join(SOURCE_DIR, "telegram") # مسیر اصلاح شده
 
 # مسیر پوشه خروجی اصلی
 OUTPUT_DIR = os.path.join(BASE_DIR, "sub")
