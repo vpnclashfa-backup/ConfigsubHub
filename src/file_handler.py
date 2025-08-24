@@ -8,6 +8,7 @@ import aiofiles
 # وارد کردن تنظیمات از config.py
 from .config import (
     SOURCE_NORMAL_FILE, OUTPUT_DIR, MIX_DIR, MIX_BASE64_DIR, SOURCE_SPECIFIC_DIR,
+    SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR, # وارد کردن مسیرهای جدید
     # وارد کردن همه نام‌های فایل میکس برای استفاده در توابع ذخیره‌سازی
     MIX_ALL_FILE_NAME, MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME, 
     MIX_HTTPS_PROXY_FILE_NAME, MIX_HYSTERIA_FILE_NAME, MIX_HY2_FILE_NAME,
@@ -50,6 +51,9 @@ def setup_directories():
     os.makedirs(MIX_DIR, exist_ok=True)
     os.makedirs(MIX_BASE64_DIR, exist_ok=True)
     os.makedirs(SOURCE_SPECIFIC_DIR, exist_ok=True)
+    # ایجاد زیرپوشه‌های جدید
+    os.makedirs(SOURCE_LINK_DIR, exist_ok=True)
+    os.makedirs(SOURCE_TELEGRAM_DIR, exist_ok=True)
 
 
 def read_source_links() -> List[tuple[str, str]]:
@@ -81,11 +85,6 @@ def read_source_links() -> List[tuple[str, str]]:
 async def _save_file_and_base64(directory: str, filename: str, content: str):
     """
     یک فایل با محتوای مشخص و نسخه Base64 آن را ذخیره می‌کند.
-    
-    Args:
-        directory: پوشه‌ای که فایل‌ها در آن ذخیره می‌شوند.
-        filename: نام فایل اصلی.
-        content: محتوای متنی برای ذخیره.
     """
     if not content:
         return
@@ -120,12 +119,12 @@ async def save_mixed_files(categorized_nodes: Dict[str, List[str]]):
     logging.info("ذخیره فایل‌های میکس (عادی و Base64) تکمیل شد.")
 
 
-async def save_source_files(source_name: str, categorized_nodes: Dict[str, List[str]]):
+async def save_source_files(base_dir: str, source_name: str, categorized_nodes: Dict[str, List[str]]):
     """
-    فایل‌های مجزا برای یک منبع خاص را ذخیره می‌کند.
+    فایل‌های مجزا برای یک منبع خاص را در مسیر پایه مشخص شده ذخیره می‌کند.
     """
     safe_source_name = "".join(c for c in source_name if c.isalnum() or c in (' ', '_')).rstrip()
-    source_dir = os.path.join(SOURCE_SPECIFIC_DIR, safe_source_name)
+    source_dir = os.path.join(base_dir, safe_source_name)
     os.makedirs(source_dir, exist_ok=True)
     
     all_nodes_content = "\n".join(
@@ -138,4 +137,4 @@ async def save_source_files(source_name: str, categorized_nodes: Dict[str, List[
         if filename:
             content = "\n".join(nodes)
             await _save_file_and_base64(source_dir, filename, content)
-    logging.info(f"ذخیره فایل‌های مجزا برای منبع '{source_name}' تکمیل شد.")
+    logging.info(f"ذخیره فایل‌های مجزا برای منبع '{source_name}' در مسیر '{base_dir}' تکمیل شد.")
