@@ -1,0 +1,51 @@
+name: Process Subscriptions
+
+on:
+  # به شما اجازه می‌دهد این ورک‌فلو را به صورت دستی از تب Actions در گیت‌هاب اجرا کنید
+  workflow_dispatch:
+
+  # اجرای خودکار روزانه ساعت 16:30 UTC (برابر با 20:00 به وقت تهران)
+  schedule:
+    - cron: '30 16 * * *'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # مرحله 1: کد مخزن را دانلود می‌کند
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # مرحله 2: محیط پایتون را راه‌-اندازی می‌کند
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # می‌توانید از نسخه‌های دیگر نیز استفاده کنید
+
+      # مرحله 3: وابستگی‌های پروژه را نصب می‌کند
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # مرحله 4: اسکریپت اصلی پایتون را اجرا می‌کند
+      - name: Run the subscription processing script
+        run: python main.py
+
+      # مرحله 5: تغییرات ایجاد شده در پوشه sub را به مخزن push می‌کند
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # بررسی اینکه آیا تغییری در پوشه sub وجود دارد یا خیر
+          if [[ -n $(git status --porcelain sub) ]]; then
+            git add sub
+            # استفاده از تاریخ و زمان تهران در پیام کامیت برای خوانایی بیشتر
+            COMMIT_MESSAGE=$(TZ="Asia/Tehran" date +"%Y-%m-%d %H:%M:%S")
+            git commit -m "Update subscription files at $COMMIT_MESSAGE (Tehran Time)" -m "[skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
