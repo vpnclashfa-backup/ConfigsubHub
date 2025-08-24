@@ -1,0 +1,2 @@
+trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&headerType=none&type=tcp&sni=sp1.shatak.store#%F0%9F%87%A9%F0%9F%87%AA%20Germany%3F%20Yes%20%F0%9F%8C%9A
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8%20P-Cloud%20Plus%2034
