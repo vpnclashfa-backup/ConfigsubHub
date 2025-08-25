@@ -29,22 +29,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # مرحله 4: اسکریپت اصلی پایتون را اجرا می‌کند
+      # مرحله 4 (جدید): مرورگرهای Playwright را نصب می‌کند
+      - name: Install Playwright Browsers
+        run: playwright install --with-deps
+
+      # مرحله 5: اسکریپت اصلی پایتون را اجرا می‌کند
       - name: Run the subscription processing script
         run: python main.py
 
-      # مرحله 5: تغییرات ایجاد شده در پوشه‌های sub و logs را به مخزن push می‌کند
+      # مرحله 6: تغییرات ایجاد شده را به مخزن push می‌کند
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # اضافه کردن هر دو پوشه به لیست تغییرات
           git add sub/ logs/
-          
-          # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
           if ! git diff --staged --quiet; then
-            # استفاده از تاریخ و زمان تهران در پیام کامیت برای خوانایی بیشتر
             COMMIT_MESSAGE=$(TZ="Asia/Tehran" date +"%Y-%m-%d %H:%M:%S")
             git commit -m "Update subscription & log files at $COMMIT_MESSAGE (Tehran Time)" -m "[skip ci]"
             git push
