@@ -1,0 +1,318 @@
+Channel: viproxys
+Timestamp: 2025-08-25T16:47:40.846767
+Reason for Failure: هیچ کانفیگ معتبری در پست‌های اخیر یافت نشد.
+
+==================================================
+ DUMP OF SCANNED MESSAGES (HTML) 
+==================================================
+
+
+--- Message 1 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ViProxys/8512" data-view="eyJjIjotMjI0ODYwMTY2OSwicCI6ODUxMiwidCI6MTc1NjE0MDQyMywiaCI6IjU5ZTBmYTUzZGJmYmNlZWFjMSJ9">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ViProxys">
+   <i class="tgme_widget_message_user_photo bgcolor6" data-content="پ">
+    <img src="https://cdn4.telesco.pe/file/voEPifxDYvN5HP-fiK8S6qkfmEhDVfZZp3WvMJbdgP5kebGBuRP8utV47CpoBoAu_gnExCrS-3YieEuKv3HIUpQ-HDPCfnscFd9YdJJQTp2JQ0pe8x7s2lDC5GDSaAOALEJyj8R-AH5zunO1SEtdSTsMmkP18cPpxBgCNNSK8LFc_aik8ehpBzQHwgwVLf_FEjMCL22vpw52macBRH9uOcVuFVYCEaF2Q0aTbC-yRrWEh3gE84XSYHpDnYZpXpoxBRvnNTrGu6L45zNiegVs_cuAHaynK6zftYIWKViC95-IiDSH1AxGHDKzcws7ysI4OGGIt4Jh04CHCHBPcTZnxA.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ViProxys">
+    <span dir="auto">
+     پروکسی تلگرام SVIP
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA1.png')">
+      <b>
+       🛡
+      </b>
+     </i>
+     کانفیگ Proxy
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA84.png')">
+      <b>
+       🪄
+      </b>
+     </i>
+     Config
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F928E.png')">
+      <b>
+       💎
+      </b>
+     </i>
+     Vmess
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A3.png')">
+      <b>
+       💣
+      </b>
+     </i>
+     Vless
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')">
+      <b>
+       🎁
+      </b>
+     </i>
+     V2ray
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')">
+    <b>
+     ⚙
+    </b>
+   </i>
+   لیـسـت ڪانـفـیگـ و پـروڪسی هـای جــدیــد
+   <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')">
+    <b>
+     ⚙
+    </b>
+   </i>
+   <br/>
+   <br/>
+   <pre> کانفیگ های پرسرعت<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i><br/>ss://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.229.214:443?security=tls&amp;sni=abc.vpneee.top&amp;type=ws&amp;host=abc.vpneee.top&amp;path=%2FYnqGMcAt%2F#@VIProxys<br/>vless://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@172.67.157.34:8880?security=none&amp;type=ws&amp;host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&amp;path=/Telegramchannel:@pandavpntc#@VIProxys<br/>ss://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@172.67.157.34:8880?security=none&amp;type=ws&amp;host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&amp;path=/Telegramchannel:@pandavpntc#@VIProxys<br/>vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.108:80?type=ws&amp;host=us.laoyoutiao.link&amp;path=TelegramрЯЗ<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2AE.png')"><b>®</b></i>рЯЗ≥#@VIProxys<br/>ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.108:80?type=ws&amp;host=us.laoyoutiao.link&amp;path=TelegramрЯЗ<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2AE.png')"><b>®</b></i>рЯЗ≥#@VIProxys<br/> </pre>
+   <br/>
+   <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')">
+    <b>
+     🌐
+    </b>
+   </i>
+   <a href="?q=%23%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85">
+    #اینستاگرام
+   </a>
+   <a href="?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA">
+    #اینترنت
+   </a>
+   <a href="?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE">
+    #ترامپ
+   </a>
+   <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')">
+    <b>
+     🌐
+    </b>
+   </i>
+   <br/>
+   <br/>
+   <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998FF09F8FBC.png')">
+    <b>
+     🙏🏼
+    </b>
+   </i>
+   چنل رو با دوستانتون به اشتراک بگذارید تا اونها هم از کانفیگ های رایگان بهرمند بشن
+   <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998FF09F8FBC.png')">
+    <b>
+     🙏🏼
+    </b>
+   </i>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     66
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ViProxys/8512">
+      <time class="time" datetime="2025-06-26T09:01:14+00:00">
+       09:01
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button" href="https://t.me/ViProxys/8512">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')">
+      <b>
+       👇
+      </b>
+     </i>
+     پروکسی برای تمام اپراتورها
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')">
+      <b>
+       👇
+      </b>
+     </i>
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=185.121.233.42&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D‌|‌[پروکسی" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')">
+      <b>
+       🟡
+      </b>
+     </i>
+     ایرانسل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')">
+      <b>
+       🟡
+      </b>
+     </i>
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=89.110.73.23&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')">
+      <b>
+       🟡
+      </b>
+     </i>
+     ایرانسل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')">
+      <b>
+       🟡
+      </b>
+     </i>
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=77.110.125.239&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D‌|‌[نت‌ملی" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')">
+      <b>
+       🔵
+      </b>
+     </i>
+     همراه اوّل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')">
+      <b>
+       🔵
+      </b>
+     </i>
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=62.60.176.10&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D‌|‌[نت‌ملی" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')">
+      <b>
+       🔵
+      </b>
+     </i>
+     همراه اوّل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')">
+      <b>
+       🔵
+      </b>
+     </i>
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=62.60.179.221&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D‌‌‌‌|‌[نت‌‌ملی" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')">
+      <b>
+       🟣
+      </b>
+     </i>
+     رایتل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')">
+      <b>
+       🟣
+      </b>
+     </i>
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=62.60.178.240&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D‌|‌[نت‌ملی" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')">
+      <b>
+       🟣
+      </b>
+     </i>
+     رایتل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')">
+      <b>
+       🟣
+      </b>
+     </i>
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=62.60.178.216&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')">
+      <b>
+       🔘
+      </b>
+     </i>
+     شاتل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')">
+      <b>
+       🔘
+      </b>
+     </i>
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=62.60.178.240&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')">
+      <b>
+       🔘
+      </b>
+     </i>
+     شاتل
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')">
+      <b>
+       🔘
+      </b>
+     </i>
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=212.34.134.99&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')">
+      <b>
+       🛜
+      </b>
+     </i>
+     وایفای
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')">
+      <b>
+       🛜
+      </b>
+     </i>
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=62.60.179.221&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')">
+      <b>
+       🛜
+      </b>
+     </i>
+     وایفای
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')">
+      <b>
+       🛜
+      </b>
+     </i>
+    </span>
+   </a>
+  </div>
+ </div>
+</div>

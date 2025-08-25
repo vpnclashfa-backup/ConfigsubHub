@@ -1,0 +1,1 @@
+trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&headerType=none&type=tcp&sni=sp1.shatak.store#%F0%9F%87%A9%F0%9F%87%AA%20Germany%3F%20Yes%20%F0%9F%8C%9A

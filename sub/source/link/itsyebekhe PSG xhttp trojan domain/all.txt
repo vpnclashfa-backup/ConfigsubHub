@@ -3,6 +3,7 @@ trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=/6vuNVgOF
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&headerType=none&type=tcp#🇸🇪
 trojan://22dxmxezsm@pouriya.cf:443?security=tls&sni=brec3xLN7Zl2.pouriya.cf&alpn=http/1.1,h2,h3&fp=chrome&type=grpc&serviceName=Amsterdam&mode=gun#❔
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&type=ws&headerType=none&path=%2Fhowdy&sni=de1.test3.net&host=de1.test3.net#🚩
+trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@bpb-worker-panel1-e4p.pages.dev:443?security=tls&type=ws&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=bpb-worker-panel1-e4p.pages.dev#❔
 trojan://40f256db-09d7-4b3a-83c6-a68cd45b3d34@uae.artunnel57.host:443?security=tls&type=tcp&sni=uae.artunnel57.host#❔
 trojan://4134219f-2384-449c-92e9-50fe8474c30a@mumbai-m2.4422331.xyz:10086?security=tls&type=tcp&headerType=none#❔
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#❔
@@ -13,7 +14,6 @@ trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.hi
 trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@us2.trojanvh.xyz:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&headerType=none&host=us2.trojanvh.xyz#❔
 trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?security=tls&headerType=none&type=tcp&sni=206.237.5.220#❔
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#🇩🇪
-trojan://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?security=tls&type=ws&sni=cfpage-39t.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=cfpage-39t.pages.dev#🚩
 trojan://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net:15229?type=tcp&security=tls&sni=e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net&allowInsecure=1#❔
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&type=ws&headerType=none&path=%2Fhowdy&sni=de1.test3.net&host=de1.test3.net#🚩
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@1.mg.us.cat77.cloud:1434?security=tls&sni=1.mg.us.cat77.cloud&type=tcp&headerType=none&host=1.mg.us.cat77.cloud#❔

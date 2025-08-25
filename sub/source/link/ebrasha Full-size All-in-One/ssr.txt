@@ -1,3 +1,4 @@
 ssr://107.151.182.253:8080:origin:rc4-md5:plain:MTRmRlByYmV6RTNIRFp6c01PcjY/?group=U1NSUHJvdmlkZXI&remarks=8J-HuvCfh7ggU1NSLee-juWbvS1ORuino-mUgeiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLTEwNy4xNTEuMTgyLjI1Mzo4MDgw&obfsparam=&protoparam=
+ssr://150.107.46.21:8083:origin:aes-256-cfb:tls1.2_ticket_auth:aUZxbnpTc2NO/?obfsparam=&remarks=8J%2BHrfCfh7BISy0xNTAuMTA3LjQ2LjIxLTUwMDc%3D&protoparam=
 ssr://79.127.233.170:989:origin:aes-256-cfb:plain:ZjhmN2FDemNQS2JzRjhwMw/?group=U1NSUHJvdmlkZXI&remarks=8J-HqPCfh6YgU1NSLeWKoOaLv-Wkpy03OS4xMjcuMjMzLjE3MDo5ODk&obfsparam=&protoparam=
-ssr://ssca.irundns.net:443:auth_aes128_md5:aes-128-cfb:http_post:JCRUdXJiMFZQTiQk/?obfsparam=&remarks=8J%2BHqPCfh6ZDQS00NS4xNTQuMjA0LjEzLTAzMDM%3D&protoparam=
+ssr://ssca.irundns.net:443:auth_aes128_md5:aes-128-cfb:http_post:JCRUdXJiMFZQTiQk/?obfsparam=&remarks=8J%2BHqPCfh6ZDQS00NS4xNTQuMjA0LjEzLTAyNzM%3D&protoparam=
