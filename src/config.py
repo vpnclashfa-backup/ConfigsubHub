@@ -33,7 +33,7 @@ REQUEST_TIMEOUT = 10
 
 # --- Telegram Scraper Configuration ---
 # حداکثر عمر پست‌ها برای بررسی (به روز)
-TELEGRAM_POST_MAX_AGE_DAYS = 3
+TELEGRAM_POST_MAX_AGE_DAYS = 7
 
 
 # --- File Naming Configuration ---
