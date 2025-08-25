@@ -2,9 +2,8 @@ import logging
 import re
 from datetime import datetime, timedelta, timezone
 from typing import List, Optional, Tuple
-from urllib.parse import urlparse, parse_qs
 
-import requests
+import aiohttp
 from bs4 import BeautifulSoup
 
 from .config import REQUEST_HEADERS, TELEGRAM_POST_MAX_AGE_DAYS
@@ -22,145 +21,77 @@ def normalize_channel_id(raw_id: str) -> Optional[str]:
     logging.warning(f"فرمت شناسه تلگرام نامعتبر است و نادیده گرفته شد: '{raw_id}'")
     return None
 
-def extract_potential_configs_from_message(message_div: BeautifulSoup) -> str:
-    """
-    متن را به صورت هوشمند از بخش‌های مختلف پست تلگرام استخراج می‌کند.
-    """
-    for br in message_div.find_all('br'):
-        br.replace_with('\n')
+def extract_configs_from_raw_html(html_content: str) -> List[str]:
+    """کانفیگ‌ها را با استفاده از Regex مستقیماً از کل محتوای HTML استخراج می‌کند."""
+    pattern = re.compile(r'(vless|vmess|ss|ssr|trojan|hy2|hysteria2|tuic)://[^\s\'"<]+')
+    return pattern.findall(html_content)
 
-    potential_texts = []
-    # استخراج لینک‌های پراکسی تلگرام از تگ‌های <a>
-    for a_tag in message_div.find_all('a', href=True):
-        if 't.me/proxy?' in a_tag['href']:
-            potential_texts.append(a_tag['href'])
-
-    for tag in message_div.find_all(['code', 'pre']):
-        potential_texts.append(tag.get_text())
-
-    potential_texts.append(message_div.get_text())
-    return "\n".join(potential_texts)
-
-def convert_telegram_proxy_to_mtproto(proxy_url: str) -> Optional[str]:
+async def scrape_channel(session: aiohttp.ClientSession, channel_id: str) -> Tuple[List[str], bool]:
     """
-    لینک پراکسی تلگرام را به فرمت استاندارد mtproto:// تبدیل می‌کند.
-    """
-    try:
-        parsed_url = urlparse(proxy_url)
-        params = parse_qs(parsed_url.query)
-        
-        server = params.get('server', [None])[0]
-        port = params.get('port', [None])[0]
-        secret = params.get('secret', [None])[0]
-        
-        if server and port and secret:
-            # secret در پراکسی‌های تلگرام معمولاً از نوع d41d... است
-            # اما برخی ممکن است dd... (مخصوص MTProxy) داشته باشند.
-            # برای سازگاری بهتر، اگر secret طولانی و هگزادسیمال است، dd را اضافه می‌کنیم.
-            if len(secret) == 32 and all(c in '0123456789abcdefABCDEF' for c in secret):
-                secret = 'dd' + secret
-            
-            return f"mtproto://{secret}@{server}:{port}"
-    except Exception as e:
-        logging.debug(f"خطا در تبدیل لینک پراکسی تلگرام: {proxy_url} - {e}")
-    return None
-
-def find_and_split_configs(text: str) -> List[str]:
-    """
-    کانفیگ‌های استاندارد و پراکسی‌های تلگرام را پیدا و استخراج می‌کند.
-    """
-    # 1. استخراج پراکسی‌های تلگرام و تبدیل آن‌ها
-    tg_proxy_pattern = re.compile(r'https:\/\/t\.me\/proxy\?[^\s]+')
-    mtproto_configs = []
-    for match in tg_proxy_pattern.finditer(text):
-        proxy_url = match.group(0)
-        mtproto_link = convert_telegram_proxy_to_mtproto(proxy_url)
-        if mtproto_link:
-            mtproto_configs.append(mtproto_link)
-
-    # 2. استخراج کانفیگ‌های استاندارد (vless, vmess, ...)
-    standard_pattern = re.compile(r'(vless|vmess|trojan|ss|ssr|tuic|hy2|hysteria2|hysteria|snell|anytls|mieru|juicity|ssh|wireguard|warp|socks4|socks5|http|https):\/\/')
-    standard_configs = []
-    indices = [m.start() for m in standard_pattern.finditer(text)]
-    if indices:
-        for i in range(len(indices)):
-            start_pos = indices[i]
-            end_pos = indices[i + 1] if i + 1 < len(indices) else len(text)
-            config_str = text[start_pos:end_pos].strip()
-            standard_configs.append(config_str)
-            
-    # 3. ترکیب نتایج و اطمینان از اعتبار آن‌ها
-    all_potential_configs = mtproto_configs + standard_configs
-    return parse_nodes("\n".join(all_potential_configs))
-
-def scrape_channel(channel_id: str) -> Tuple[List[str], bool]:
-    """
-    پست‌های یک کانال تلگرام را اسکرپ کرده و کانفیگ‌های معتبر را استخراج می‌کند.
+    پست‌های یک کانال تلگرام را به صورت آسنکرون اسکرپ کرده و کانفیگ‌ها را استخراج می‌کند.
     """
     url = f"https://t.me/s/{channel_id}"
     logging.info(f"===== شروع عملیات اسکرپ برای کانال: {channel_id} ({url}) =====")
 
     try:
-        response = requests.get(url, headers=REQUEST_HEADERS, timeout=15)
-        response.raise_for_status()
-    except requests.exceptions.HTTPError as e:
-        if e.response.status_code == 404:
-            logging.error(f"کانال '{channel_id}' یافت نشد (خطای 404). این کانال از لیست حذف خواهد شد.")
-            return [], False
-        logging.error(f"خطای HTTP در دسترسی به کانال {channel_id}: {e}")
-        return [], True
-    except requests.RequestException as e:
-        logging.error(f"خطا در دریافت اطلاعات از کانال {channel_id}. عملیات برای این کانال متوقف شد. جزئیات: {e}")
+        async with session.get(url, headers=REQUEST_HEADERS, timeout=20) as response:
+            if response.status == 404:
+                logging.error(f"کانال '{channel_id}' یافت نشد (404). این کانال از لیست حذف خواهد شد.")
+                return [], False
+            
+            response.raise_for_status()
+            html_content = await response.text()
+
+    except aiohttp.ClientError as e:
+        logging.error(f"خطای شبکه در دسترسی به کانال {channel_id}: {e}")
+        return [], True # ممکن است مشکل موقتی باشد، کانال را حذف نکن
+    except Exception as e:
+        logging.error(f"یک خطای پیش‌بینی نشده هنگام اسکرپ کانال {channel_id} رخ داد: {e}")
         return [], True
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    messages = soup.find_all('div', class_='tgme_widget_message_text')
-    
-    if not messages:
-        logging.warning(f"هیچ پستی در صفحه کانال '{channel_id}' یافت نشد. ممکن است کانال خصوصی باشد یا پستی نداشته باشد.")
-        return [], True
 
     all_configs = set()
+    
+    # استخراج مستقیم از HTML خام
+    logging.info(f"روش استخراج برای '{channel_id}': جستجوی مستقیم کانفیگ‌ها در کل محتوای HTML...")
+    direct_configs = extract_configs_from_raw_html(html_content)
+    if direct_configs:
+        logging.info(f"{len(direct_configs)} کانفیگ احتمالی با جستجوی مستقیم در '{channel_id}' یافت شد.")
+        all_configs.update(direct_configs)
+
+    # فیلتر زمانی پست‌ها (این بخش همچنان مفید است تا کانفیگ‌های خیلی قدیمی را استخراج نکنیم)
+    soup = BeautifulSoup(html_content, 'html.parser')
+    messages = soup.find_all('div', class_='tgme_widget_message_text')
+    
+    if not messages and not direct_configs:
+        logging.warning(f"هشدار: هیچ پستی یا کانفیگی در صفحه '{channel_id}' یافت نشد.")
+        return [], True
+
     cutoff_date = datetime.now(timezone.utc) - timedelta(days=TELEGRAM_POST_MAX_AGE_DAYS)
-    post_counter = 0
-
-    for message in messages:
-        post_counter += 1
-        post_link_tag = message.find_parent('div', class_='tgme_widget_message').find('a', class_='tgme_widget_message_date')
-        post_link = post_link_tag['href'] if post_link_tag else "نا مشخص"
+    
+    valid_html_configs = set()
+    for config in direct_configs:
+        # یک بررسی ساده برای اینکه بفهمیم کانفیگ در کدام بخش صفحه بوده
+        # اگر در هیچ پستی نبود، فرض می‌کنیم معتبر است
+        # اگر در پستی بود، تاریخ آن را چک می‌کنیم
+        is_in_recent_post = False
+        for message in messages:
+            if config in message.get_text():
+                time_tag = message.find_parent('div', class_='tgme_widget_message').find('time', class_='time')
+                if time_tag and time_tag.has_attr('datetime'):
+                    try:
+                        post_date = datetime.fromisoformat(time_tag['datetime'])
+                        if post_date >= cutoff_date:
+                            is_in_recent_post = True
+                            break
+                    except ValueError:
+                        pass
         
-        logging.info(f"--- بررسی پست شماره {post_counter} از کانال '{channel_id}' ({post_link}) ---")
+        # اگر کانفیگ در هیچ پستی یافت نشد یا در پست جدیدی بود، آن را نگه دار
+        if is_in_recent_post or not messages:
+             valid_html_configs.add(config)
 
-        time_tag = message.find_parent('div', class_='tgme_widget_message').find('time', class_='time')
-        if not time_tag or not time_tag.has_attr('datetime'):
-            logging.warning("تگ زمان برای این پست یافت نشد. از این پست صرف‌نظر می‌شود.")
-            continue
-        
-        try:
-            post_date = datetime.fromisoformat(time_tag['datetime'])
-        except ValueError:
-            logging.warning(f"فرمت تاریخ پست نامعتبر است: '{time_tag['datetime']}'. از این پست صرف‌نظر می‌شود.")
-            continue
+    final_valid_configs = parse_nodes("\n".join(valid_html_configs))
 
-        if post_date < cutoff_date:
-            logging.info(f"پست قدیمی است (تاریخ: {post_date.strftime('%Y-%m-%d')}). عملیات اسکرپ برای کانال '{channel_id}' به پایان رسید.")
-            break
-        
-        logging.info("استخراج هوشمند متن و لینک‌های پراکسی...")
-        post_text = extract_potential_configs_from_message(message)
-        if not post_text.strip():
-            logging.info("این پست فاقد متن قابل استخراج است.")
-            continue
-
-        logging.debug(f"متن ترکیبی برای پردازش: \n---\n{post_text[:500].strip()}...\n---")
-        configs_in_post = find_and_split_configs(post_text)
-        
-        if configs_in_post:
-            newly_added_count = len(set(configs_in_post) - all_configs)
-            all_configs.update(configs_in_post)
-            logging.info(f"نتیجه: {len(configs_in_post)} کانفیگ در این پست پیدا شد. ({newly_added_count} کانفیگ جدید به لیست اضافه شد).")
-        else:
-            logging.info("نتیجه: هیچ کانفیگ معتبری در این پست یافت نشد.")
-            
-    logging.info(f"===== پایان عملیات اسکرپ برای کانال {channel_id}. مجموعاً {len(all_configs)} کانفیگ منحصر به فرد یافت شد. =====")
-    return list(all_configs), True
+    logging.info(f"===== پایان عملیات برای کانال {channel_id}. مجموعاً {len(final_valid_configs)} کانفیگ منحصر به فرد و معتبر یافت شد. =====")
+    return final_valid_configs, True
