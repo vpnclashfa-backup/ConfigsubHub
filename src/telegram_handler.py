@@ -61,14 +61,10 @@ async def scrape_channel(playwright: Playwright, browser: Browser, channel_id: s
     context = None
     page = None
     try:
-        # شبیه‌سازی کامل یک مرورگر دسکتاپ کروم برای کاهش احتمال شناسایی شدن
         context = await browser.new_context(**playwright.devices['Desktop Chrome'])
         page = await context.new_page()
         
-        # افزایش زمان انتظار کلی برای بارگذاری صفحه به ۶۰ ثانیه
         await page.goto(url, timeout=60000)
-        
-        # افزایش زمان انتظار برای ظاهر شدن اولین پست به ۳۰ ثانیه
         await page.wait_for_selector('div.tgme_widget_message', timeout=30000)
 
         html_content = await page.content()
@@ -105,6 +101,9 @@ async def scrape_channel(playwright: Playwright, browser: Browser, channel_id: s
     cutoff_date = datetime.now(timezone.utc) - timedelta(days=TELEGRAM_POST_MAX_AGE_DAYS)
     
     for container in message_containers:
+        # **اصلاح کلیدی:** پست را به لیست اسکن شده اضافه می‌کنیم *قبل* از بررسی تاریخ.
+        scanned_messages.append(container)
+
         time_tag = container.find('time', class_='time')
         if not time_tag or not time_tag.has_attr('datetime'):
             continue
@@ -113,8 +112,6 @@ async def scrape_channel(playwright: Playwright, browser: Browser, channel_id: s
             if post_date < cutoff_date:
                 logging.info(f"رسیدن به پست‌های قدیمی در '{channel_id}'.")
                 break
-            
-            scanned_messages.append(container)
             
             message_text_div = container.find('div', class_='tgme_widget_message_text')
             if message_text_div:
