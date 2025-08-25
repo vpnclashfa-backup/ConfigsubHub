@@ -1,0 +1,2 @@
+hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#@v2Source
+hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#@v2Source
