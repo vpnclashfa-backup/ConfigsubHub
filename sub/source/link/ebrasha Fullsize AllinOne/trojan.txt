@@ -70,7 +70,6 @@ trojan://5hDQ[npDVtgymy(|@bia-pain-2025.xvpn294.workers.dev:443?security=tls&alp
 trojan://5hDQ[npDVtgymy(|@www.speedtest.net:443?security=tls&alpn=http/1.1&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ] 🔒
 trojan://6008b0f0-4213-11f0-aad2-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535 # [ By EbraSha ] 🔒
-trojan://637308bc-fd52-343d-b573-7693835b8e20@35.88.22.65:443?allowInsecure=1 # [ By EbraSha ] 🔒
 trojan://6417fbb0-489f-11f0-bb34-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@129.154.208.219:21005?security=tls # [ By EbraSha ] 🔒
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
@@ -127,6 +126,7 @@ trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&header
 trojan://Aimer@103.116.7.133:2083?proxyip=ts.hpc.tw&security=tls&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 trojan://Aimer@172.67.77.127:443?security=tls&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 trojan://Aimer@188.164.159.43:2083?security=tls&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
+trojan://Aimer@198.62.62.192:2083?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 trojan://Aimer@92.243.74.3:8443?allowInsecure=0 # [ By EbraSha ] 🔒
 trojan://AtWUwHdN9n@79.137.195.203:80?security=none&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 trojan://AtWUwHdN9n@www.speedtest.net:80?security=none&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
@@ -189,6 +189,7 @@ trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://ababcca-caab-bcaa-dabc-cacbcababacb@127.0.0.1:8080?security=tls&type=tcp # [ By EbraSha ] 🔒
 trojan://abbccaa-baca-acba-bdac-bccabcabcbaa@127.0.0.1:1080?security=tls&type=tcp # [ By EbraSha ] 🔒
 trojan://abcabca-acba-acba-cadb-bcabacacbbca@127.0.0.1:1080?security=tls&type=tcp # [ By EbraSha ] 🔒
+trojan://acbcaab-aabc-aabc-bcad-bcccaabbcaab@127.0.0.1:1080?security=tls&type=tcp # [ By EbraSha ] 🔒
 trojan://amclubs@103.160.204.1:443?security=tls&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 trojan://auto@104.20.18.34:443?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 trojan://auto@104.20.19.125:443?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
@@ -230,9 +231,9 @@ trojan://bpb-trojan@104.27.205.63:443 # [ By EbraSha ] 🔒
 trojan://bpb-trojan@162.159.152.227:443?security=tls&allowInsecure=1&type=tcp # [ By EbraSha ] 🔒
 trojan://bpb-trojan@172.66.44.128:443 # [ By EbraSha ] 🔒
 trojan://bpb-trojan@172.66.47.128:443 # [ By EbraSha ] 🔒
-trojan://bpb-trojan@172.66.47.155:443?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 trojan://bpb-trojan@172.66.47.53:443?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 trojan://bpb-trojan@172.67.180.238:443?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
+trojan://bpb-trojan@172.67.75.172:443?allowInsecure=0&ws=1&ws # [ By EbraSha ] 🔒
 trojan://bpb-trojan@188.114.96.245:443 # [ By EbraSha ] 🔒
 trojan://bpb-trojan@188.114.97.88:2053?allowInsecure=0&ws=1&ws # [ By EbraSha ] 🔒
 trojan://bpb-trojan@188.114.98.138:2053?security=tls&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
@@ -317,6 +318,7 @@ trojan://telegram-id-privatevpns@13.37.45.46:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.37.54.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&alpn=http/1.1&type=tcp # [ By EbraSha ] 🔒
+trojan://telegram-id-privatevpns@13.48.11.13:22222?security=tls&type=tcp&alpn=http/1.1 # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@15.188.132.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@15.188.19.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@15.236.155.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
@@ -350,6 +352,7 @@ trojan://telegram-id-privatevpns@51.44.105.95:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.44.110.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@51.44.193.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@51.44.89.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
+trojan://telegram-id-privatevpns@52.212.133.245:22222?allowInsecure=0 # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@52.47.201.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@52.47.53.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@52.47.65.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
