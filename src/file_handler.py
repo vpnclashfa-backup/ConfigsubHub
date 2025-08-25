@@ -1,29 +1,28 @@
-import os
 import logging
+import os
+import re
 import base64
-from typing import List, Dict
+from typing import List, Tuple, Dict
 
 import aiofiles
 
-# وارد کردن تنظیمات از config.py
 from .config import (
-    SOURCE_NORMAL_FILE, OUTPUT_DIR, MIX_DIR, MIX_BASE64_DIR, SOURCE_SPECIFIC_DIR,
-    SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR, # وارد کردن مسیرهای جدید
-    # وارد کردن همه نام‌های فایل میکس برای استفاده در توابع ذخیره‌سازی
-    MIX_ALL_FILE_NAME, MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME, 
-    MIX_HTTPS_PROXY_FILE_NAME, MIX_HYSTERIA_FILE_NAME, MIX_HY2_FILE_NAME,
-    MIX_JUICITY_FILE_NAME, MIX_MIERU_FILE_NAME, MIX_MTPROTO_FILE_NAME,
-    MIX_SNELL_FILE_NAME, MIX_SOCKS4_FILE_NAME, MIX_SOCKS5_FILE_NAME,
-    MIX_SS_FILE_NAME, MIX_SSR_FILE_NAME, MIX_SSH_FILE_NAME, MIX_TROJAN_FILE_NAME,
+    SOURCE_NORMAL_FILE, MIX_DIR, SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR,
+    MIX_ALL_FILE_NAME, MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME,
+    MIX_HYSTERIA_FILE_NAME, MIX_HY2_FILE_NAME, MIX_JUICITY_FILE_NAME,
+    MIX_MIERU_FILE_NAME, MIX_MTPROTO_FILE_NAME, MIX_SNELL_FILE_NAME,
+    MIX_SOCKS4_FILE_NAME, MIX_SOCKS5_FILE_NAME, MIX_SS_FILE_NAME,
+    MIX_SSR_FILE_NAME, MIX_SSH_FILE_NAME, MIX_TROJAN_FILE_NAME,
     MIX_TUIC_FILE_NAME, MIX_VLESS_FILE_NAME, MIX_VMESS_FILE_NAME,
     MIX_WARP_FILE_NAME, MIX_WIREGUARD_FILE_NAME
 )
 
-# مپ کردن نوع پروتکل به نام فایل مربوطه
-PROTOCOL_TO_FILENAME_MAP = {
+# A mapping from protocol name to the desired output file name.
+# This helps keep the file saving logic clean and configurable.
+PROTOCOL_TO_FILENAME = {
+    "all": MIX_ALL_FILE_NAME,
     "anytls": MIX_ANYTLS_FILE_NAME,
-    "http": MIX_HTTP_PROXY_FILE_NAME,
-    "https": MIX_HTTPS_PROXY_FILE_NAME,
+    "http": MIX_HTTP_PROXY_FILE_NAME, # Handles both http and https
     "hysteria": MIX_HYSTERIA_FILE_NAME,
     "hy2": MIX_HY2_FILE_NAME,
     "juicity": MIX_JUICITY_FILE_NAME,
@@ -43,98 +42,89 @@ PROTOCOL_TO_FILENAME_MAP = {
     "wireguard": MIX_WIREGUARD_FILE_NAME,
 }
 
-
 def setup_directories():
-    """
-    پوشه‌های خروجی مورد نیاز را در صورت عدم وجود ایجاد می‌کند.
-    """
-    os.makedirs(MIX_DIR, exist_ok=True)
-    os.makedirs(MIX_BASE64_DIR, exist_ok=True)
-    os.makedirs(SOURCE_SPECIFIC_DIR, exist_ok=True)
-    # ایجاد زیرپوشه‌های جدید
-    os.makedirs(SOURCE_LINK_DIR, exist_ok=True)
-    os.makedirs(SOURCE_TELEGRAM_DIR, exist_ok=True)
+    """پوشه‌های خروجی مورد نیاز را ایجاد می‌کند."""
+    # Create all necessary directories in one go
+    dirs_to_create = [
+        os.path.dirname(MIX_DIR), # e.g., 'sub'
+        MIX_DIR, 
+        os.path.join(MIX_DIR, "base64"),
+        SOURCE_LINK_DIR,
+        SOURCE_TELEGRAM_DIR
+    ]
+    for directory in dirs_to_create:
+        os.makedirs(directory, exist_ok=True)
+    logging.info("تمام پوشه‌های خروجی با موفقیت بررسی و ایجاد شدند.")
 
-
-def read_source_links() -> List[tuple[str, str]]:
-    """
-    لینک‌ها را از فایل منبع می‌خواند.
-    هر خط باید به فرمت 'link|name' باشد.
-    
-    Returns:
-        لیستی از تاپل‌ها که هر کدام شامل (نام، لینک) است.
-    """
+def read_source_links() -> List[Tuple[str, str]]:
+    """لینک‌های اشتراک را از فایل منبع می‌خواند و برای هرکدام یک نام منحصر به فرد ایجاد می‌کند."""
     links = []
     try:
         with open(SOURCE_NORMAL_FILE, 'r', encoding='utf-8') as f:
-            for line in f:
+            for i, line in enumerate(f, 1):
                 line = line.strip()
-                if not line or '|' not in line:
-                    continue
-                parts = line.split('|', 1)
-                link = parts[0].strip()
-                name = parts[1].strip()
-                if link and name:
-                    links.append((name, link))
+                if line and not line.startswith('#'):
+                    # Create a unique name for each link, e.g., "link_001"
+                    name = f"link_{i:03d}"
+                    links.append((name, line))
     except FileNotFoundError:
-        logging.error(f"فایل منبع یافت نشد: {SOURCE_NORMAL_FILE}")
-        # یک فایل خالی ایجاد می‌کنیم تا در اجرای بعدی برنامه وجود داشته باشد
+        logging.info(f"فایل منبع لینک‌ها یافت نشد: {SOURCE_NORMAL_FILE}. یک فایل خالی ایجاد می‌شود.")
+        # Create the file and its directory if they don't exist.
+        os.makedirs(os.path.dirname(SOURCE_NORMAL_FILE), exist_ok=True)
         open(SOURCE_NORMAL_FILE, 'w').close()
     return links
 
-async def _save_file_and_base64(directory: str, filename: str, content: str):
-    """
-    یک فایل با محتوای مشخص و نسخه Base64 آن را ذخیره می‌کند.
-    """
-    if not content:
-        return
+async def save_file(path: str, content: str):
+    """محتوا را به صورت آسنکرون در یک فایل ذخیره می‌کند."""
+    try:
+        async with aiofiles.open(path, 'w', encoding='utf-8') as f:
+            await f.write(content)
+        logging.debug(f"فایل با موفقیت در مسیر {path} ذخیره شد.")
+    except IOError as e:
+        logging.error(f"خطا در نوشتن فایل {path}: {e}")
 
-    # ذخیره فایل عادی
-    file_path = os.path.join(directory, filename)
-    async with aiofiles.open(file_path, 'w', encoding='utf-8') as f:
-        await f.write(content)
+async def _save_categorized_nodes(base_dir: str, categorized_nodes: Dict[str, List[str]], save_base64: bool):
+    """تابع کمکی برای ذخیره نودهای دسته‌بندی شده در یک پوشه مشخص."""
+    all_nodes = []
+    for nodes in categorized_nodes.values():
+        all_nodes.extend(nodes)
+    
+    # اضافه کردن دسته "all" که شامل تمام نودهاست
+    if all_nodes:
+        categorized_nodes["all"] = sorted(all_nodes)
 
-    # ذخیره نسخه Base64
-    base64_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-    base64_dir = os.path.join(directory, "base64")
-    os.makedirs(base64_dir, exist_ok=True)
-    base64_file_path = os.path.join(base64_dir, filename)
-    async with aiofiles.open(base64_file_path, 'w', encoding='utf-8') as f:
-        await f.write(base64_content)
+    for protocol, nodes in categorized_nodes.items():
+        filename = PROTOCOL_TO_FILENAME.get(protocol)
+        if not filename or not nodes:
+            continue
+
+        content = "\n".join(nodes)
+        
+        # ذخیره فایل عادی
+        normal_path = os.path.join(base_dir, filename)
+        await save_file(normal_path, content)
+        
+        if save_base64:
+            base64_dir = os.path.join(base_dir, "base64")
+            # The directory is already created by setup_directories
+            base64_path = os.path.join(base64_dir, filename)
+            encoded_content = base64.b64encode(content.encode('utf-8')).decode('ascii')
+            await save_file(base64_path, encoded_content)
 
 async def save_mixed_files(categorized_nodes: Dict[str, List[str]]):
-    """
-    فایل‌های میکس (ترکیبی) را برای همه پروتکل‌ها ذخیره می‌کند.
-    """
-    all_nodes_content = "\n".join(
-        node for nodes in categorized_nodes.values() for node in nodes
-    )
-    await _save_file_and_base64(MIX_DIR, MIX_ALL_FILE_NAME, all_nodes_content)
-
-    for protocol, nodes in categorized_nodes.items():
-        filename = PROTOCOL_TO_FILENAME_MAP.get(protocol)
-        if filename:
-            content = "\n".join(nodes)
-            await _save_file_and_base64(MIX_DIR, filename, content)
-    logging.info("ذخیره فایل‌های میکس (عادی و Base64) تکمیل شد.")
-
+    """فایل‌های میکس (معمولی و Base64) را بر اساس دسته‌بندی ذخیره می‌کند."""
+    logging.info(f"در حال ذخیره‌سازی فایل‌های میکس در پوشه: {MIX_DIR}")
+    await _save_categorized_nodes(MIX_DIR, categorized_nodes, save_base64=True)
 
 async def save_source_files(base_dir: str, source_name: str, categorized_nodes: Dict[str, List[str]]):
-    """
-    فایل‌های مجزا برای یک منبع خاص را در مسیر پایه مشخص شده ذخیره می‌کند.
-    """
-    safe_source_name = "".join(c for c in source_name if c.isalnum() or c in (' ', '_')).rstrip()
-    source_dir = os.path.join(base_dir, safe_source_name)
-    os.makedirs(source_dir, exist_ok=True)
+    """فایل‌های خروجی را برای یک منبع خاص (لینک یا کانال تلگرام) ذخیره می‌کند."""
+    # پاک‌سازی نام منبع برای استفاده به عنوان نام پوشه
+    safe_source_name = re.sub(r'[^\w\d\-_\. ]', '_', source_name).strip()
+    if not safe_source_name:
+        safe_source_name = "unnamed_source"
+        
+    source_output_dir = os.path.join(base_dir, safe_source_name)
+    os.makedirs(source_output_dir, exist_ok=True)
     
-    all_nodes_content = "\n".join(
-        node for nodes in categorized_nodes.values() for node in nodes
-    )
-    await _save_file_and_base64(source_dir, MIX_ALL_FILE_NAME, all_nodes_content)
-    
-    for protocol, nodes in categorized_nodes.items():
-        filename = PROTOCOL_TO_FILENAME_MAP.get(protocol)
-        if filename:
-            content = "\n".join(nodes)
-            await _save_file_and_base64(source_dir, filename, content)
-    logging.info(f"ذخیره فایل‌های مجزا برای منبع '{source_name}' در مسیر '{base_dir}' تکمیل شد.")
+    logging.info(f"در حال ذخیره‌سازی فایل‌های منبع '{source_name}' در پوشه: {source_output_dir}")
+    await _save_categorized_nodes(source_output_dir, categorized_nodes, save_base64=False)
