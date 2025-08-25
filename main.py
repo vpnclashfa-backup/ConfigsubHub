@@ -1,5 +1,6 @@
 import asyncio
 import logging
+import os
 from typing import Set
 
 import aiohttp
@@ -100,6 +101,9 @@ async def main():
     logging.info("عملیات با موفقیت به پایان رسید.")
 
 if __name__ == "__main__":
-    # For Windows, to avoid "Event loop is closed" RuntimeError on Ctrl+C
-    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    # For Windows, to avoid "Event loop is closed" RuntimeError on Ctrl+C.
+    # This policy is only available and needed on Windows.
+    if os.name == 'nt':
+        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    
     asyncio.run(main())
