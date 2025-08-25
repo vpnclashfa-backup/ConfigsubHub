@@ -4,6 +4,7 @@ import os
 from typing import Set
 
 import aiohttp
+from playwright.async_api import async_playwright, Browser
 
 # ماژول‌های پروژه
 from src.config import setup_logging, SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR
@@ -17,7 +18,7 @@ from src.parser import decode_content, parse_nodes, categorize_nodes
 from src.telegram_handler import scrape_channel
 
 async def process_subscription_links(session: aiohttp.ClientSession, all_nodes_set: Set[str]):
-    """لینک‌های اشتراک معمولی را پردازش کرده و نتایج را ذخیره می‌کند."""
+    """لینک‌های اشتراک معمولی را با aiohttp پردازش می‌کند."""
     links = read_source_links()
     if not links:
         logging.info("هیچ لینک اشتراک معمولی برای پردازش یافت نشد.")
@@ -44,16 +45,16 @@ async def process_subscription_links(session: aiohttp.ClientSession, all_nodes_s
         await save_source_files(SOURCE_LINK_DIR, name, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
 
-async def process_telegram_channels(session: aiohttp.ClientSession, all_nodes_set: Set[str]):
-    """کانال‌های تلگرام را به صورت موازی پردازش کرده و نتایج را ذخیره می‌کند."""
+async def process_telegram_channels(browser: Browser, all_nodes_set: Set[str]):
+    """کانال‌های تلگرام را با Playwright به صورت موازی پردازش می‌کند."""
     channel_ids = read_telegram_channels()
     if not channel_ids:
         logging.info("هیچ کانال تلگرامی برای پردازش یافت نشد.")
         return
 
-    logging.info(f"تعداد {len(channel_ids)} کانال تلگرام برای پردازش یافت شد. شروع اسکرپ موازی...")
+    logging.info(f"تعداد {len(channel_ids)} کانال تلگرام برای پردازش یافت شد. شروع اسکرپ موازی با Playwright...")
     
-    tasks = [scrape_channel(session, channel_id) for channel_id in channel_ids]
+    tasks = [scrape_channel(browser, channel_id) for channel_id in channel_ids]
     results = await asyncio.gather(*tasks)
     
     valid_channels = []
@@ -62,31 +63,37 @@ async def process_telegram_channels(session: aiohttp.ClientSession, all_nodes_se
             valid_channels.append(channel_id)
         
         if not source_nodes:
-            # لاگ مربوطه در خود تابع scrape_channel ثبت شده است
             continue
             
         categorized_source_nodes = categorize_nodes(source_nodes)
         await save_source_files(SOURCE_TELEGRAM_DIR, channel_id, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
     
-    # فایل منبع تلگرام را فقط با کانال‌های معتبر به‌روزرسانی می‌کنیم
     update_telegram_source_file(valid_channels)
 
 async def main():
     """نقطه شروع و تابع اصلی اجرای برنامه."""
     setup_logging()
     
-    # 1. آماده‌سازی محیط
     clean_output_directory()
     setup_directories()
     logging.info("برنامه شروع به کار کرد. پوشه‌های خروجی آماده شدند.")
     
     all_nodes_set: Set[str] = set()
     
-    # 2. پردازش منابع به صورت موازی
-    async with aiohttp.ClientSession() as session:
-        await process_subscription_links(session, all_nodes_set)
-        await process_telegram_channels(session, all_nodes_set)
+    async with async_playwright() as p:
+        # مرورگر را یک بار راه‌اندازی می‌کنیم
+        browser = await p.chromium.launch()
+        try:
+            # 1. پردازش لینک‌های اشتراک با aiohttp
+            async with aiohttp.ClientSession() as session:
+                await process_subscription_links(session, all_nodes_set)
+
+            # 2. پردازش کانال‌های تلگرام با Playwright
+            await process_telegram_channels(browser, all_nodes_set)
+        finally:
+            # اطمینان از بسته شدن مرورگر در هر حالتی
+            await browser.close()
 
     # 3. تجمیع و ذخیره نتایج نهایی
     if all_nodes_set:
@@ -101,8 +108,6 @@ async def main():
     logging.info("عملیات با موفقیت به پایان رسید.")
 
 if __name__ == "__main__":
-    # For Windows, to avoid "Event loop is closed" RuntimeError on Ctrl+C.
-    # This policy is only available and needed on Windows.
     if os.name == 'nt':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     
