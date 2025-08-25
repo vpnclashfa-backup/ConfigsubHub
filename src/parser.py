@@ -35,34 +35,41 @@ def decode_content(content: str) -> str:
 
 def parse_nodes(decoded_content: str) -> List[str]:
     """
-    تمام لینک‌های کانفیگ معتبر را از محتوای متنی استخراج می‌کند، با تمرکز بر IP:PORT برای HTTP/HTTPS.
+    تمام لینک‌های کانفیگ معتبر را از محتوای متنی استخراج می‌کند.
+    برای HTTP/HTTPS، فقط فرمت protocol://IP:PORT را می‌پذیرد.
     """
     nodes: Set[str] = set()
 
-    # الگوی IP:PORT
-    ip_port_pattern = r'\b(\d{1,3}(?:\.\d{1,3}){3}:\d{1,5})\b'
-    
-    # پیدا کردن تمام IP:PORT ها و ساخت لینک‌های http/https
-    for proxy in re.findall(ip_port_pattern, decoded_content):
-        nodes.add(f"http://{proxy}")
-        nodes.add(f"https://{proxy}")
-
-    # الگوی کلی برای سایر پروتکل‌ها
-    other_protocol_pattern = re.compile(
-        r'(?i)\b((?:vless|vmess|trojan|ss|ssr|tuic|hy2|hysteria2|hysteria|snell|anytls|mieru|juicity|ssh|wireguard|warp|socks4|socks5|mtproto)://[^\s<>"\'\\]+)',
+    # 1. الگوی دقیق برای HTTP/HTTPS Proxies با فرمت IP:PORT
+    # https? matches http or https. The rest matches a valid IPv4 and port.
+    http_proxy_pattern = re.compile(
+        r'\b(https?://\d{1,3}(?:\.\d{1,3}){3}:\d{1,5})\b',
+        re.IGNORECASE
     )
-    nodes.update(re.findall(other_protocol_pattern, decoded_content))
+    nodes.update(http_proxy_pattern.findall(decoded_content))
+
+    # 2. الگوی کلی برای سایر پروتکل‌ها
+    other_protocols = [
+        "vless", "vmess", "trojan", "ss", "ssr", "tuic", "hy2", "hysteria2",
+        "hysteria", "snell", "anytls", "mieru", "juicity", "ssh",
+        "wireguard", "warp", "socks4", "socks5", "mtproto"
+    ]
+    other_protocol_pattern = re.compile(
+        r'(?i)\b((?:' + '|'.join(other_protocols) + r')://[^\s<>"\'\\]+)'
+    )
+    nodes.update(other_protocol_pattern.findall(decoded_content))
 
     return sorted(list(nodes))
 
 def categorize_nodes(nodes: List[str]) -> Dict[str, List[str]]:
     """
-    لیستی از نودها را بر اساس پروتکل آن‌ها دسته‌بندی می‌کند.
+    لیستی از نودها را بر اساس پروتکل آن‌ها دسته‌بندی می‌کند (HTTP و HTTPS جدا هستند).
     """
     categorized: Dict[str, List[str]] = {}
     
     protocol_aliases = {
-        "hysteria2": "hy2"
+        "hysteria2": "hy2",
+        # No aliasing for http/https, they will be categorized separately
     }
     
     for node in nodes:
@@ -77,14 +84,4 @@ def categorize_nodes(nodes: List[str]) -> Dict[str, List[str]]:
             logging.warning(f"نود با فرمت نامعتبر نادیده گرفته شد: {node}")
             continue
             
-    # Split http into http and https based on the scheme
-    http_nodes = categorized.pop("http", [])
-    http_proxies = [node for node in http_nodes if node.startswith("http://")]
-    https_proxies = [node for node in http_nodes if node.startswith("https://")]
-
-    if http_proxies:
-        categorized["http"] = http_proxies
-    if https_proxies:
-        categorized["https"] = https_proxies
-
     return categorized
