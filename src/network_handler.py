@@ -41,21 +41,21 @@ async def fetch_sub(session: aiohttp.ClientSession, name: str, url: str) -> Tupl
         return name, ""
 
 
-async def fetch_all_subs(links: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
+async def fetch_all_subs(session: aiohttp.ClientSession, links: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
     """
-    محتوای تمام لینک‌ها را به صورت موازی و آسنکرون دانلود می‌کند.
+    محتوای تمام لینک‌ها را به صورت موازی و آسنکرون با استفاده از سشن مشترک دانلود می‌کند.
 
     Args:
+        session: یک aiohttp.ClientSession فعال و مشترک.
         links: لیستی از تاپل‌ها که هر کدام شامل (نام، لینک) است.
 
     Returns:
         لیستی از نتایج دانلود شده به صورت تاپل (نام، محتوا).
     """
-    async with aiohttp.ClientSession() as session:
-        # ایجاد لیستی از تسک‌ها برای اجرای همزمان
-        tasks = [fetch_sub(session, name, url) for name, url in links]
-        
-        # اجرای همه تسک‌ها و جمع‌آوری نتایج
-        results = await asyncio.gather(*tasks)
-        
-        return results
+    # ایجاد لیستی از تسک‌ها برای اجرای همزمان
+    tasks = [fetch_sub(session, name, url) for name, url in links]
+    
+    # اجرای همه تسک‌ها و جمع‌آوری نتایج
+    results = await asyncio.gather(*tasks)
+    
+    return results
