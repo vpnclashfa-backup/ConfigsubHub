@@ -56,7 +56,8 @@ def find_and_split_configs(text: str) -> List[str]:
 
     for i in range(len(indices)):
         start_pos = indices[i]
-        end_pos = indices[i + 1] < len(indices) else len(text)
+        # اصلاح سینتکس: استفاده صحیح از if/else کوتاه‌شده
+        end_pos = indices[i + 1] if i + 1 < len(indices) else len(text)
         config_str = text[start_pos:end_pos].strip()
         found_configs.append(config_str)
         
@@ -73,24 +74,23 @@ def scrape_channel(channel_id: str) -> Tuple[List[str], bool]:
 
     try:
         response = requests.get(url, headers=REQUEST_HEADERS, timeout=15)
-        # اگر کانال وجود نداشته باشد (404)، خطا ایجاد می‌کند
         response.raise_for_status()
     except requests.exceptions.HTTPError as e:
         if e.response.status_code == 404:
             logging.error(f"کانال '{channel_id}' یافت نشد (خطای 404). این کانال از لیست حذف خواهد شد.")
-            return [], False # کانال نامعتبر است
+            return [], False
         logging.error(f"خطای HTTP در دسترسی به کانال {channel_id}: {e}")
-        return [], True # ممکن است مشکل موقتی باشد، کانال را حذف نکن
+        return [], True
     except requests.RequestException as e:
         logging.error(f"خطا در دریافت اطلاعات از کانال {channel_id}. عملیات برای این کانال متوقف شد. جزئیات: {e}")
-        return [], True # مشکل شبکه است، کانال را حذف نکن
+        return [], True
 
     soup = BeautifulSoup(response.text, 'html.parser')
     messages = soup.find_all('div', class_='tgme_widget_message_text')
     
     if not messages:
         logging.warning(f"هیچ پستی در صفحه کانال '{channel_id}' یافت نشد. ممکن است کانال خصوصی باشد یا پستی نداشته باشد.")
-        return [], True # کانال معتبر است اما پستی ندارد
+        return [], True
 
     all_configs = set()
     cutoff_date = datetime.now(timezone.utc) - timedelta(days=TELEGRAM_POST_MAX_AGE_DAYS)
@@ -134,4 +134,4 @@ def scrape_channel(channel_id: str) -> Tuple[List[str], bool]:
             logging.info("نتیجه: هیچ کانفیگ معتبری در این پست یافت نشد.")
             
     logging.info(f"===== پایان عملیات اسکرپ برای کانال {channel_id}. مجموعاً {len(all_configs)} کانفیگ منحصر به فرد یافت شد. =====")
-    return list(all_configs), True # کانال معتبر است
+    return list(all_configs), True
