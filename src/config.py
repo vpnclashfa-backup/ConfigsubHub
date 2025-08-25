@@ -29,7 +29,7 @@ REQUEST_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 # حداکثر زمان انتظار برای هر درخواست (به ثانیه)
-REQUEST_TIMEOUT = 10
+REQUEST_TIMEOUT = 30
 
 # --- Telegram Scraper Configuration ---
 # حداکثر عمر پست‌ها برای بررسی (به روز)
