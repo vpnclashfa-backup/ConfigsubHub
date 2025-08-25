@@ -10,26 +10,38 @@ import aiofiles
 from .config import (
     OUTPUT_DIR, SOURCE_NORMAL_FILE, SOURCE_TELEGRAM_FILE, MIX_DIR, 
     SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR, MIX_ALL_FILE_NAME, 
-    MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME, MIX_HYSTERIA_FILE_NAME, 
-    MIX_HY2_FILE_NAME, MIX_JUICITY_FILE_NAME, MIX_MIERU_FILE_NAME, 
-    MIX_MTPROTO_FILE_NAME, MIX_SNELL_FILE_NAME, MIX_SOCKS4_FILE_NAME, 
-    MIX_SOCKS5_FILE_NAME, MIX_SS_FILE_NAME, MIX_SSR_FILE_NAME, 
-    MIX_SSH_FILE_NAME, MIX_TROJAN_FILE_NAME, MIX_TUIC_FILE_NAME, 
-    MIX_VLESS_FILE_NAME, MIX_VMESS_FILE_NAME, MIX_WARP_FILE_NAME, 
-    MIX_WIREGUARD_FILE_NAME
+    MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME, MIX_HTTPS_PROXY_FILE_NAME, 
+    MIX_HYSTERIA_FILE_NAME, MIX_HY2_FILE_NAME, MIX_JUICITY_FILE_NAME, 
+    MIX_MIERU_FILE_NAME, MIX_MTPROTO_FILE_NAME, MIX_SNELL_FILE_NAME, 
+    MIX_SOCKS4_FILE_NAME, MIX_SOCKS5_FILE_NAME, MIX_SS_FILE_NAME, 
+    MIX_SSR_FILE_NAME, MIX_SSH_FILE_NAME, MIX_TROJAN_FILE_NAME, 
+    MIX_TUIC_FILE_NAME, MIX_VLESS_FILE_NAME, MIX_VMESS_FILE_NAME, 
+    MIX_WARP_FILE_NAME, MIX_WIREGUARD_FILE_NAME
 )
-# This import creates a directed dependency: file_handler -> telegram_handler
-# This is acceptable as telegram_handler does not depend on file_handler.
 from .telegram_handler import normalize_channel_id
 
 PROTOCOL_TO_FILENAME = {
-    "all": MIX_ALL_FILE_NAME, "anytls": MIX_ANYTLS_FILE_NAME, "http": MIX_HTTP_PROXY_FILE_NAME,
-    "hysteria": MIX_HYSTERIA_FILE_NAME, "hy2": MIX_HY2_FILE_NAME, "juicity": MIX_JUICITY_FILE_NAME,
-    "mieru": MIX_MIERU_FILE_NAME, "mtproto": MIX_MTPROTO_FILE_NAME, "snell": MIX_SNELL_FILE_NAME,
-    "socks4": MIX_SOCKS4_FILE_NAME, "socks5": MIX_SOCKS5_FILE_NAME, "ss": MIX_SS_FILE_NAME,
-    "ssr": MIX_SSR_FILE_NAME, "ssh": MIX_SSH_FILE_NAME, "trojan": MIX_TROJAN_FILE_NAME,
-    "tuic": MIX_TUIC_FILE_NAME, "vless": MIX_VLESS_FILE_NAME, "vmess": MIX_VMESS_FILE_NAME,
-    "warp": MIX_WARP_FILE_NAME, "wireguard": MIX_WIREGUARD_FILE_NAME,
+    "all": MIX_ALL_FILE_NAME,
+    "anytls": MIX_ANYTLS_FILE_NAME,
+    "http": MIX_HTTP_PROXY_FILE_NAME,
+    "https": MIX_HTTPS_PROXY_FILE_NAME,  # Added for separate https file
+    "hysteria": MIX_HYSTERIA_FILE_NAME,
+    "hy2": MIX_HY2_FILE_NAME,
+    "juicity": MIX_JUICITY_FILE_NAME,
+    "mieru": MIX_MIERU_FILE_NAME,
+    "mtproto": MIX_MTPROTO_FILE_NAME,
+    "snell": MIX_SNELL_FILE_NAME,
+    "socks4": MIX_SOCKS4_FILE_NAME,
+    "socks5": MIX_SOCKS5_FILE_NAME,
+    "ss": MIX_SS_FILE_NAME,
+    "ssr": MIX_SSR_FILE_NAME,
+    "ssh": MIX_SSH_FILE_NAME,
+    "trojan": MIX_TROJAN_FILE_NAME,
+    "tuic": MIX_TUIC_FILE_NAME,
+    "vless": MIX_VLESS_FILE_NAME,
+    "vmess": MIX_VMESS_FILE_NAME,
+    "warp": MIX_WARP_FILE_NAME,
+    "wireguard": MIX_WIREGUARD_FILE_NAME,
 }
 
 def clean_output_directory():
@@ -49,15 +61,23 @@ def setup_directories():
     logging.info("تمام پوشه‌های خروجی با موفقیت بررسی و ایجاد شدند.")
 
 def read_source_links() -> List[Tuple[str, str]]:
-    """لینک‌های اشتراک را از فایل منبع می‌خواند."""
+    """لینک‌های اشتراک را از فایل منبع با فرمت URL|Name می‌خواند."""
     links = []
     try:
         with open(SOURCE_NORMAL_FILE, 'r', encoding='utf-8') as f:
             for i, line in enumerate(f, 1):
                 line = line.strip()
-                if line and not line.startswith('#'):
-                    name = f"link_{i:03d}"
-                    links.append((name, line))
+                if not line or line.startswith('#'):
+                    continue
+                
+                parts = line.split('|', 1)
+                url = parts[0].strip()
+                # Use the provided name, or generate one if missing
+                name = parts[1].strip() if len(parts) > 1 else f"link_{i:03d}"
+                
+                if url:
+                    links.append((name, url))
+
     except FileNotFoundError:
         logging.info(f"فایل منبع لینک‌ها یافت نشد: {SOURCE_NORMAL_FILE}. یک فایل خالی ایجاد می‌شود.")
         os.makedirs(os.path.dirname(SOURCE_NORMAL_FILE), exist_ok=True)
