@@ -5,6 +5,9 @@ import logging
 # مسیر ریشه پروژه
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# مسیر پوشه لاگ
+LOG_DIR = os.path.join(BASE_DIR, "logs")
+
 # مسیرهای فایل ورودی
 SOURCE_DIR = os.path.join(BASE_DIR, "source")
 SOURCE_NORMAL_FILE = os.path.join(SOURCE_DIR, "normal_sub_link")
@@ -29,7 +32,7 @@ REQUEST_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 # حداکثر زمان انتظار برای هر درخواست (به ثانیه)
-REQUEST_TIMEOUT = 30
+REQUEST_TIMEOUT = 10
 
 # --- Telegram Scraper Configuration ---
 # حداکثر عمر پست‌ها برای بررسی (به روز)
@@ -40,7 +43,7 @@ TELEGRAM_POST_MAX_AGE_DAYS = 7
 MIX_ALL_FILE_NAME = "all.txt"
 MIX_ANYTLS_FILE_NAME = "anytls.txt"
 MIX_HTTP_PROXY_FILE_NAME = "http.txt"
-MIX_HTTPS_PROXY_FILE_NAME = "https.txt" # متغیر برای پراکسی HTTPS
+MIX_HTTPS_PROXY_FILE_NAME = "https.txt" 
 MIX_HYSTERIA_FILE_NAME = "hysteria.txt"
 MIX_HY2_FILE_NAME = "hy2.txt"
 MIX_JUICITY_FILE_NAME = "juicity.txt"
