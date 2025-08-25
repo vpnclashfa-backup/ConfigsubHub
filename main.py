@@ -36,6 +36,24 @@ def read_telegram_channels() -> List[str]:
         open(SOURCE_TELEGRAM_FILE, 'w').close()
     return list(set(channels))
 
+def update_telegram_source_file(valid_channels: List[str]):
+    """
+    فایل منبع تلگرام را فقط با شناسه‌های معتبر بازنویسی می‌کند.
+    """
+    if not valid_channels:
+        logging.warning("هیچ کانال تلگرام معتبری برای ذخیره یافت نشد. فایل منبع خالی خواهد شد.")
+    
+    try:
+        # مرتب‌سازی برای حفظ ترتیب یکنواخت در فایل
+        sorted_channels = sorted(list(set(valid_channels)))
+        with open(SOURCE_TELEGRAM_FILE, 'w', encoding='utf-8') as f:
+            f.write("# Updated by script: Only valid and existing channels are kept.\n")
+            for channel_id in sorted_channels:
+                f.write(f"{channel_id}\n")
+        logging.info(f"فایل منبع تلگرام با {len(sorted_channels)} کانال معتبر به‌روز شد.")
+    except IOError as e:
+        logging.error(f"خطا در نوشتن فایل منبع تلگرام: {e}")
+
 async def process_subscription_links(all_nodes_set: Set[str]):
     """
     لینک‌های اشتراک معمولی را پردازش می‌کند.
@@ -64,13 +82,12 @@ async def process_subscription_links(all_nodes_set: Set[str]):
             
         logging.info(f"تعداد {len(source_nodes)} نود در '{name}' پیدا شد.")
         categorized_source_nodes = categorize_nodes(source_nodes)
-        # ارسال مسیر پایه صحیح برای لینک‌های اشتراک
         await save_source_files(SOURCE_LINK_DIR, name, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
 
 async def process_telegram_channels(all_nodes_set: Set[str]):
     """
-    کانال‌های تلگرام را پردازش می‌کند.
+    کانال‌های تلگرام را پردازش کرده و لیست کانال‌های نامعتبر را حذف می‌کند.
     """
     channel_ids = read_telegram_channels()
     if not channel_ids:
@@ -79,9 +96,13 @@ async def process_telegram_channels(all_nodes_set: Set[str]):
 
     logging.info(f"تعداد {len(channel_ids)} کانال تلگرام برای پردازش یافت شد.")
     
+    valid_channels = []
     for channel_id in channel_ids:
         name = channel_id
-        source_nodes = scrape_channel(channel_id)
+        source_nodes, is_valid = scrape_channel(channel_id)
+        
+        if is_valid:
+            valid_channels.append(channel_id)
         
         if not source_nodes:
             logging.warning(f"هیچ نود معتبری در کانال '{name}' یافت نشد.")
@@ -89,9 +110,11 @@ async def process_telegram_channels(all_nodes_set: Set[str]):
             
         logging.info(f"تعداد {len(source_nodes)} نود در کانال '{name}' پیدا شد.")
         categorized_source_nodes = categorize_nodes(source_nodes)
-        # ارسال مسیر پایه صحیح برای کانال‌های تلگرام
         await save_source_files(SOURCE_TELEGRAM_DIR, name, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
+    
+    # پس از پردازش همه کانال‌ها، فایل منبع را به‌روز کن
+    update_telegram_source_file(valid_channels)
 
 async def main():
     """
