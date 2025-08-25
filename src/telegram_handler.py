@@ -5,7 +5,7 @@ import base64
 from datetime import datetime, timedelta, timezone
 from typing import List, Optional, Tuple, Set
 
-from playwright.async_api import Browser, TimeoutError as PlaywrightTimeoutError
+from playwright.async_api import Browser, TimeoutError as PlaywrightTimeoutError, Playwright
 from bs4 import BeautifulSoup, Tag
 
 from .config import TELEGRAM_POST_MAX_AGE_DAYS
@@ -51,7 +51,7 @@ def extract_configs_from_message(message_div: Tag) -> List[str]:
     cleaned_text = html.unescape(combined_text)
     return parse_nodes(cleaned_text)
 
-async def scrape_channel(browser: Browser, channel_id: str) -> Tuple[List[str], bool]:
+async def scrape_channel(playwright: Playwright, browser: Browser, channel_id: str) -> Tuple[List[str], bool]:
     """
     پست‌های یک کانال تلگرام را با استفاده از Playwright (شبیه‌ساز مرورگر) اسکرپ می‌کند.
     """
@@ -61,29 +61,27 @@ async def scrape_channel(browser: Browser, channel_id: str) -> Tuple[List[str], 
     context = None
     page = None
     try:
-        context = await browser.new_context(
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-        )
+        # شبیه‌سازی کامل یک مرورگر دسکتاپ کروم برای کاهش احتمال شناسایی شدن
+        context = await browser.new_context(**playwright.devices['Desktop Chrome'])
         page = await context.new_page()
         
-        await page.goto(url, timeout=45000)
+        # افزایش زمان انتظار کلی برای بارگذاری صفحه به ۶۰ ثانیه
+        await page.goto(url, timeout=60000)
         
-        # منتظر می‌مانیم تا حداقل یک کانتینر پیام بارگذاری شود
-        # این مهم‌ترین بخش برای دور زدن صفحات پیش‌نمایش است
-        await page.wait_for_selector('div.tgme_widget_message', timeout=15000)
+        # افزایش زمان انتظار برای ظاهر شدن اولین پست به ۳۰ ثانیه
+        await page.wait_for_selector('div.tgme_widget_message', timeout=30000)
 
         html_content = await page.content()
 
     except PlaywrightTimeoutError:
         reason = "صفحه در زمان مقرر بارگذاری نشد یا هیچ پستی یافت نشد (Timeout)."
         logging.error(f"{reason} ({channel_id})")
-        # ممکن است صفحه پیش‌نمایش بارگذاری شده باشد، پس محتوای آن را ذخیره می‌کنیم
         content_for_log = ""
         if page:
             content_for_log = await page.content()
         soup_for_log = BeautifulSoup(content_for_log, 'html.parser')
         await save_channel_error_log(channel_id, reason, [soup_for_log.body] if soup_for_log.body else [])
-        return [], True # ممکن است مشکل موقتی باشد، پس کانال را حذف نمی‌کنیم
+        return [], True
     except Exception as e:
         reason = f"خطای Playwright هنگام دسترسی به کانال: {e}"
         logging.error(f"{reason} ({channel_id})")
@@ -94,12 +92,9 @@ async def scrape_channel(browser: Browser, channel_id: str) -> Tuple[List[str], 
         if context: await context.close()
 
     soup = BeautifulSoup(html_content, 'html.parser')
-    # توجه: ما از 'tgme_widget_message' استفاده می‌کنیم چون والد 'tgme_widget_message_text' است
-    # و شامل تگ زمان (time tag) نیز می‌شود.
     message_containers = soup.find_all('div', class_='tgme_widget_message')
     
     if not message_containers:
-        # این حالت بعید است به دلیل wait_for_selector، اما برای اطمینان بررسی می‌شود
         reason = "هیچ پستی در محتوای نهایی صفحه یافت نشد."
         logging.warning(f"هشدار: {reason} ({channel_id})")
         await save_channel_error_log(channel_id, reason, [soup.body] if soup.body else [])
