@@ -8,7 +8,7 @@ from typing import List, Tuple, Dict
 import aiofiles
 
 from .config import (
-    OUTPUT_DIR, SOURCE_NORMAL_FILE, SOURCE_TELEGRAM_FILE, MIX_DIR, 
+    LOG_DIR, OUTPUT_DIR, SOURCE_NORMAL_FILE, SOURCE_TELEGRAM_FILE, MIX_DIR,
     SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR, MIX_ALL_FILE_NAME, 
     MIX_ANYTLS_FILE_NAME, MIX_HTTP_PROXY_FILE_NAME, MIX_HTTPS_PROXY_FILE_NAME, 
     MIX_HYSTERIA_FILE_NAME, MIX_HY2_FILE_NAME, MIX_JUICITY_FILE_NAME, 
@@ -25,7 +25,7 @@ PROTOCOL_TO_FILENAME = {
     "all": MIX_ALL_FILE_NAME,
     "anytls": MIX_ANYTLS_FILE_NAME,
     "http": MIX_HTTP_PROXY_FILE_NAME,
-    "https": MIX_HTTPS_PROXY_FILE_NAME, # اضافه شد برای پشتیبانی از فایل جداگانه
+    "https": MIX_HTTPS_PROXY_FILE_NAME,
     "hysteria": MIX_HYSTERIA_FILE_NAME,
     "hy2": MIX_HY2_FILE_NAME,
     "juicity": MIX_JUICITY_FILE_NAME,
@@ -46,20 +46,25 @@ PROTOCOL_TO_FILENAME = {
 }
 
 def clean_output_directory():
-    """پوشه خروجی را در صورت وجود حذف و پاک‌سازی می‌کند."""
+    """پوشه خروجی و لاگ را در صورت وجود حذف و پاک‌سازی می‌کند."""
     if os.path.exists(OUTPUT_DIR):
         logging.info(f"در حال پاک‌سازی پوشه خروجی قدیمی: {OUTPUT_DIR}")
         shutil.rmtree(OUTPUT_DIR)
+    if os.path.exists(LOG_DIR):
+        logging.info(f"در حال پاک‌سازی پوشه لاگ قدیمی: {LOG_DIR}")
+        shutil.rmtree(LOG_DIR)
+
 
 def setup_directories():
-    """پوشه‌های خروجی مورد نیاز را ایجاد می‌کند."""
+    """پوشه‌های مورد نیاز برنامه را ایجاد می‌کند."""
     dirs_to_create = [
+        LOG_DIR, # پوشه لاگ
         MIX_DIR, os.path.join(MIX_DIR, "base64"),
         SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR
     ]
     for directory in dirs_to_create:
         os.makedirs(directory, exist_ok=True)
-    logging.info("تمام پوشه‌های خروجی با موفقیت بررسی و ایجاد شدند.")
+    logging.info("تمام پوشه‌های مورد نیاز برنامه با موفقیت بررسی و ایجاد شدند.")
 
 def read_source_links() -> List[Tuple[str, str]]:
     """لینک‌های اشتراک را از فایل منبع با فرمت URL|Name می‌خواند."""
