@@ -4655,6 +4655,7 @@ trojan://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tc
 trojan://acacbab-caba-bcaa-adcb-cbaccbbabaca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 trojan://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://acbcaab-aabc-aabc-bcad-bcccaabbcaab@127.0.0.1:1080?security=tls&type=tcp
+trojan://acbcaab-aabc-aabc-bcad-bcccaabbcaab@127.0.0.1:1080?security=tls&type=tcp#%23F0rc3Run%20%F0%9F%87%BD%F0%9F%87%BD
 trojan://acbcaab-aabc-aabc-bcad-bcccaabbcaab@127.0.0.1:1080?security=tls&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B17%5D
 trojan://acbcaab-aabc-aabc-bcad-bcccaabbcaab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://acbcaab-aabc-aabc-bcad-bcccaabbcaab@127.0.0.1:1080?security=tls&type=tcp#❔

@@ -1,15 +1,3 @@
-http://104.21.32.1:443
-http://104.26.1.108:443
-http://185.231.205.231:8880
-http://185.231.205.234:8880
-http://185.236.232.243:8880
-http://213.232.120.2:443
-https://104.21.32.1:443
-https://104.26.1.108:443
-https://185.231.205.231:8880
-https://185.231.205.234:8880
-https://185.236.232.243:8880
-https://213.232.120.2:443
 vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@104.21.32.1:443?path=%2FwGEZwUQmT9ld3Qa5%2FdHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM%3D&security=tls&encryption=none&alpn=http/1.1&host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev&type=ws&sni=hpgBAG3G9Kik7asE4cn1tT8INexozr4NJi7.PaGes.DeV#%40vpnfail_bot%20free%v2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=%2Fid5%3Fed%3D2560%2F%3FMTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#%40vpnfail_bot%20free%v2ray
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#%40vpnfail_bot%20free%v2ray

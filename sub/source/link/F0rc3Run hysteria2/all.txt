@@ -1,9 +1,3 @@
-http://154.85.18.233:443
-http://154.85.19.63:443
-http://192.3.85.237:443
-https://154.85.18.233:443
-https://154.85.19.63:443
-https://192.3.85.237:443
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#F0rc3Run
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#F0rc3Run
 hysteria2://31e03220-caa2-409d-8fa9-ae5016d2702b@154.85.18.233:443?insecure=1&sni=www.bing.com#F0rc3Run
