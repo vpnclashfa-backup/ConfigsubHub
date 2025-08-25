@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # می‌توانید از نسخه‌های دیگر نیز استفاده کنید
+          python-version: '3.10'
 
       # مرحله 3: وابستگی‌های پروژه را نصب می‌کند
       - name: Install dependencies
@@ -33,18 +33,20 @@ jobs:
       - name: Run the subscription processing script
         run: python main.py
 
-      # مرحله 5: تغییرات ایجاد شده در پوشه sub را به مخزن push می‌کند
+      # مرحله 5: تغییرات ایجاد شده در پوشه‌های sub و logs را به مخزن push می‌کند
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # بررسی اینکه آیا تغییری در پوشه sub وجود دارد یا خیر
-          if [[ -n $(git status --porcelain sub) ]]; then
-            git add sub
+          # اضافه کردن هر دو پوشه به لیست تغییرات
+          git add sub/ logs/
+          
+          # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
+          if ! git diff --staged --quiet; then
             # استفاده از تاریخ و زمان تهران در پیام کامیت برای خوانایی بیشتر
             COMMIT_MESSAGE=$(TZ="Asia/Tehran" date +"%Y-%m-%d %H:%M:%S")
-            git commit -m "Update subscription files at $COMMIT_MESSAGE (Tehran Time)" -m "[skip ci]"
+            git commit -m "Update subscription & log files at $COMMIT_MESSAGE (Tehran Time)" -m "[skip ci]"
             git push
           else
             echo "No changes to commit."
