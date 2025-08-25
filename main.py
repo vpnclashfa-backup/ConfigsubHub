@@ -4,6 +4,8 @@ import os
 import shutil
 from typing import Set, List, Tuple
 
+import aiohttp
+
 # ماژول‌های پروژه
 from src.config import setup_logging, OUTPUT_DIR, SOURCE_TELEGRAM_FILE, SOURCE_LINK_DIR, SOURCE_TELEGRAM_DIR
 from src.file_handler import (read_source_links, setup_directories, 
@@ -13,17 +15,13 @@ from src.parser import decode_content, parse_nodes, categorize_nodes
 from src.telegram_handler import normalize_channel_id, scrape_channel
 
 def clean_output_directory():
-    """
-    پوشه خروجی را در صورت وجود حذف می‌کند تا از باقی ماندن فایل‌های قدیمی جلوگیری شود.
-    """
+    """پوشه خروجی را در صورت وجود حذف می‌کند."""
     if os.path.exists(OUTPUT_DIR):
         logging.info(f"در حال پاک‌سازی پوشه خروجی قدیمی: {OUTPUT_DIR}")
         shutil.rmtree(OUTPUT_DIR)
 
 def read_telegram_channels() -> List[str]:
-    """
-    شناسه‌های کانال‌های تلگرام را از فایل منبع می‌خواند.
-    """
+    """شناسه‌های کانال‌های تلگرام را از فایل منبع می‌خواند."""
     channels = []
     try:
         with open(SOURCE_TELEGRAM_FILE, 'r', encoding='utf-8') as f:
@@ -37,14 +35,11 @@ def read_telegram_channels() -> List[str]:
     return list(set(channels))
 
 def update_telegram_source_file(valid_channels: List[str]):
-    """
-    فایل منبع تلگرام را فقط با شناسه‌های معتبر بازنویسی می‌کند.
-    """
+    """فایل منبع تلگرام را فقط با شناسه‌های معتبر بازنویسی می‌کند."""
     if not valid_channels:
         logging.warning("هیچ کانال تلگرام معتبری برای ذخیره یافت نشد. فایل منبع خالی خواهد شد.")
     
     try:
-        # مرتب‌سازی برای حفظ ترتیب یکنواخت در فایل
         sorted_channels = sorted(list(set(valid_channels)))
         with open(SOURCE_TELEGRAM_FILE, 'w', encoding='utf-8') as f:
             f.write("# Updated by script: Only valid and existing channels are kept.\n")
@@ -54,83 +49,71 @@ def update_telegram_source_file(valid_channels: List[str]):
     except IOError as e:
         logging.error(f"خطا در نوشتن فایل منبع تلگرام: {e}")
 
-async def process_subscription_links(all_nodes_set: Set[str]):
-    """
-    لینک‌های اشتراک معمولی را پردازش می‌کند.
-    """
+async def process_subscription_links(session: aiohttp.ClientSession, all_nodes_set: Set[str]):
+    """لینک‌های اشتراک معمولی را پردازش می‌کند."""
     links = read_source_links()
     if not links:
         logging.info("هیچ لینک اشتراک معمولی برای پردازش یافت نشد.")
         return
         
     logging.info(f"تعداد {len(links)} لینک اشتراک برای پردازش یافت شد.")
-    results = await fetch_all_subs(links)
+    results = await fetch_all_subs(session, links) # ارسال سشن به تابع
     logging.info("دانلود محتوای لینک‌های اشتراک به پایان رسید.")
     
     for name, content in results:
         if not content:
             logging.warning(f"محتوایی برای '{name}' دریافت نشد، از این لینک صرف‌نظر می‌شود.")
             continue
-            
-        logging.info(f"در حال پردازش محتوای '{name}'...")
+        
         decoded_content = decode_content(content)
         source_nodes = parse_nodes(decoded_content)
-        
         if not source_nodes:
             logging.warning(f"هیچ نود معتبری در '{name}' یافت نشد.")
             continue
             
-        logging.info(f"تعداد {len(source_nodes)} نود در '{name}' پیدا شد.")
         categorized_source_nodes = categorize_nodes(source_nodes)
         await save_source_files(SOURCE_LINK_DIR, name, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
 
-async def process_telegram_channels(all_nodes_set: Set[str]):
-    """
-    کانال‌های تلگرام را پردازش کرده و لیست کانال‌های نامعتبر را حذف می‌کند.
-    """
+async def process_telegram_channels(session: aiohttp.ClientSession, all_nodes_set: Set[str]):
+    """کانال‌های تلگرام را به صورت موازی پردازش می‌کند."""
     channel_ids = read_telegram_channels()
     if not channel_ids:
         logging.info("هیچ کانال تلگرامی برای پردازش یافت نشد.")
         return
 
-    logging.info(f"تعداد {len(channel_ids)} کانال تلگرام برای پردازش یافت شد.")
+    logging.info(f"تعداد {len(channel_ids)} کانال تلگرام برای پردازش یافت شد. شروع اسکرپ موازی...")
+    
+    tasks = [scrape_channel(session, channel_id) for channel_id in channel_ids]
+    results = await asyncio.gather(*tasks)
     
     valid_channels = []
-    for channel_id in channel_ids:
-        name = channel_id
-        source_nodes, is_valid = scrape_channel(channel_id)
-        
+    for (source_nodes, is_valid), channel_id in zip(results, channel_ids):
         if is_valid:
             valid_channels.append(channel_id)
         
         if not source_nodes:
-            logging.warning(f"هیچ نود معتبری در کانال '{name}' یافت نشد.")
-            continue
+            continue # لاگ مربوطه در خود تابع scrape_channel ثبت شده است
             
-        logging.info(f"تعداد {len(source_nodes)} نود در کانال '{name}' پیدا شد.")
         categorized_source_nodes = categorize_nodes(source_nodes)
-        await save_source_files(SOURCE_TELEGRAM_DIR, name, categorized_source_nodes)
+        await save_source_files(SOURCE_TELEGRAM_DIR, channel_id, categorized_source_nodes)
         all_nodes_set.update(source_nodes)
     
-    # پس از پردازش همه کانال‌ها، فایل منبع را به‌روز کن
     update_telegram_source_file(valid_channels)
 
 async def main():
-    """
-    نقطه شروع و تابع اصلی اجرای برنامه
-    """
+    """نقطه شروع و تابع اصلی اجرای برنامه."""
     setup_logging()
     
     clean_output_directory()
     logging.info("برنامه شروع به کار کرد. در حال آماده‌سازی پوشه‌های خروجی...")
     setup_directories()
-    logging.info("پوشه‌های خروجی با موفقیت ساخته شدند.")
     
     all_nodes_set: Set[str] = set()
-
-    await process_subscription_links(all_nodes_set)
-    await process_telegram_channels(all_nodes_set)
+    
+    async with aiohttp.ClientSession() as session:
+        await process_subscription_links(session, all_nodes_set)
+        await process_telegram_channels(session, all_nodes_set)
 
     if all_nodes_set:
         all_nodes_list = sorted(list(all_nodes_set))
@@ -142,7 +125,6 @@ async def main():
         logging.warning("هیچ نودی برای ساخت فایل میکس وجود ندارد.")
         
     logging.info("عملیات با موفقیت به پایان رسید.")
-
 
 if __name__ == "__main__":
     asyncio.run(main())
