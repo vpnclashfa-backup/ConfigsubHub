@@ -13248,7 +13248,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?encryption=none&s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880/?type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?encryption=none&amp;security=none&amp;type=grpc
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?encryption=none&security=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none=/@Mcv2rayNG--@Mcv2raNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG&type=grpc

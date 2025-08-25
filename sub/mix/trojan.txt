@@ -2638,6 +2638,7 @@ trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@hknode07.oportal.cc:443?security=t
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@hknode07.oportal.cc:443?security=tls&type=tcp&headerType=none
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=ws&sni=🔒
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.2:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#@Hope_Net-join-us-on-Telegram
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443/?type=tcp&security=tls&sni=🔒
 trojan://984e400bf5d541b7b0815913fe0c432a@23.150.248.153:443/?type=ws&host=jobscareerforstudent.com&path=🔒
 trojan://98a3b810-4213-11f0-8131-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
@@ -4210,6 +4211,7 @@ trojan://NISHIKUITAN222@173.245.59.185:443?security=tls&type=ws&sni=im.ylks.xyz&
 trojan://NISHIKUITAN222@173.245.59.185:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#@vpnclashfa
 trojan://NISHIKUITAN222@173.245.59.185:443?security=tls&type=ws&sni=🔒
 trojan://NISHIKUITAN222@173.245.59.61:443/?type=ws&host=in.ylks.xyz&path=🔒
+trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&type=ws&sni=in.ylks.xyz&path=/&host=in.ylks.xyz#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&type=ws&sni=🔒
 trojan://NISHIKUITAN222@188.114.96.11:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@188.114.96.11:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#@Hope_Net-join-us-on-Telegram⚠️
@@ -5157,6 +5159,7 @@ trojan://baaccab-baca-abca-badc-abbaacbbcacc@127.0.0.1:1080?security=tls&type=tc
 trojan://baaccab-baca-abca-badc-abbaacbbcacc@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa
 trojan://bb101390-29cc-11f0-936b-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@119.247.119.212:443?security=tls&sni=🔒
+trojan://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?security=tls&type=ws&sni=cfpage-39t.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=cfpage-39t.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://bbab60b8-779f-31e2-916e-571f7d7023c4@jd100.8faka.tk:35100?allowInsecure=1
 trojan://bbab60b8-779f-31e2-916e-571f7d7023c4@jd100.zahuopu.top:35100?allowInsecure=1
 trojan://bbab60b8-779f-31e2-916e-571f7d7023c4@jd101.8faka.tk:35101?allowInsecure=1
@@ -9002,7 +9005,6 @@ trojan://vpn@2.56.125.113:2025?security=none&fp=chrome&type=ws&path=/&host=dns.g
 trojan://vpn@45.82.14.144:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com]
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=🔒
 trojan://vpn@46.29.234.154:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@46.29.234.154:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#@VIProxys
