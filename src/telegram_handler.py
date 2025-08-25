@@ -4,70 +4,62 @@ from datetime import datetime, timedelta, timezone
 from typing import List, Optional, Tuple
 
 import requests
-from bs4 import BeautifulSoup, NavigableString
+from bs4 import BeautifulSoup
 
 from .config import REQUEST_HEADERS, TELEGRAM_POST_MAX_AGE_DAYS
 from .parser import parse_nodes
 
-
 def normalize_channel_id(raw_id: str) -> Optional[str]:
-    """
-    شناسه کانال تلگرام را به فرمت استاندارد (فقط ID) تبدیل می‌کند.
-    """
+    """شناسه کانال تلگرام را به فرمت استاندارد (فقط ID) تبدیل می‌کند."""
     raw_id = raw_id.strip()
-    if not raw_id:
-        return None
-
-    if raw_id.startswith('@'):
-        return raw_id[1:]
-
+    if not raw_id: return None
+    if raw_id.startswith('@'): return raw_id[1:]
     if 't.me/' in raw_id:
         match = re.search(r't\.me/(?:s/)?([\w\d_]+)', raw_id)
-        if match:
-            return match.group(1)
-
-    if re.match(r'^[\w\d_]+$', raw_id):
-        return raw_id
-
+        if match: return match.group(1)
+    if re.match(r'^[\w\d_]+$', raw_id): return raw_id
     logging.warning(f"فرمت شناسه تلگرام نامعتبر است و نادیده گرفته شد: '{raw_id}'")
     return None
 
-
-def extract_text_from_message(message_div: BeautifulSoup) -> str:
+def extract_potential_configs_from_message(message_div: BeautifulSoup) -> str:
     """
-    متن را از تمام بخش‌های یک پست تلگرام، شامل متن عادی، کد، اسپویلر و ... استخراج می‌کند.
+    متن را به صورت هوشمند از بخش‌های مختلف پست تلگرام استخراج می‌کند.
+    اولویت با تگ‌های <code> و <pre> است.
     """
+    # جایگزینی <br> با خط جدید برای حفظ ساختار
     for br in message_div.find_all('br'):
         br.replace_with('\n')
-    return message_div.get_text(separator=' ')
 
+    potential_texts = []
+
+    # 1. استخراج با اولویت بالا از تگ‌های <code> و <pre>
+    for tag in message_div.find_all(['code', 'pre']):
+        potential_texts.append(tag.get_text())
+
+    # 2. استخراج کل متن به عنوان پشتیبان
+    potential_texts.append(message_div.get_text())
+
+    # ترکیب همه متن‌های استخراج شده با خط جدید برای پردازش یکپارچه
+    return "\n".join(potential_texts)
 
 def find_and_split_configs(text: str) -> List[str]:
-    """
-    کانفیگ‌های به‌هم‌چسبیده را پیدا و از هم جدا می‌کند.
-    """
+    """کانفیگ‌های به‌هم‌چسبیده را پیدا و از هم جدا می‌کند."""
     pattern = re.compile(r'(vless|vmess|trojan|ss|ssr|tuic|hy2|hysteria2|hysteria|snell|anytls|mieru|juicity|ssh|wireguard|warp|socks4|socks5|mtproto|http|https):\/\/')
-    
     found_configs = []
     indices = [m.start() for m in pattern.finditer(text)]
-    
-    if not indices:
-        return []
+    if not indices: return []
 
     for i in range(len(indices)):
         start_pos = indices[i]
-        # اصلاح سینتکس: استفاده صحیح از if/else کوتاه‌شده
         end_pos = indices[i + 1] if i + 1 < len(indices) else len(text)
         config_str = text[start_pos:end_pos].strip()
         found_configs.append(config_str)
         
     return parse_nodes("\n".join(found_configs))
 
-
 def scrape_channel(channel_id: str) -> Tuple[List[str], bool]:
     """
     پست‌های یک کانال تلگرام را اسکرپ کرده و کانفیگ‌های معتبر را استخراج می‌کند.
-    یک تاپل (لیست کانفیگ‌ها، وضعیت اعتبار کانال) برمی‌گرداند.
     """
     url = f"https://t.me/s/{channel_id}"
     logging.info(f"===== شروع عملیات اسکرپ برای کانال: {channel_id} ({url}) =====")
@@ -118,12 +110,13 @@ def scrape_channel(channel_id: str) -> Tuple[List[str], bool]:
             logging.info(f"پست قدیمی است (تاریخ: {post_date.strftime('%Y-%m-%d')}). عملیات اسکرپ برای کانال '{channel_id}' به پایان رسید.")
             break
         
-        post_text = extract_text_from_message(message)
+        logging.info("استخراج هوشمند متن از تگ‌های <code>/<pre> و متن اصلی...")
+        post_text = extract_potential_configs_from_message(message)
         if not post_text.strip():
-            logging.info("این پست فاقد متن است (ممکن است فقط عکس یا ویدیو باشد).")
+            logging.info("این پست فاقد متن قابل استخراج است.")
             continue
 
-        logging.debug(f"متن استخراج شده از پست: \n---\n{post_text[:500].strip()}...\n---")
+        logging.debug(f"متن ترکیبی برای پردازش: \n---\n{post_text[:500].strip()}...\n---")
         configs_in_post = find_and_split_configs(post_text)
         
         if configs_in_post:
