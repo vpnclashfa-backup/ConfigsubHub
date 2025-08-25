@@ -10221,6 +10221,7 @@ vless://afb9d5dd-7096-412a-a475-76afb4978039@188.114.98.112:2095?path=🔒
 vless://afbce8dc-cbbe-484a-8418-5d5b3df93e22@104.18.240.146:443/?type=ws&encryption=none&host=92815838686626118154555435104475.v2line.net&path=🔒
 vless://afc70422-f320-4523-bd14-4ee01f53ba3e@62.212.70.94:2026?type=tcp&security=reality&pbk=eGk1Ry8mkkWQZc2QuGV_n123JIBFKsPtFcBSXDg33mk&fp=chrome&sni=🔒
 vless://afc9d688-520a-46fa-a98d-4511d1198cdd@172.67.131.76:443/?type=ws&encryption=none&host=eeee3.222767.xyz&path=🔒
+vless://afc9d688-520a-46fa-a98d-4511d1198cdd@172.67.131.76:443?&security=tls&fp=chrome&alpn=http/1.1&sni=🔒
 vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp
 vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp
 vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&headerType=none&type=tcp
@@ -13262,6 +13263,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880/?type=grpc&encryp
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880/?type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?encryption=none&amp;security=none&amp;type=grpc
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?encryption=none&security=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none=/@Mcv2rayNG--@Mcv2raNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG&type=grpc
@@ -15243,6 +15245,7 @@ vless://fe1888f8-2361-11f0-9970-45e1d80c4039@1794532.shatak.top:443/?type=tcp&en
 vless://fe1888f8-2361-11f0-9970-45e1d80c4039@1794532.shatak.top:443?security=reality&sni=🔒
 vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?security=reality&encryption=none&pbk=nm1ZhMktJbHTcJv0gqV8l0s_c9BWfQe5d02qhpSkKWo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://fe25fd7f-d035-4448-baaa-a67237a03cb7@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=🔒
 vless://fe25fd7f-d035-4448-baaa-a67237a03cb7@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=firefox&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=🔒
 vless://fe314bed-7241-4d6b-b43f-e3beaa3bf136@de91.ketakhan.sbs:6688?security=reality&encryption=none&pbk=JqhWZhQG3V0OEfnKNM4Rm-M6C3F3UASR470uDMmelg0&headerType=none&fp=chrome&type=tcp&sni=🔒
