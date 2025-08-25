@@ -20,11 +20,12 @@ from .config import (
 )
 from .telegram_handler import normalize_channel_id
 
+# نگاشت پروتکل به نام فایل خروجی
 PROTOCOL_TO_FILENAME = {
     "all": MIX_ALL_FILE_NAME,
     "anytls": MIX_ANYTLS_FILE_NAME,
     "http": MIX_HTTP_PROXY_FILE_NAME,
-    "https": MIX_HTTPS_PROXY_FILE_NAME,  # Added for separate https file
+    "https": MIX_HTTPS_PROXY_FILE_NAME, # اضافه شد برای پشتیبانی از فایل جداگانه
     "hysteria": MIX_HYSTERIA_FILE_NAME,
     "hy2": MIX_HY2_FILE_NAME,
     "juicity": MIX_JUICITY_FILE_NAME,
@@ -72,7 +73,6 @@ def read_source_links() -> List[Tuple[str, str]]:
                 
                 parts = line.split('|', 1)
                 url = parts[0].strip()
-                # Use the provided name, or generate one if missing
                 name = parts[1].strip() if len(parts) > 1 else f"link_{i:03d}"
                 
                 if url:
