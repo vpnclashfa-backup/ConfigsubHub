@@ -8338,10 +8338,8 @@ trojan://telegram-id-privatevpns@13.39.28.15:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.39.28.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.28.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 289
 trojan://telegram-id-privatevpns@13.39.28.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 291
-trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B11%5D
 trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B18%5D
-trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By EbraSha ] 🔒
 trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103) 🇨🇵 t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.41.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs

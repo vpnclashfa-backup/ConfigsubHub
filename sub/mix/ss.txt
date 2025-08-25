@@ -535,8 +535,6 @@ ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?securit
 ss://4c40aed6-5fd0-4afa-95c7-20e7acfbd9fb@bwdraper.faculty.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=vutkyfrtu23.net&amp;path=🔒 [By EbraSha] # 🔒 [By EbraSha]
 ss://4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&amp;sni=🔒 [By EbraSha]&amp;sid=99 # 🔒 [By EbraSha]
 ss://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=/wsv/4c835bff-4f4d-4608-bb21-120099089688?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws&sni=orange.fullmargintraders.com#Telegram:@config_proxy 💦
-ss://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] 💦 # 🔒 [By EbraSha]
-ss://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?security=tls&encryption=none&type=ws # [ By EbraSha ] 🔒
 ss://4c9541c7-5fa1-403c-84af-175e3b25a27f@www.ipget.net:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=201.58vtg99l.workers.dev&amp;path=🔒 [By EbraSha] # 🔒 [By EbraSha]
 ss://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=imarketshop.ir&amp;path=🔒 [By EbraSha] # 🔒 [By EbraSha]
 ss://4cb539cb-7e01-4c00-90a1-b89b66881e73@172.245.33.163:10088?security=reality&amp;encryption=none&amp;pbk=CWO043TqIdMiwVVNBydNwdVuzKz3K8p9IIEynpR_dFs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=20182bcc0f3415d9 # 🔒 [By EbraSha]
@@ -4746,7 +4744,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444 # 🔒 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4@146.185.198.44:444 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWRDMjZEc01XQkQ%3D@62.60.233.83:443 # 🔒 [By EbraSha]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWRDMjZEc01XQkQ%3D@62.60.233.83:443#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWRDMjZEc01XQkQ%3D@62.60.233.83:443#@vpnclashfa - 271
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWRDMjZEc01XQkQ%3D@62.60.233.83:443#@vpnclashfa - 3001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWRDMjZEc01XQkQ=@62.60.233.83:443 # [ By EbraSha ] 🔒
@@ -4847,8 +4844,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRDdRc3AzT3FxZEEwUENYTHB6Unpi@147.45.178.15:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRDdRc3AzT3FxZEEwUENYTHB6Unpi@147.45.178.15:53122?note=--Telegram--@DHLIM-- # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRDdRc3AzT3FxZEEwUENYTHB6Unpi@147.45.178.15:53122?note=--Telegram--@NetifyVPN-- # [ By EbraSha ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRDdRc3AzT3FxZEEwUENYTHB6Unpi@147.45.178.15:53122?note=--Telegram--@NetifyVPN-- # 🔒 [By EbraSha]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRDdRc3AzT3FxZEEwUENYTHB6Unpi@147.45.178.15:53122?note=--Telegram--NetifyVPN-- # [ By EbraSha ] 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRDdRc3AzT3FxZEEwUENYTHB6Unpi@147.45.178.15:53122?note=--Telegram--NetifyVPN-- # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443 # [ By EbraSha ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
@@ -5096,6 +5091,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#L
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#🇱🇻 LV | 🔒 SS | @v2rayngrit [9]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456?prefix=%16%03%01%00%C2%A8%01%01#@vpnclashfa - 299
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456?prefix=%16%03%01%00%C2%A8%01%01#@vpnclashfa - 3029
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456 # [ By EbraSha ] 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.38-57456+%7C+179.16ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#🔒 SS-TCP-NA 🇰🇿 KZ-38.107.234.38:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?prefix=%16%03%01%00%C2%A8%01%01 # 🔒 [By EbraSha]
@@ -5864,6 +5861,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%F0%9F%87%AC%F0%9F%87%B9%20P-Cloud%20Plus%2041
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%F0%9F%87%AC%F0%9F%87%B9%20ProxyCloud%20Guatemala
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#🔒 SS-TCP-NA 🇬🇹 GT-185.47.254.87:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990 # [ By EbraSha ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990# ✅ @AR14N24b
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7%20P-Cloud%20Plus%2028
@@ -9499,6 +9497,8 @@ ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110
 ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110.240:443 # 🔒 [By EbraSha]
 ss://YWVzLTI1Ni1nY206MTBUTVo2Wk41UzZSUDVBRg==@8tv68qhq.slashdevslashnetslashtun.net:18014#%F0%9F%87%AF%F0%9F%87%B5%20JP-14
 ss://YWVzLTI1Ni1nY206MTFETDg2RVc2RzdaMURCWA==@ti3hyra4.slashdevslashnetslashtun.net:21002#%F0%9F%87%A8%F0%9F%87%B3%20TW-02
+ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443 # [ By EbraSha ] 🔒
+ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443 # 🔒 [By EbraSha]
 ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443#%D8%A7%DB%8C%D9%86%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%AA%D8%B3%D8%AA%DB%8C%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%B1%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%E2%9C%85%EF%B8%8FNormanV2ray%40
 ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40proxy_mtproto_vpns_free%20%5B16%5D
 ss://YWVzLTI1Ni1nY206MTI5ZmUwOTUtNmEzMy00OGFiLWExZTItYTIzYmRmZTkyMzA4@45.134.13.75:443#🇮🇹 IT | 🔒 SS | @proxy_mtproto_vpns_free [16]
@@ -13217,8 +13217,6 @@ ss://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.66.177.129:80?security=none&sni=ta
 ss://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.66.177.129:80?security=none&sni=tannaz.juveitaly.dpdns.org&type=ws&host=tannaz.juveitaly.dpdns.org&path=%2F%3Fed%3D2560&fp=random#@vpnclashfa - 589
 ss://dfdf1c0a5e52474688bd19d4e4ac7853@172.66.177.129:80#RELAY%F0%9F%9A%A9+%7C+172.66.177.129-80+%7C+1.39ms
 ss://dfdf1c0a5e52474688bd19d4e4ac7853@172.66.177.129:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.177.129:80
-ss://dfebc216-f6e1-4511-9c78-eb3584f0b869@188.114.98.112:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws # 🔒 [By EbraSha]
-ss://dfebc216-f6e1-4511-9c78-eb3584f0b869@188.114.98.112:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 ss://e0845791-0bd0-4a66-b80d-74c55a815d81@172.66.46.246:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;host=elena.elena.ddns-ip.net&amp;fp=qq&amp;type=ws&amp;sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 ss://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=🔒 [By EbraSha]&amp;security=&amp;encryption=none&amp;host=ping.amirhossein.info&amp;type=ws # 🔒 [By EbraSha]
 ss://e100d3b3-e706-4093-ae07-b820b4a3c6e6@91.99.231.221:2020?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE&amp;sni=🔒 [By EbraSha]&amp;sid=809cb172dbede776 # 🔒 [By EbraSha]
