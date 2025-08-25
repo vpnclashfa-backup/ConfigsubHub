@@ -123,7 +123,6 @@ trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&header
 trojan://Aimer@103.116.7.133:2083?proxyip=ts.hpc.tw&security=tls&host=speedtest.net&type=ws
 trojan://Aimer@172.67.77.127:443?security=tls&host=speedtest.net&type=ws
 trojan://Aimer@188.164.159.43:2083?security=tls&host=speedtest.net&type=ws
-trojan://Aimer@198.62.62.192:2083?security=tls&type=ws&host=speedtest.net
 trojan://Aimer@92.243.74.3:8443?allowInsecure=0
 trojan://AtWUwHdN9n@79.137.195.203:80?security=none&host=speedtest.net&type=ws
 trojan://AtWUwHdN9n@www.speedtest.net:80?security=none&host=speedtest.net&type=ws
@@ -147,6 +146,7 @@ trojan://LG7HKcZFIJ@45.155.54.117:110?security=tls&headerType=none&type=tcp
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi
 trojan://NISHIKUITAN111@104.16.121.21:443?allowInsecure=0&ws=1&ws
 trojan://NISHIKUITAN111@104.17.157.109:443?allowInsecure=0&ws=1&ws
+trojan://NISHIKUITAN111@172.67.234.222:443
 trojan://NISHIKUITAN222@104.17.58.219:443
 trojan://NISHIKUITAN222@104.24.4.125:443
 trojan://NISHIKUITAN222@104.25.154.54:443
@@ -167,7 +167,6 @@ trojan://Trojan-Hqv2rayNG@151.101.130.219:443?security=tls&type=ws&host=speedtes
 trojan://WOeXShhJpL@104.16.151.226:443
 trojan://WOeXShhJpL@104.18.183.139:443?security=tls&type=ws&host=speedtest.net
 trojan://WOeXShhJpL@104.21.19.243:443?security=tls&type=ws&host=speedtest.net
-trojan://WOeXShhJpL@172.67.232.40:443?allowInsecure=0&ws=1&ws
 trojan://Xa4^l(;.;B
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=speedtest.net&security=tls&fp=chrome&alpn=h2,http/1.1
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?security=tls&alpn=http%2F1.1&host=speedtest.net&fp=randomized&type=ws
@@ -202,6 +201,7 @@ trojan://auto@104.25.254.4:2087?security=tls&type=ws&host=speedtest.net
 trojan://auto@129.146.254.39:443?security=tls&alpn=http/1.1&host=speedtest.net&fp=chrome&type=ws
 trojan://auto@159.246.55.132:443?security=tls&type=ws&host=speedtest.net
 trojan://auto@172.64.146.66:443?security=tls&type=ws&host=speedtest.net
+trojan://auto@172.67.2.238:2083?security=tls&type=ws&host=speedtest.net
 trojan://auto@iranserver.com:8443?security=tls&alpn=http/1.1&host=speedtest.net&fp=chrome&type=ws
 trojan://auto@zula.ir:443?security=tls&alpn=http/1.1&host=speedtest.net&fp=chrome&type=ws
 trojan://b0a60a1a-fb2a-4d93-b0a3-6ea50d7a1dea@csgo.com:8443?type=ws&host=speedtest.net
@@ -230,6 +230,7 @@ trojan://bpb-trojan@172.66.44.128:443
 trojan://bpb-trojan@172.66.47.128:443
 trojan://bpb-trojan@172.66.47.53:443?security=tls&type=ws&host=speedtest.net
 trojan://bpb-trojan@172.67.180.238:443?security=tls&type=ws&host=speedtest.net
+trojan://bpb-trojan@172.67.214.246:2053?allowInsecure=0&ws=1&ws
 trojan://bpb-trojan@172.67.75.172:443?allowInsecure=0&ws=1&ws
 trojan://bpb-trojan@188.114.96.245:443
 trojan://bpb-trojan@188.114.97.88:2053?allowInsecure=0&ws=1&ws
@@ -242,6 +243,7 @@ trojan://bpb-trojan@190.93.245.48:443
 trojan://bpb-trojan@190.93.246.121:443?security=tls&type=ws&host=speedtest.net
 trojan://bpb-trojan@198.41.202.75:443
 trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp
+trojan://bpb-trojan@45.194.53.231:443?allowInsecure=1&type=ws&host=speedtest.net
 trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&allowInsecure=1
 trojan://bpb-trojan@cf.090227.xyz:443
 trojan://bpb-trojan@visa.cn:443
@@ -342,6 +344,8 @@ trojan://telegram-id-privatevpns@3.71.171.209:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.77.74.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp
 trojan://telegram-id-privatevpns@35.159.60.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp
 trojan://telegram-id-privatevpns@35.181.143.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp
+trojan://telegram-id-privatevpns@35.181.18.242:22222?security=tls&type=tcp&alpn=http%2F1.1
+trojan://telegram-id-privatevpns@35.181.18.242:22222?security=tls&type=tcp&alpn=http/1.1
 trojan://telegram-id-privatevpns@35.181.224.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp
 trojan://telegram-id-privatevpns@35.181.96.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&alpn=http/1.1&type=tcp
