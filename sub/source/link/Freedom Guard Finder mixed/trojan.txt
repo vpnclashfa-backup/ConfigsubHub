@@ -1,1 +1,1 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&headerType=none&type=tcp&sni=sto.freeguard.org#telegram%20%E2%9E%A8%20v2xro```
+trojan://mmfKxEeVCc@VPNCUSTOMIZE2.ddns.net:2096?mode=gun&security=tls&type=grpc&serviceName=

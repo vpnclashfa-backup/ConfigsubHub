@@ -1,0 +1,972 @@
+Channel: prossh
+Timestamp: 2025-08-26T16:47:34.729088
+Reason for Failure: هیچ کانفیگ معتبری در پست‌های اخیر یافت نشد.
+
+==================================================
+ DUMP OF SCANNED MESSAGES (HTML) 
+==================================================
+
+
+--- Message 1 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="proSSH/4044" data-view="eyJjIjotMTMzNTI5MzQ5MSwicCI6NDA0NCwidCI6MTc1NjIyNjc4NCwiaCI6IjNhMmMxMzMyODJkNzQyNDQ2NSJ9">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/proSSH">
+   <i class="tgme_widget_message_user_photo bgcolor0" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/sSo2eSfwj1FR8GpYSlq3ZkeKD9-UHZ6QzLXslfgqVFy_0ANPPvEo4lNZw3_MyZFkq51_15_5d604t1BV7m4KDl645mjXF4Vlbp_j1DW3NhrKoUADCytgHkiynOVwttFOFEPqHiX6b8S-oE0ybuzG5FeKYBxbyNlzURclLLhzFsyjLRjauhJXtvhi8Pv8zAXBmFxiKbqzPWbx61IpEC-jLuPwOO3WxXFxXPsOrGb39HzOz0Rs6ijDxUZNHxommSAOVHe66KzMHRMoweXiBx2N-dJIAzwhJtZvtpZRBTxPYzsOdtzkpy7loZqlOTt71dMGXW8N34cJxmt7qCVTE29Ifg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/proSSH">
+    <span dir="auto">
+     PRO SSH
+    </span>
+   </a>
+  </div>
+  <div class="media_supported_cont">
+   <div class="tgme_widget_message_text js-message_text" dir="auto">
+    <blockquote expandable="">
+     <tg-emoji emoji-id="5323423027780656841">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=H0wjqejdWfctV9d5DuBGriAI3OvZDsPeBtD-LpYwGFZ-encX9X2r6efV9-miilImj40pJERmlgfFSYZ_jLkrLQ8jeOcyXl9GHmTNrOHvSC5MeriolJQJApP-9P72MRZjtH9dWr_sMARilgDpGLZgqqeFSBNpy7aOZeLY-7ON7fb749kwdCDRmt33G1VYSf9Oc-e063wPA4Qkn39E9hfMWpj4DgOYUD_hw_tnEsBy3HFNE47LfOBXuVxUjfU0UyrUBfiQUIaURsnvxMn3QRpve4Ms3ldztQm2T7kOsf66l3-6wlz0bivbhm8YyjhixLRT1-hiaQEHZ2bppBRtcBeuNQ" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M255%2C469c-59%2C0-115-25-155-67-155-167%2C32-435%2C241-342%2C211%2C93%2C144%2C410-86%2C409zM259%2C426c48%2C1%2C94-22%2C125-57%2C117-133-26-336-190-272-176%2C69-123%2C331%2C65%2C329zM259%2C352c-27%2C1-52-9-71-28-72-72%2C8-195%2C103-158%2C96%2C37%2C69%2C183-32%2C186z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')">
+       <b>
+        🔴
+       </b>
+      </i>
+     </tg-emoji>
+     <b>
+      فروش VPN های کرکی و قانونی زیر به پایین ترین قیمت:
+     </b>
+     <br/>
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5924944596428657104">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/7143334d04.webp?token=CMxqOjBFH2wZErfvWzzbIz-lX6hh5Y203Knzmij0E_rZJRfeXZ2pdPSdWxE14J-RzFpbVaKyUwH0dmFlyLLJC1UF_FS_Ud6Jln8VQeS1pFFsWXD0bIs8eOgyVqIGOs2lxfx75NoOH53cUCW4yHLvWakIR3SaGs0h9Uq8lb7W3V62B1XAn0kC_f7bRqUcxt4Fba9S-iOtr7EcFoUJgx5VDi11ZwOZr4YTi3RJXE7QmdgiT4seRCh4oYECzpKHueqbFbsfXJANojJPjDUyNWvNQIIwAxKv-YNC-P_8zpX1yqGlnaBgsL5OwFsfySvoCJpgXau6CRQTqS_SIeY-10xfoA" style='background-image: url("https://cdn4.telesco.pe/file/7143334d04.webp?token=CMxqOjBFH2wZErfvWzzbIz-lX6hh5Y203Knzmij0E_rZJRfeXZ2pdPSdWxE14J-RzFpbVaKyUwH0dmFlyLLJC1UF_FS_Ud6Jln8VQeS1pFFsWXD0bIs8eOgyVqIGOs2lxfx75NoOH53cUCW4yHLvWakIR3SaGs0h9Uq8lb7W3V62B1XAn0kC_f7bRqUcxt4Fba9S-iOtr7EcFoUJgx5VDi11ZwOZr4YTi3RJXE7QmdgiT4seRCh4oYECzpKHueqbFbsfXJANojJPjDUyNWvNQIIwAxKv-YNC-P_8zpX1yqGlnaBgsL5OwFsfySvoCJpgXau6CRQTqS_SIeY-10xfoA");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+       <b>
+        ❤️
+       </b>
+      </i>
+     </tg-emoji>
+     Windscribe [ قانونی ]
+     <tg-emoji emoji-id="5843947079503711905">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=v5MgSj7i3tm1yQiR_Dz62R8zg3Ua3OoqukwpHbgJ6u_da2Fp75aCQJMdvmWt4VbKY0Emjj9yNYIqbVuShdu1zTJ5qoXMz-p-EWqFQYjjz4IcwRFNv4bHJyOZkWYqkx-6RalqKMLBjSovECc3s7veYfOKOp4Fj2bIwADcvBaycuTAegnow2NXCD3HV6c5UGP7-5isIiWLK0p_uP8exnUKBcizHoSCcROn0T51zeWPe-6fzoCpVlS8YEFwCpYNt-HmgJvAHAKGk51o5tYGVIXh3W0uPrL6-GxRPuY9sEccuM14seJH4SyD12-DyQWZtIToZcalor2NyatCAWER4NakMw" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M256%2C444c-45-5-182%2C25-189-41-6-58%2C0-119%2C0-178%2C0-38-13-126%2C21-150%2C26-19%2C159-9%2C198-9%2C35%2C0%2C123-12%2C147%2C16%2C24%2C28%2C12%2C125%2C12%2C163%2C0%2C42%2C15%2C165-21%2C190-25%2C18-133%2C9-168%2C9z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5922636609852807273">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/55eeff1f9a.webp?token=vLJznpgeFgPfdSyDQCku77CQmkRx8gwaRk9WEriSbTq6qoDsU5FcgfEVFsAlR4nn21e-hL9pETyEvT7AMJu5Dcz-tM_O5f5w0ZRqdo8Etrd-UFEYM3rJbcUMchSm4gCsgtnTAh5xEY5U1n2mI8HsGQzw2UsifRQCodQ-QUs93AKQ5ZeAJKODP1W9QJyZsl2qGY-g9uZ4qRPtUbRPgsi0WWtxaEQ1k-oLl0oExOmYnajnX7oI6-ZpDQlqFNfRBHFEIK0dFaxmP6GPK_blW7jTiC7RThNj90xlTebnfcsy4hpQIHFPxyN2hgTUi0IRhtstw5Tj37c-vL-6GDp7sHqEIw" style='background-image: url("https://cdn4.telesco.pe/file/55eeff1f9a.webp?token=vLJznpgeFgPfdSyDQCku77CQmkRx8gwaRk9WEriSbTq6qoDsU5FcgfEVFsAlR4nn21e-hL9pETyEvT7AMJu5Dcz-tM_O5f5w0ZRqdo8Etrd-UFEYM3rJbcUMchSm4gCsgtnTAh5xEY5U1n2mI8HsGQzw2UsifRQCodQ-QUs93AKQ5ZeAJKODP1W9QJyZsl2qGY-g9uZ4qRPtUbRPgsi0WWtxaEQ1k-oLl0oExOmYnajnX7oI6-ZpDQlqFNfRBHFEIK0dFaxmP6GPK_blW7jTiC7RThNj90xlTebnfcsy4hpQIHFPxyN2hgTUi0IRhtstw5Tj37c-vL-6GDp7sHqEIw");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')">
+       <b>
+        🌟
+       </b>
+      </i>
+     </tg-emoji>
+     Astrill VPN (برای اولین بار در جهان)
+     <tg-emoji emoji-id="5321232564394925096">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/f3d1d0c042.webp?token=ecYD1WZw-eGATCrFrvSCxVyRCyf5vIOuXQV2ALN3xrradrebpnO69vmQrTc67qL6ZTUmFqlVmJWdb3BHeTdW0ACn5VpaV5x_IzVDGXHKd3YlTgfEQKZji7tzHWMI55VzrwyNAj9tiB6R1LHMPi9lesk698kX5yJhYqy9pRILbZ8pLFnIrbv0BY1iC8J5Ya34GqrZs2pc-Qi4Zb1BiNvB6V6zsgO584GQ2oSV5qO5HhXPeVZfB2NSHCGuRtjEMciSXpocl6IDSH4VuX5L-rOzRRMmRYK2yXbec57g0q5ntosncDKdYD838qMqhuhDOocVRHAvaaxD1G3RVjE1ZSxY3w" style='background-image: url("https://cdn4.telesco.pe/file/f3d1d0c042.webp?token=ecYD1WZw-eGATCrFrvSCxVyRCyf5vIOuXQV2ALN3xrradrebpnO69vmQrTc67qL6ZTUmFqlVmJWdb3BHeTdW0ACn5VpaV5x_IzVDGXHKd3YlTgfEQKZji7tzHWMI55VzrwyNAj9tiB6R1LHMPi9lesk698kX5yJhYqy9pRILbZ8pLFnIrbv0BY1iC8J5Ya34GqrZs2pc-Qi4Zb1BiNvB6V6zsgO584GQ2oSV5qO5HhXPeVZfB2NSHCGuRtjEMciSXpocl6IDSH4VuX5L-rOzRRMmRYK2yXbec57g0q5ntosncDKdYD838qMqhuhDOocVRHAvaaxD1G3RVjE1ZSxY3w");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')">
+       <b>
+        🆕
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5922668796337721748">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/68f9569f0b.webp?token=G7L6mG8pj9E7zuwM5M01z7vcDgw4G4Tk8Q4tC1ShL2Iy2y9PD7eDw4WI4xg7nofL3FpAvGHhfvkUgng7uVwZ6fYMlKQKZdwXEH7Q1k-Ld99zuqAgWEHrofUVGXTlPKumHJ_5ECdcbSK6hXOay6JirAzSu8sztB5XmwxNdT_APM3JLNErdTVVarOgVuSrC_IylwsQDgV4WCSNyIrpxqCuYtMbLZvZgR1y9kzhd8NfBgIaSKfYfjlr6-L7dVXa-mNJsJsyhl_Bm1LIXhKsYkPydXK5-47TiSgzGqoN9sX6Qx11tC5tJDdwRPv27qr-LGtPDTrFrNLGZlqTCGbuJaTIYg" style='background-image: url("https://cdn4.telesco.pe/file/68f9569f0b.webp?token=G7L6mG8pj9E7zuwM5M01z7vcDgw4G4Tk8Q4tC1ShL2Iy2y9PD7eDw4WI4xg7nofL3FpAvGHhfvkUgng7uVwZ6fYMlKQKZdwXEH7Q1k-Ld99zuqAgWEHrofUVGXTlPKumHJ_5ECdcbSK6hXOay6JirAzSu8sztB5XmwxNdT_APM3JLNErdTVVarOgVuSrC_IylwsQDgV4WCSNyIrpxqCuYtMbLZvZgR1y9kzhd8NfBgIaSKfYfjlr6-L7dVXa-mNJsJsyhl_Bm1LIXhKsYkPydXK5-47TiSgzGqoN9sX6Qx11tC5tJDdwRPv27qr-LGtPDTrFrNLGZlqTCGbuJaTIYg");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+       <b>
+        ❤️
+       </b>
+      </i>
+     </tg-emoji>
+     ExpressVPN
+     <br/>
+     <tg-emoji emoji-id="5922314517370376977">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/e50bb647b7.webp?token=HWCBUwqiLfWdGW6G9BEeIa9d2lNIVVQYPoXda1YosA8MYNkEt9tOnJ5YEKLwN1l7UuSmWFmkR2823VbpGAJPqeR8etMmFnsSWb_olOeIconh1ZXaGuRSLCIvb7ckw46FZYriQhPfr1tg7DgjpAhNTQ_zk8yJSgE5lB5Z0IUSbdFdafgFFsSHl4_CYNb5gXrb3RZ_qZKzujY7Qfa2MhOrPf1jd4URbLp4g7ZvXBSgWDMW_gAxqx2ZssU79GoIyNYARviSy2zbLJQT6hxijEa0m6QfPdf4JUO5rXOerHvL6qhav4kunISTe0XBx6bnLAMlBiCzoBoxVoNbraoouB1oWg" style='background-image: url("https://cdn4.telesco.pe/file/e50bb647b7.webp?token=HWCBUwqiLfWdGW6G9BEeIa9d2lNIVVQYPoXda1YosA8MYNkEt9tOnJ5YEKLwN1l7UuSmWFmkR2823VbpGAJPqeR8etMmFnsSWb_olOeIconh1ZXaGuRSLCIvb7ckw46FZYriQhPfr1tg7DgjpAhNTQ_zk8yJSgE5lB5Z0IUSbdFdafgFFsSHl4_CYNb5gXrb3RZ_qZKzujY7Qfa2MhOrPf1jd4URbLp4g7ZvXBSgWDMW_gAxqx2ZssU79GoIyNYARviSy2zbLJQT6hxijEa0m6QfPdf4JUO5rXOerHvL6qhav4kunISTe0XBx6bnLAMlBiCzoBoxVoNbraoouB1oWg");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')">
+       <b>
+        🌟
+       </b>
+      </i>
+     </tg-emoji>
+     Torguard
+     <br/>
+     <tg-emoji emoji-id="5922549434901598069">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/c5217aeacd.webp?token=KkJAkkj9a3DZEW6DUQvRQzGSHnv92pDMKGkp0U6Hi40UMlk_cDfQsKlyFvOSr0E4lnLkaAW0Y4SC7qTJWHWohAorJoubRHcrPhQtfb6W6Qsdyssz-lqSxiBEfqUo7HDqc_Zl-AVobuQng1YMbcYlqJUDlyo4XfRjj1aOiMNAXnlIcXPlh2eFZUHS89QwO4lcDx_QWWHMdLFasDsBojOf0cuzS4Zz2lfQojDXJRqqXm-TV-uQGqbHC0mvt9k6s2w0SxX7QEWuzQLTZQaqGnHeCsrC2-7OchSk5cV7-DfsVU4agMOYzmG8QFkwht2O6v9dyw2LLAAY4OWhEtQ_xFMSlg" style='background-image: url("https://cdn4.telesco.pe/file/c5217aeacd.webp?token=KkJAkkj9a3DZEW6DUQvRQzGSHnv92pDMKGkp0U6Hi40UMlk_cDfQsKlyFvOSr0E4lnLkaAW0Y4SC7qTJWHWohAorJoubRHcrPhQtfb6W6Qsdyssz-lqSxiBEfqUo7HDqc_Zl-AVobuQng1YMbcYlqJUDlyo4XfRjj1aOiMNAXnlIcXPlh2eFZUHS89QwO4lcDx_QWWHMdLFasDsBojOf0cuzS4Zz2lfQojDXJRqqXm-TV-uQGqbHC0mvt9k6s2w0SxX7QEWuzQLTZQaqGnHeCsrC2-7OchSk5cV7-DfsVU4agMOYzmG8QFkwht2O6v9dyw2LLAAY4OWhEtQ_xFMSlg");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+       <b>
+        ❤️
+       </b>
+      </i>
+     </tg-emoji>
+     Private VPN
+     <br/>
+     <tg-emoji emoji-id="5922571519623434973">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/33f09d4aaa.webp?token=kVuR0BXIrNjyj5EShtPv2zYaH3EIwCU6AkKHM6LQWxfZ1ML6Qox45c2eOsoCnElS_dk2LCV8Ny7oYoHnRlgDzlN2lAEaa0J6JRkdFyb2Y7_d-Jtmlgwgata_qdt9omjSwvKGiz5ziW2VCAhO7zKV2Goh2bHQzUzmQmD0xxHEGUym-viXXrmnzTelBV4FmCK2W0nhHHH_LFKo2YeEj1Q2J6mlWhgweJqIU_nbVcJqlHmgEaX_d1CXtyx-fI8apSVahhXnYKfx9yJ8dXj6F09qcix2OtnBuzeznpHIfFqVAkKGscXYpkGjUQrU0gy1_doUsjJo1EwRPEyMajTVtVdIcQ" style='background-image: url("https://cdn4.telesco.pe/file/33f09d4aaa.webp?token=kVuR0BXIrNjyj5EShtPv2zYaH3EIwCU6AkKHM6LQWxfZ1ML6Qox45c2eOsoCnElS_dk2LCV8Ny7oYoHnRlgDzlN2lAEaa0J6JRkdFyb2Y7_d-Jtmlgwgata_qdt9omjSwvKGiz5ziW2VCAhO7zKV2Goh2bHQzUzmQmD0xxHEGUym-viXXrmnzTelBV4FmCK2W0nhHHH_LFKo2YeEj1Q2J6mlWhgweJqIU_nbVcJqlHmgEaX_d1CXtyx-fI8apSVahhXnYKfx9yJ8dXj6F09qcix2OtnBuzeznpHIfFqVAkKGscXYpkGjUQrU0gy1_doUsjJo1EwRPEyMajTVtVdIcQ");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+       <b>
+        ❤️
+       </b>
+      </i>
+     </tg-emoji>
+     HotspotShield
+     <br/>
+     <tg-emoji emoji-id="5922709607116968955">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/7c8c5404e1.webp?token=EMOdMMpfkOQVrX7yCZIUsUPDYcLkFGaNff8XuxK59KVhdg8L2Rqj7gU6PfhCuh0lMiCb26GCf1K2ioKFvH3d4RsWelzQ2GFDT4zQJoxDL8iA7ObMG1cku3RCBDAOembWhB3sQCaXfDG-FfFIerSBjPVETjDQzIbcdnGGC54qs2emzvWusjy3rAlszqRiTRep9shUtswvLkL9PxspyawQZFQ0qQUx7S1MYHVOEr-r_Kr-WRbn1Kds5EatWaatZZykaSkjODk_2ph4Nq7VJBH5EJMxdpUo5zzKghi--46gQiSKrHXv1aL169dyynTDYdib5GU6S2DFKTPqVOkYv-JbwA" style='background-image: url("https://cdn4.telesco.pe/file/7c8c5404e1.webp?token=EMOdMMpfkOQVrX7yCZIUsUPDYcLkFGaNff8XuxK59KVhdg8L2Rqj7gU6PfhCuh0lMiCb26GCf1K2ioKFvH3d4RsWelzQ2GFDT4zQJoxDL8iA7ObMG1cku3RCBDAOembWhB3sQCaXfDG-FfFIerSBjPVETjDQzIbcdnGGC54qs2emzvWusjy3rAlszqRiTRep9shUtswvLkL9PxspyawQZFQ0qQUx7S1MYHVOEr-r_Kr-WRbn1Kds5EatWaatZZykaSkjODk_2ph4Nq7VJBH5EJMxdpUo5zzKghi--46gQiSKrHXv1aL169dyynTDYdib5GU6S2DFKTPqVOkYv-JbwA");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')">
+       <b>
+        🌟
+       </b>
+      </i>
+     </tg-emoji>
+     Geph
+     <br/>
+     <tg-emoji emoji-id="5922754751518216273">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/92477057ed.webp?token=LtjVIlqcj1iuwrJJOEFweSwCCiR21RP73kSVg2M_ojhqOIgV6K9brDnS_pwfAj0CIrIwwVvz2UnCsQRBEdZrJs0cJot42tUZz_3H2_A5MMW4E12dMmswFv92q4UvYwY7tOZqDdpKbg9zbGjY8UGedZFeeOv9j-y3FvIeqM2DpzHLJ_-NB9a-futNS2aqLsVesraILocHWAXAcXWJrnsD20QHhhmGox0aei7qCPHaEb3224QotbmNdEBAVf1kiEV2DfrrNj18cRkQ-tR9pfmnCW_LVJ9TI5JarnVY51bZ_rsPsHV__XenQvUzNZJYNj9cpxu8VNh43YdW9vCG4w531w" style='background-image: url("https://cdn4.telesco.pe/file/92477057ed.webp?token=LtjVIlqcj1iuwrJJOEFweSwCCiR21RP73kSVg2M_ojhqOIgV6K9brDnS_pwfAj0CIrIwwVvz2UnCsQRBEdZrJs0cJot42tUZz_3H2_A5MMW4E12dMmswFv92q4UvYwY7tOZqDdpKbg9zbGjY8UGedZFeeOv9j-y3FvIeqM2DpzHLJ_-NB9a-futNS2aqLsVesraILocHWAXAcXWJrnsD20QHhhmGox0aei7qCPHaEb3224QotbmNdEBAVf1kiEV2DfrrNj18cRkQ-tR9pfmnCW_LVJ9TI5JarnVY51bZ_rsPsHV__XenQvUzNZJYNj9cpxu8VNh43YdW9vCG4w531w");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+       <b>
+        ❤️
+       </b>
+      </i>
+     </tg-emoji>
+     Cyberghost
+     <br/>
+     <tg-emoji emoji-id="5922381368536338884">
+      <span class="tg-emoji-wrap">
+       <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/86d9caaf2f.webp?token=iSGLbutxXOH8qkJJcO_1dZu5elNTSmiJXbKhJ9SF-1RdAn74yZEdpCuiCpwwziW1DEy8F03JRMxTOXW9IW7QDLG3WpDD1EtAW2MwbtRjnwE60GpScvNhIuDwHG_fv5AlFB60csJ954oZ5Zo06c4uqCC2hzHtiidtwesCzG7IICd8nXn1ASSxaJosF8FpIqpQvWwQlgV7UuMYIW6vO_qMB-kLVGOnq13e-0FlDmrisQI15rVysKLQI_kmfV-VOdO2yZSBO_osuRWMUkfydTNvphTH9OnWjEVSA-r7vy1hFtJVNScV2NWxZB3S_O1hPahjyKP_RjOdHiCc0YGuOTY5ww" style='background-image: url("https://cdn4.telesco.pe/file/86d9caaf2f.webp?token=iSGLbutxXOH8qkJJcO_1dZu5elNTSmiJXbKhJ9SF-1RdAn74yZEdpCuiCpwwziW1DEy8F03JRMxTOXW9IW7QDLG3WpDD1EtAW2MwbtRjnwE60GpScvNhIuDwHG_fv5AlFB60csJ954oZ5Zo06c4uqCC2hzHtiidtwesCzG7IICd8nXn1ASSxaJosF8FpIqpQvWwQlgV7UuMYIW6vO_qMB-kLVGOnq13e-0FlDmrisQI15rVysKLQI_kmfV-VOdO2yZSBO_osuRWMUkfydTNvphTH9OnWjEVSA-r7vy1hFtJVNScV2NWxZB3S_O1hPahjyKP_RjOdHiCc0YGuOTY5ww");'>
+       </i>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+       <b>
+        ❤️
+       </b>
+      </i>
+     </tg-emoji>
+     PureVPN
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5985688546529251745">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs tg-emoji-text-color">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=rKvCdlwOy3Ov845IHsGKQnvvM-XfT9Z4lIyNhju52UPlXbgMYCTTGHvXhF4b1o_QbOK0UF-ZutYM-QHhnpW1nmj3mJN_FrwSZHuQ8fXpXC5ydKqp0a8-mw-cM60rdA4cQ2sE5FgkJPnF3JXbLJf9Y4TUEGkZAIeE8g3G0tdGxU_ChlichIS2bNx7EQklifvJgkM4hOkDKu3SPJo1Vpl0ldiaKl0e3GyR7XpHDzjnbJ_xY6cYlYkHwLLN7j2hs3BuhlsRkYH_uq5xYXy7Qh5kEcbXucoWeFiB3FthL_8J6WQmL0MBN3ApdKXtpHeRbij0mbzCBzfcUZsoG8bRpuIoSw" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M84%2C454c-76-17%2C45-109%2C66-131%2C6-5%2C18-9%2C17-17%2C1-18-85-61-78-96%2C7-30%2C81-67%2C110-70%2C10-1%2C30%2C5%2C39%2C0%2C15-8%2C30-58%2C47-73%2C47-40%2C86%2C9%2C118%2C41%2C15%2C14%2C33%2C29%2C46%2C45%2C7%2C10%2C12%2C26%2C10%2C38-4%2C41-41%2C55-72%2C73-5%2C4-12%2C5-16%2C10-4%2C5%2C0%2C37%2C1%2C45-6%2C33-34%2C92-68%2C103-33%2C11-80-77-97-77-14%2C0-90%2C109-121%2C109z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')">
+       <b>
+        📌
+       </b>
+      </i>
+     </tg-emoji>
+     اکانت کرکی Astrill VPN (نابود کننده فایروال قدرتمند چین) برای اولین بار در جهان ارائه میشه.
+     <br/>
+     کاربران چینی عاشق این VPN اند.
+     <br/>
+     <tg-emoji emoji-id="5985688546529251745">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs tg-emoji-text-color">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=rKvCdlwOy3Ov845IHsGKQnvvM-XfT9Z4lIyNhju52UPlXbgMYCTTGHvXhF4b1o_QbOK0UF-ZutYM-QHhnpW1nmj3mJN_FrwSZHuQ8fXpXC5ydKqp0a8-mw-cM60rdA4cQ2sE5FgkJPnF3JXbLJf9Y4TUEGkZAIeE8g3G0tdGxU_ChlichIS2bNx7EQklifvJgkM4hOkDKu3SPJo1Vpl0ldiaKl0e3GyR7XpHDzjnbJ_xY6cYlYkHwLLN7j2hs3BuhlsRkYH_uq5xYXy7Qh5kEcbXucoWeFiB3FthL_8J6WQmL0MBN3ApdKXtpHeRbij0mbzCBzfcUZsoG8bRpuIoSw" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M84%2C454c-76-17%2C45-109%2C66-131%2C6-5%2C18-9%2C17-17%2C1-18-85-61-78-96%2C7-30%2C81-67%2C110-70%2C10-1%2C30%2C5%2C39%2C0%2C15-8%2C30-58%2C47-73%2C47-40%2C86%2C9%2C118%2C41%2C15%2C14%2C33%2C29%2C46%2C45%2C7%2C10%2C12%2C26%2C10%2C38-4%2C41-41%2C55-72%2C73-5%2C4-12%2C5-16%2C10-4%2C5%2C0%2C37%2C1%2C45-6%2C33-34%2C92-68%2C103-33%2C11-80-77-97-77-14%2C0-90%2C109-121%2C109z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')">
+       <b>
+        📌
+       </b>
+      </i>
+     </tg-emoji>
+     توصیه ی ما برای کاربران ایرانی Windscribe است.
+    </blockquote>
+    <br/>
+    <br/>
+    <blockquote expandable="">
+     <b>
+      <tg-emoji emoji-id="5940594336268817360">
+       <span class="tg-emoji-wrap">
+        <i class="tg-emoji tg-emoji-webp webp_sticker_done" data-webp="https://cdn4.telesco.pe/file/f3e7b1b1aa.webp?token=r4qUlKDMwlCtNPjAqYoIZXwSwW1v_89BbIVFQo-2LAbtA1ZNbi6I9dMQA_MnWtLZECtlP4E_lyrh4Hh4YBDKpJJD_Xs-YvPnzBM7UEPGUpLTKnuH1cggL65WoVp5eLtQ91N3CboskEwxWmeea-yOIrgm_Ha63h5BUEQIXJymOMmPm15JiP-E9YQSuYIJvlXBVk-gnL6CLNu1B9pAdExgYU0VFnuVRHRqTj46K7oUg7jAL1s9VBo9xKQ8bVpWHwL4omLxLuurSIi97fOpmP6H-m-A9uX7O_j0gcmHLYRhSgoyZFIVWvsTavnha7KVq_ObpAcxXIChqf3sNZMSYgeBUg" style='background-image: url("https://cdn4.telesco.pe/file/f3e7b1b1aa.webp?token=r4qUlKDMwlCtNPjAqYoIZXwSwW1v_89BbIVFQo-2LAbtA1ZNbi6I9dMQA_MnWtLZECtlP4E_lyrh4Hh4YBDKpJJD_Xs-YvPnzBM7UEPGUpLTKnuH1cggL65WoVp5eLtQ91N3CboskEwxWmeea-yOIrgm_Ha63h5BUEQIXJymOMmPm15JiP-E9YQSuYIJvlXBVk-gnL6CLNu1B9pAdExgYU0VFnuVRHRqTj46K7oUg7jAL1s9VBo9xKQ8bVpWHwL4omLxLuurSIi97fOpmP6H-m-A9uX7O_j0gcmHLYRhSgoyZFIVWvsTavnha7KVq_ObpAcxXIChqf3sNZMSYgeBUg");'>
+        </i>
+       </span>
+       <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')">
+        <b>
+         🔵
+        </b>
+       </i>
+      </tg-emoji>
+     </b>
+     <b>
+      فروش اکانت های قانونی Windscribe با ارزان ترین قیمت
+     </b>
+     <b>
+      <tg-emoji emoji-id="5280735858926822987">
+       <span class="tg-emoji-wrap">
+        <picture class="tg-emoji tg-emoji-tgs">
+         <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=jQ54H_5cthhY6C0iilT7X4_O-QaRg6tMZWZJN66FBnMMn9YMKN3HCdZmNhcs3tzxhs415WoBq5DEnJWdcgmPs8NwgZarnTBS3mnLmTSJAB3rGQ--2XMgqdLpXzer-Y-VNdFSVXDP_Y32vLDFg-yfrJcm1IzEpEGzEy_L3vJzBKrfez1yZW0Z8Jw-IBYuPAd_LHrTcAhVJfMGAxKfDwkcK7y7O0aESAreq64OJtH8J8R81nlagVkvKqQXEaONJciL2d792ZMEEG-WYSPXicUZEMynmoJ3qx4N3W9yLznI8xLD8JKHpi4nQ6BcAEK06r3z4c6pGe2d0AYt3FH5b4ytMA" type="application/x-tgsticker"/>
+         <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M252%2C464c-62%2C0-118-42-135-101-16-54%2C1-112%2C43-149%2C13-12%2C46-22%2C53-29%2C1-2%2C0-13%2C0-15%2C0-4%2C4-11%2C4-14-2-9-13-18-17-26-10-22-29-75-30-98%2C0-6%2C18%2C0%2C19%2C0%2C14%2C0%2C54-5%2C56-2%2C3%2C6%2C4%2C14%2C6%2C20%2C3%2C7%2C1-18%2C6-21%2C0%2C0%2C60%2C4%2C67%2C4%2C2%2C0%2C14-5%2C15-4%2C7%2C4-32%2C102-41%2C111-3%2C3-17%2C11-16%2C16%2C1%2C4%2C3%2C25%2C4%2C27%2C4%2C5%2C13%2C3%2C19%2C6%2C31%2C12%2C59%2C36%2C74%2C65%2C48%2C94-20%2C211-128%2C210z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+         <canvas height="19" width="19">
+         </canvas>
+        </picture>
+       </span>
+       <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA587.png')">
+        <b>
+         🥇
+        </b>
+       </i>
+      </tg-emoji>
+     </b>
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="6048583283107697605">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs tg-emoji-text-color">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=plFGODVEeO7kaW0FmrfsIumDPh3v1wO-BrB8tEQpVCdup8fPl4U0o8lymeTMrJm00RjwMi6QENg5M6oqJUir_oZt9Hj-UzELYfpvRe7rRo3mzBvTyUPVRbHps1miE7Rx8GIyToAGaceYPe7oZnwAsIGK0CvdAkS7hMQoSkRPRQe4ziApTleog-__2_mU7W69xGrjd5pS5bAS8n8FQQldizZtnES4X5Junt6v4apbezj58AKC0G3LnGwXg6Y3yLp68JrC-iPbL6MMreFXIQisgY31BQwnkgJcQZZSCt29huOZxWOKPEfxi2eDhDtZFpLzTsEs2GuLtfcR7LvcLOlKFw" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M260%2C474c-71%2C1-145%2C11-194-50-35-43-27-98-27-149%2C0-55-12-124%2C18-174%2C47-77%2C136-63%2C212-63%2C41%2C1%2C87-6%2C125%2C10%2C89%2C38%2C79%2C128%2C79%2C208%2C0%2C70%2C11%2C140-49%2C190-45%2C38-109%2C28-164%2C28z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')">
+       <b>
+        1️⃣
+       </b>
+      </i>
+     </tg-emoji>
+     بهترین VPN موجود در بازار
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5837024519935496497">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M50%2C97h-1l-8-5-8-5-5-5-5-6-4-6-3-6-1-6-2-7-1-10-1-10%2C0-11%2C1-12%2C2%2C1h3l16-3%2C16-3%2C7%2C2%2C8%2C1%2C10%2C1%2C11%2C2h2l2%2C1v10%2C9l-1%2C11-1%2C11-1%2C7-2%2C6-3%2C7-3%2C6-7%2C7-6%2C6-7%2C4-6%2C4h-2z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/61a714d0a1.webm?token=jBxlEu5NLwNLU_VO05osXco5Tiqbsq3wrYws39UQxH5ckECtQV4Cmdt7yoi6ZPRjVsH1Zf-iNI0CVoeEn_853SeiGzor3bu-W3x09f2tnJdTp44cUf2z7xRZsFSeN5bGikjkULuKctLUd-JJfpFxzeWa5XtGD8-PcOAZsFGfkgbrxpqtBbDlUkY0rLH_Cd_VfWYEJFYyI7X624L3CRGtzJMQOLrvFpwvUOqVtM5ticERnOCqMMdFdCREHvwNG7h8yw9jt4K3dxlEwEJrcMnn-Q_libZMwjIE3TnEGcLw6WJTp1FTvJD2UFDNyOEK3XIqqkloAmPsmEa_fOc9zHq-5w" width="100%">
+         <img src="https://cdn4.telesco.pe/file/LvUpKM_aqUrJxVtOJpJBlWF-i57raaupp0qQF6Ekf0jN9AVJZ_VtBv45fPfAnN6e21vitK_kPH20HOwdjvFQuWweAjJZSE8KX3QhhPh0Jax5VfDMg7SZWIIkj1BonFPTBx2ZyvpWUIoec0H3u8XeI1N_S6nMnfDVQDK-3iolbkBgZsOLGkuX-kFqL8cqSLC328VecjDvrSwEW-D6cJ51ry0AOwZgGj7pYvAZvK0xysZZnOBHFlHlXgfy3z4qanogJO8RDmCHMXnUMlxxUJKRRa1c0RKWpwjQdzXxIvAZNfrwG4qcBGaIvrWiMSizlL8rkrc-WwlkrSQREqC2Q2FsOA"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     قابل اتصال روی تمام شرکت های اینترنتی ایران
+     <tg-emoji emoji-id="5920160977818489355">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M50%2C77h-50l0-28%2C0-29h50%2C50v29%2C28h-50z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/ebf7a66371.webm?token=mR_x7zuwc8v2JL_0ZutXr8qdLsRFgucbBPQ_CSEoESJe1-LHn1QVW65iT-5HVNq3RlhtezY8kcS7i9CMVP3RxynlESQgel2yhGFCsf6OMYmClyMpbTyCDcYfqIy-Isru1bkYtaOxh1CawA511eV8M329nyNnqOfbgSJ16pSHq-d0oEtf7ZAdLjvDfS5KTMhodSRXuboTVeRgggoDuca9PfGEJ1dZPq5rlUdDweEpy0TXHOCLl6o5fNVFk3jicrugYMW8Kt4osmvNjbvDytceCdZXQr66Fxhng2pG1rB2BbKxhx2Zzz_ULTEiXN99Fy-nIynGVWrJU48W7LQ-fWpFkw" width="100%">
+         <img src="https://cdn4.telesco.pe/file/YArYAvDBiYJ7uvm3jOR7jH0po7BxPFsFQU8TKY6R8cSgPVbD_-AaXEhI5Y3-tPF7a8-lCXvAvSXXhWWxl9GlVpStHLCctBu1noT0E1s_gIRXuCcBYvSUBTlJSYrEQyHYJtKxp5wu_4nBfg0-YBKjG3zxjKc-gqpauE4lYCbx9c_z8uPaKrW3KXoA2mysdslK4RZw_sRLEjMA0rLMkXFwwMZSVp2YngyAXZRAnmC1JQO56Eo7n4BlvykV4fHa1BA8ITPs6cmTv9ufXIToMVgWNnfiLKonvTFSRSF9EFdvNBGZJECzcPeOfeYknM0v-MzlQhz_UhgtvMTMeg9zsIaLpQ"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')">
+       <b>
+        🇮🇷
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5837024519935496497">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M50%2C97h-1l-8-5-8-5-5-5-5-6-4-6-3-6-1-6-2-7-1-10-1-10%2C0-11%2C1-12%2C2%2C1h3l16-3%2C16-3%2C7%2C2%2C8%2C1%2C10%2C1%2C11%2C2h2l2%2C1v10%2C9l-1%2C11-1%2C11-1%2C7-2%2C6-3%2C7-3%2C6-7%2C7-6%2C6-7%2C4-6%2C4h-2z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/61a714d0a1.webm?token=jBxlEu5NLwNLU_VO05osXco5Tiqbsq3wrYws39UQxH5ckECtQV4Cmdt7yoi6ZPRjVsH1Zf-iNI0CVoeEn_853SeiGzor3bu-W3x09f2tnJdTp44cUf2z7xRZsFSeN5bGikjkULuKctLUd-JJfpFxzeWa5XtGD8-PcOAZsFGfkgbrxpqtBbDlUkY0rLH_Cd_VfWYEJFYyI7X624L3CRGtzJMQOLrvFpwvUOqVtM5ticERnOCqMMdFdCREHvwNG7h8yw9jt4K3dxlEwEJrcMnn-Q_libZMwjIE3TnEGcLw6WJTp1FTvJD2UFDNyOEK3XIqqkloAmPsmEa_fOc9zHq-5w" width="100%">
+         <img src="https://cdn4.telesco.pe/file/LvUpKM_aqUrJxVtOJpJBlWF-i57raaupp0qQF6Ekf0jN9AVJZ_VtBv45fPfAnN6e21vitK_kPH20HOwdjvFQuWweAjJZSE8KX3QhhPh0Jax5VfDMg7SZWIIkj1BonFPTBx2ZyvpWUIoec0H3u8XeI1N_S6nMnfDVQDK-3iolbkBgZsOLGkuX-kFqL8cqSLC328VecjDvrSwEW-D6cJ51ry0AOwZgGj7pYvAZvK0xysZZnOBHFlHlXgfy3z4qanogJO8RDmCHMXnUMlxxUJKRRa1c0RKWpwjQdzXxIvAZNfrwG4qcBGaIvrWiMSizlL8rkrc-WwlkrSQREqC2Q2FsOA"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     هر اکانت قابل اتصال تا 15 یوزر همزمان
+     <tg-emoji emoji-id="5215203703190989803">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M33%2C98c19-40-1-27-1-32%2C0-7%2C11-23%2C11-23-15-1-22%2C5-13-12%2C2-4%2C11-29%2C16-30%2C49-8%2C12%2C18%2C15%2C22%2C1%2C1%2C16-2%2C14%2C2-1%2C2-18%2C24-17%2C26%2C1%2C1%2C14-3%2C13%2C2-4%2C15-28%2C34-38%2C45z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/cc84a70ae6.webm?token=CBxb8srzejwI7pQYTdWBA2JTBJL_EWrpgK7edMzIG9hMsVjItnJc0DUblPavo9jmDGN2kPKQ4_INScWVM9167OSdNcbmpUtZslq4DUFD6lu-3oST39Dz6G0skfP-jZe3cz0561fxT0xijUOgnbsCIPHDkw5CcWQEoL0tbonV0bD73-fV_Hp_aSA0rUm7jiboCPHenH7TY03TM2EtO-9m5ZhQNfBgiqbmTZYCT2gqxY39XSUemBQXyvFN9TwgTcCau_M_3kLWBKOwHbf_2wTAc_-hlttIfNXY7z_e0_1LY0c5tXCkL85x3z7VZkpbZzKEBdd2GUQs1MYvWHvmu1X8jQ" width="100%">
+         <img src="https://cdn4.telesco.pe/file/X4iKsxMM38k2GbOIBIEU7sKsQs8KFrTKf2HCDFxPkMw7ml-3jctndjPlViySONrnk_MXXZMTVF9vBDVLLa-LDGwhXrDsIRE_ZqT8n7x21ux0X-Vw98THpbOQ2-_DhXSL4HGuaUga5FLj_TWuIr7NV0INSukF1W3PMJDGuvTGJc5ArYKLeLVtpD_pJ9CMwN_wboX4gxGEEMnR9CQuwna3PJHNjJf0Y90Hte0Nk3yEPkWx3WljRDaTahHsydvAGA4Hpf4e515yaFNBjbmj9zHNdjeKYnncegiXZdYUrDUbtt-2AmJou5OHoJJg6l7oMLpBRHtG00IpB7qT-TulpUfSJw"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')">
+       <b>
+        ⚡️
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5837024519935496497">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M50%2C97h-1l-8-5-8-5-5-5-5-6-4-6-3-6-1-6-2-7-1-10-1-10%2C0-11%2C1-12%2C2%2C1h3l16-3%2C16-3%2C7%2C2%2C8%2C1%2C10%2C1%2C11%2C2h2l2%2C1v10%2C9l-1%2C11-1%2C11-1%2C7-2%2C6-3%2C7-3%2C6-7%2C7-6%2C6-7%2C4-6%2C4h-2z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/61a714d0a1.webm?token=jBxlEu5NLwNLU_VO05osXco5Tiqbsq3wrYws39UQxH5ckECtQV4Cmdt7yoi6ZPRjVsH1Zf-iNI0CVoeEn_853SeiGzor3bu-W3x09f2tnJdTp44cUf2z7xRZsFSeN5bGikjkULuKctLUd-JJfpFxzeWa5XtGD8-PcOAZsFGfkgbrxpqtBbDlUkY0rLH_Cd_VfWYEJFYyI7X624L3CRGtzJMQOLrvFpwvUOqVtM5ticERnOCqMMdFdCREHvwNG7h8yw9jt4K3dxlEwEJrcMnn-Q_libZMwjIE3TnEGcLw6WJTp1FTvJD2UFDNyOEK3XIqqkloAmPsmEa_fOc9zHq-5w" width="100%">
+         <img src="https://cdn4.telesco.pe/file/LvUpKM_aqUrJxVtOJpJBlWF-i57raaupp0qQF6Ekf0jN9AVJZ_VtBv45fPfAnN6e21vitK_kPH20HOwdjvFQuWweAjJZSE8KX3QhhPh0Jax5VfDMg7SZWIIkj1BonFPTBx2ZyvpWUIoec0H3u8XeI1N_S6nMnfDVQDK-3iolbkBgZsOLGkuX-kFqL8cqSLC328VecjDvrSwEW-D6cJ51ry0AOwZgGj7pYvAZvK0xysZZnOBHFlHlXgfy3z4qanogJO8RDmCHMXnUMlxxUJKRRa1c0RKWpwjQdzXxIvAZNfrwG4qcBGaIvrWiMSizlL8rkrc-WwlkrSQREqC2Q2FsOA"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     قابل اتصال در اندروید، IOS و ویندوز
+     <br/>
+     <tg-emoji emoji-id="5837024519935496497">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M50%2C97h-1l-8-5-8-5-5-5-5-6-4-6-3-6-1-6-2-7-1-10-1-10%2C0-11%2C1-12%2C2%2C1h3l16-3%2C16-3%2C7%2C2%2C8%2C1%2C10%2C1%2C11%2C2h2l2%2C1v10%2C9l-1%2C11-1%2C11-1%2C7-2%2C6-3%2C7-3%2C6-7%2C7-6%2C6-7%2C4-6%2C4h-2z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/61a714d0a1.webm?token=jBxlEu5NLwNLU_VO05osXco5Tiqbsq3wrYws39UQxH5ckECtQV4Cmdt7yoi6ZPRjVsH1Zf-iNI0CVoeEn_853SeiGzor3bu-W3x09f2tnJdTp44cUf2z7xRZsFSeN5bGikjkULuKctLUd-JJfpFxzeWa5XtGD8-PcOAZsFGfkgbrxpqtBbDlUkY0rLH_Cd_VfWYEJFYyI7X624L3CRGtzJMQOLrvFpwvUOqVtM5ticERnOCqMMdFdCREHvwNG7h8yw9jt4K3dxlEwEJrcMnn-Q_libZMwjIE3TnEGcLw6WJTp1FTvJD2UFDNyOEK3XIqqkloAmPsmEa_fOc9zHq-5w" width="100%">
+         <img src="https://cdn4.telesco.pe/file/LvUpKM_aqUrJxVtOJpJBlWF-i57raaupp0qQF6Ekf0jN9AVJZ_VtBv45fPfAnN6e21vitK_kPH20HOwdjvFQuWweAjJZSE8KX3QhhPh0Jax5VfDMg7SZWIIkj1BonFPTBx2ZyvpWUIoec0H3u8XeI1N_S6nMnfDVQDK-3iolbkBgZsOLGkuX-kFqL8cqSLC328VecjDvrSwEW-D6cJ51ry0AOwZgGj7pYvAZvK0xysZZnOBHFlHlXgfy3z4qanogJO8RDmCHMXnUMlxxUJKRRa1c0RKWpwjQdzXxIvAZNfrwG4qcBGaIvrWiMSizlL8rkrc-WwlkrSQREqC2Q2FsOA"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     با پروتکل ضد فیلتر قدرتمند Circumvent Censorship
+     <br/>
+     <tg-emoji emoji-id="5837024519935496497">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M50%2C97h-1l-8-5-8-5-5-5-5-6-4-6-3-6-1-6-2-7-1-10-1-10%2C0-11%2C1-12%2C2%2C1h3l16-3%2C16-3%2C7%2C2%2C8%2C1%2C10%2C1%2C11%2C2h2l2%2C1v10%2C9l-1%2C11-1%2C11-1%2C7-2%2C6-3%2C7-3%2C6-7%2C7-6%2C6-7%2C4-6%2C4h-2z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/61a714d0a1.webm?token=jBxlEu5NLwNLU_VO05osXco5Tiqbsq3wrYws39UQxH5ckECtQV4Cmdt7yoi6ZPRjVsH1Zf-iNI0CVoeEn_853SeiGzor3bu-W3x09f2tnJdTp44cUf2z7xRZsFSeN5bGikjkULuKctLUd-JJfpFxzeWa5XtGD8-PcOAZsFGfkgbrxpqtBbDlUkY0rLH_Cd_VfWYEJFYyI7X624L3CRGtzJMQOLrvFpwvUOqVtM5ticERnOCqMMdFdCREHvwNG7h8yw9jt4K3dxlEwEJrcMnn-Q_libZMwjIE3TnEGcLw6WJTp1FTvJD2UFDNyOEK3XIqqkloAmPsmEa_fOc9zHq-5w" width="100%">
+         <img src="https://cdn4.telesco.pe/file/LvUpKM_aqUrJxVtOJpJBlWF-i57raaupp0qQF6Ekf0jN9AVJZ_VtBv45fPfAnN6e21vitK_kPH20HOwdjvFQuWweAjJZSE8KX3QhhPh0Jax5VfDMg7SZWIIkj1BonFPTBx2ZyvpWUIoec0H3u8XeI1N_S6nMnfDVQDK-3iolbkBgZsOLGkuX-kFqL8cqSLC328VecjDvrSwEW-D6cJ51ry0AOwZgGj7pYvAZvK0xysZZnOBHFlHlXgfy3z4qanogJO8RDmCHMXnUMlxxUJKRRa1c0RKWpwjQdzXxIvAZNfrwG4qcBGaIvrWiMSizlL8rkrc-WwlkrSQREqC2Q2FsOA"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     اکانت روی ایمیل شخصی خودتون ارائه میشه
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5332600543963522398">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M49%2C99c-7-1-46%2C4-46-4%2C0-16%2C0-32%2C0-48%2C0-5%2C7-32%2C10-33%2C5%2C1%2C10%2C2%2C16%2C1%2C1%2C0%2C1-9%2C4-8%2C6%2C1%2C11%2C8%2C18%2C7%2C14-3%2C1-19%2C25%2C0%2C3%2C2%2C19%2C10%2C19%2C14%2C0%2C4-6%2C7-4%2C12%2C3%2C7%2C13%2C57-2%2C60-12%2C3-28%2C0-40%2C0z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/68cb193e51.webm?token=jTs4U2XWhHW_qAkpCj6gkNP8MBGJPI8KkpwSq6B07D0PD8su__rG-8aJ8JCtHh3zDJnFxwhGlL8SYDTcm7tWCg_S1uHgk44l0YDfG9EQ0FSFYaFUGNP9hTIuEU3mNJE7SBye6yUitrqJS5iB8OzU9stSgtg_Bhh-IWS6__UpbV6xsV41T6dWT50lal3vznZDUYnOk8S0rzTHv0A6kI5KAStGFIm9-ueDkL8Gvs5SDu2RUXE5b2kG7NDS8BdVSEGaYH6HwER1Y0C3oKKKfQ4iL54vI_5qpj4nkm_wzYu5AzaDKhgIWzI4Liq4dGCxRuG2O3vNhKv29xFi4Q6wirnbUQ" width="100%">
+         <img src="https://cdn4.telesco.pe/file/rePQQ9XTnJ3RS9Qk5HH0e6C5uxNjbTQLwnRstUlyPqVuSm_lWswi06yv4v9jZR7YmPefMY-mrHiagcxsUmkNLY14YXI4ouudAH08Sm-QQug4o3-5HAjudbhsDHfv-W6JwLZeNlXJ7AmanhwrfFzMfdmfrBh5_wplMVn0uIL0DBvCuD2pdY84ns-ai2VpVfsXe-e0UHQ0HDnSjfwpcLp-n9vdwczqGDma6s15EpaoYjCUu-wIsQSD-kHMylpJ3zBVv7xdQcx1qyQfNulcTk-ud9wI9kPY7bazhHgwcvk-aclIMqsGCRxgoJ143dxJBSvgGaMQr86wQThz3PhqebJBOw"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')">
+       <b>
+        💰
+       </b>
+      </i>
+     </tg-emoji>
+     قیمت فقط 3 ماهه 500 تومان
+    </blockquote>
+    <br/>
+    <br/>
+    <blockquote expandable="">
+     RandomVPN
+     <tg-emoji emoji-id="5980930633298350051">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GGXqTM60efroNdpuD2bzQLiw72qr6M5J4DUicDEWvzB7LK9_7QCgT2jhtTbSISMERKbKZh8kES2A2kj8YOwEQlbFkZ258g0Nm6wk0SA2CEL1GsEvwmxn-2naomXlrTMGbCXvTDOtXObiM2poZy-ebKYYHAD7WlQ6tPD_Ef0grLaD_SA44B41Bfb-75vRE9NUhDvJM3NfnDpThVamH1Aj6oUjx1uK0lwWrVabfKHPL99YueTHf3YLQc5WChaweavlJp5Rm7WxyULvEqYLf9G1SbsVJNwBfhGuj342ksNf6J1PnVTSE1OEF8rsMT9AvgHaMbRN9KEApYU-O0EeyeVhyw" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/ufiTlB5ivpAOouqC7PcLqZCHtx-asg7wnkBRXkifyVHJOVSbpqNKjLoUUVBuXHvlrN3ckdy3yNAOjm02fUHR9iW-_ZztUD6corY96foLMnCt1x1MKDUEPPsZJSVa_B4F-v0tRhi0wUTzhku7rkBMYvq9syl6Y0qcU5_wHgUosfxBRPKxD2cEe2wKVmYSUmiR3DHPNxY-ej2gSligpyrerKRmJ5F7Hf4TETbxyV3IEEniftiURFeBYrPAPEUclWlBBwWAbQ7-NbH76yRAmJVyZ_E0K8Fprq5aqXr1edsReMXNOGAa7svSx9JeMShuf6mlhlu7-L1laQqBXYMCWURKHg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     |  رندوم وی پی ان
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5980930633298350051">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GGXqTM60efroNdpuD2bzQLiw72qr6M5J4DUicDEWvzB7LK9_7QCgT2jhtTbSISMERKbKZh8kES2A2kj8YOwEQlbFkZ258g0Nm6wk0SA2CEL1GsEvwmxn-2naomXlrTMGbCXvTDOtXObiM2poZy-ebKYYHAD7WlQ6tPD_Ef0grLaD_SA44B41Bfb-75vRE9NUhDvJM3NfnDpThVamH1Aj6oUjx1uK0lwWrVabfKHPL99YueTHf3YLQc5WChaweavlJp5Rm7WxyULvEqYLf9G1SbsVJNwBfhGuj342ksNf6J1PnVTSE1OEF8rsMT9AvgHaMbRN9KEApYU-O0EeyeVhyw" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/ufiTlB5ivpAOouqC7PcLqZCHtx-asg7wnkBRXkifyVHJOVSbpqNKjLoUUVBuXHvlrN3ckdy3yNAOjm02fUHR9iW-_ZztUD6corY96foLMnCt1x1MKDUEPPsZJSVa_B4F-v0tRhi0wUTzhku7rkBMYvq9syl6Y0qcU5_wHgUosfxBRPKxD2cEe2wKVmYSUmiR3DHPNxY-ej2gSligpyrerKRmJ5F7Hf4TETbxyV3IEEniftiURFeBYrPAPEUclWlBBwWAbQ7-NbH76yRAmJVyZ_E0K8Fprq5aqXr1edsReMXNOGAa7svSx9JeMShuf6mlhlu7-L1laQqBXYMCWURKHg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     سرور پرسرعت روی تمامی اینترنت ها
+     <tg-emoji emoji-id="5933898220261348044">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=fEq7q3aztcZkYZXQ_662OUkayDwIPkQvG5FPta9-pB-yqmuWvdLbJsqNfbtcxXjekeFiP7OM9Un2HmBMQaNktkr5Q5u0OwEtpzsFPz0H87OC-xNwvWN3-haL1qn16mzrJcCpwhf3JjrZVKIPFve7Ml-lG6LFEuls2MpGbYSbKnDRnr9PYeIQ1TwGM3XC7a9USIq-YamIg9191N81SjBUniHxYAr89rYxlxzGbLcaPdCsWjWFjvmrY0i2Vqa7gPv5UMOKDLkBJ5DUzod8yrswJhtilxwAW7KT9CkqfXEENJVijkOH1WTDy7mdqLDFEuYXP3Y-oO2mzETSH9MKw_Rlxg" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M253%2C512c-74-3-194%2C19-234-64-28-57-19-131-19-192%2C0-71-15-174%2C45-227%2C50-42%2C169-28%2C230-28%2C58%2C0%2C144-12%2C192%2C28%2C60%2C52%2C45%2C157%2C45%2C227%2C0%2C69%2C15%2C178-46%2C227-53%2C43-151%2C29-213%2C29z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')">
+       <b>
+        📶
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="5931503140338669352">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GozvceMq_Di16tGZuenz-nzlwWGXiJZNZM1Zz1Vb_ZScscIc7YhLkb81I0tkUj0NZCEqxS-j_feG3SnH6XnYWg_BVt2BCclGuFzQmIGIZz7q5Kr2VJGnOvg68MVLAsyG47Orr7c1ey3K474y_i077fHQQM1axO5_p14P632MkAD613cMKqbTL23LUay5fgJmkz8dSlvmkFJIv5A9Nzj9HCLO8mDjIvBrJ-ogG9zNMb7EVsUL3wwfBK76kSGvCYK9EYBltajHok_mDYW5uscSjgoia963MR_nPEcENMeZ2RQt-4RcWNmna5pzQC0BLot9HeZ95m0kpwwCYG319yMvbg" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M253%2C512c-74-3-194%2C19-234-64-28-57-19-131-19-192%2C0-71-15-174%2C45-227%2C50-42%2C169-28%2C230-28%2C58%2C0%2C144-12%2C192%2C28%2C60%2C52%2C45%2C157%2C45%2C227%2C0%2C69%2C15%2C178-46%2C227-53%2C43-151%2C29-213%2C29z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')">
+       <b>
+        📶
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="5934047139662401606">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=AF_14JGO1UYOlsa-WjCB4vHqKlXEZszAiS-3jlVRoDiHRa07TbHldevV5464Xw05eSsrfLTf1FUQgvG85ZiSV0B6KVUevICTzDEXHt0slyoopsTmozjQsQTtlAEJgzuZVCELXB76aSdQgw6d6OaTyTwV8Y5b9OElGEfSEYsYw46b054DP1wdBqxAxK1UKAajxyW21inHr4Bb4WbWAHKaD1mDEluIstx2bMnFc0rAFnHJ1JTdzSA6XJExjvMBPc86_Xqx8dSPqqy_zqz71LsT5EvcAxS41d487utdS3JBhXD5WUDldD9WZhn0FDQAUA_wdv6CHfLJAHe_c76Wisv-Dw" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M253%2C512c-74-3-194%2C19-234-64-28-57-19-131-19-192%2C0-71-15-174%2C45-227%2C50-42%2C169-28%2C230-28%2C58%2C0%2C144-12%2C192%2C28%2C60%2C52%2C45%2C157%2C45%2C227%2C0%2C69%2C15%2C178-46%2C227-53%2C43-151%2C29-213%2C29z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')">
+       <b>
+        📶
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="5931374725111485006">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=PDWQeDC_L1JDztKwhZ5G4apas72B2sSIayWsuEyJfCqyJm7BT2gkFewr7uskI5vZiXsundHN4YbQDstJDxuGr13fP9-Wqf3nDn5FoLGxXqfcDRLR8oosjQcYbpyudiW3dx3ElF5lvqvrRKiLxFYWQsPBpUrKU5kZR1io0qvB7ui3EjZL-58ccU-VBYVG2OKGEYOAiiuAjwFuM0BXX5SRfZkaQwQNa86jw3ott4ijV31i19wUxdtVz8vEQkOPETOds7mZcgdqQCT9eQ-6hkxJ7ET8CmNjODjNFK3znO5BkWqcqVYpu5p_TlRTH6z_iOy27vS5ZVT6--5QOxauf6Z1eQ" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M253%2C512c-74-3-194%2C19-234-64-28-57-19-131-19-192%2C0-71-15-174%2C45-227%2C50-42%2C169-28%2C230-28%2C58%2C0%2C144-12%2C192%2C28%2C60%2C52%2C45%2C157%2C45%2C227%2C0%2C69%2C15%2C178-46%2C227-53%2C43-151%2C29-213%2C29z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')">
+       <b>
+        🛜
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="5931523717526983022">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=N9aFmFJ_QYxLox0IRgVovW55cxckQBCe5qd069nxaR-hG3_VpdvVGWbHyfwC4LhJtwcaeQhZtzx2rK5zak5xjkWi5sX0Fa1NLWBiC2UO2xrEqr_WMm_wDoKdoeDPTnEArNTAhyoR_899mmf_B-0ednJG8Uay3P98cvRu3GoXMGFaX0wpaFp78YcguizY67adjAreKjBnYQNaQanfmrp1w-T2dejFWZP5q6W5wQW02MLIlPwqCWv3ojjyBFDCz0f1BXdEpX6pRq9LG1hIZyDaqQoDj_6SQZp-kIE1Sx3gUiOi1stJhgRPtBEfxfCL9lS-gaCufVA161D2N8PoL9YfbA" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M253%2C512c-74-3-194%2C19-234-64-28-57-19-131-19-192%2C0-71-15-174%2C45-227%2C50-42%2C169-28%2C230-28%2C58%2C0%2C144-12%2C192%2C28%2C60%2C52%2C45%2C157%2C45%2C227%2C0%2C69%2C15%2C178-46%2C227-53%2C43-151%2C29-213%2C29z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')">
+       <b>
+        🛜
+       </b>
+      </i>
+     </tg-emoji>
+     ...
+     <br/>
+     <tg-emoji emoji-id="5980930633298350051">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GGXqTM60efroNdpuD2bzQLiw72qr6M5J4DUicDEWvzB7LK9_7QCgT2jhtTbSISMERKbKZh8kES2A2kj8YOwEQlbFkZ258g0Nm6wk0SA2CEL1GsEvwmxn-2naomXlrTMGbCXvTDOtXObiM2poZy-ebKYYHAD7WlQ6tPD_Ef0grLaD_SA44B41Bfb-75vRE9NUhDvJM3NfnDpThVamH1Aj6oUjx1uK0lwWrVabfKHPL99YueTHf3YLQc5WChaweavlJp5Rm7WxyULvEqYLf9G1SbsVJNwBfhGuj342ksNf6J1PnVTSE1OEF8rsMT9AvgHaMbRN9KEApYU-O0EeyeVhyw" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/ufiTlB5ivpAOouqC7PcLqZCHtx-asg7wnkBRXkifyVHJOVSbpqNKjLoUUVBuXHvlrN3ckdy3yNAOjm02fUHR9iW-_ZztUD6corY96foLMnCt1x1MKDUEPPsZJSVa_B4F-v0tRhi0wUTzhku7rkBMYvq9syl6Y0qcU5_wHgUosfxBRPKxD2cEe2wKVmYSUmiR3DHPNxY-ej2gSligpyrerKRmJ5F7Hf4TETbxyV3IEEniftiURFeBYrPAPEUclWlBBwWAbQ7-NbH76yRAmJVyZ_E0K8Fprq5aqXr1edsReMXNOGAa7svSx9JeMShuf6mlhlu7-L1laQqBXYMCWURKHg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     دارای لوکیشن های مختلف و همزمان
+     <tg-emoji emoji-id="5328302454226298081">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=aquAhmBv4ZPu5QJhTH4t7xOVaJDbH36kVsCi9gc29GwoXc5WrPezQuAFuGvrktNe-wc-yb2H6IEyYX0enXNz3o7okgcebBb8YyG6KADUqNr22GbxW5Dj_hZzbl4t2HhyoOCbs4L1OXNe5iejgkkB8HWh6iIWXOxO0WcRlNN9xXkW4KOTCCv0BNpjb1b-HS5LfhAOrWsJkhMZ2MYlHJ_NKlCWJE_wNLXr-mPmD6zC1yL3qnh5gQ1iPFJThvVs9q01wrQYzC_-ZaeihLNONZN6UsFcABCUdhRweHLJ5qitpIXILpMKeJdAAwaO1BoNx32J2cWFL9Yoz7M9-tOgDo0PWA" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M260%2C323c-19%2C1-39-6-52-20-51-54%2C10-145%2C79-113%2C64%2C30%2C45%2C131-27%2C133z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FABA5.png')">
+       <b>
+        🫥
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5980930633298350051">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GGXqTM60efroNdpuD2bzQLiw72qr6M5J4DUicDEWvzB7LK9_7QCgT2jhtTbSISMERKbKZh8kES2A2kj8YOwEQlbFkZ258g0Nm6wk0SA2CEL1GsEvwmxn-2naomXlrTMGbCXvTDOtXObiM2poZy-ebKYYHAD7WlQ6tPD_Ef0grLaD_SA44B41Bfb-75vRE9NUhDvJM3NfnDpThVamH1Aj6oUjx1uK0lwWrVabfKHPL99YueTHf3YLQc5WChaweavlJp5Rm7WxyULvEqYLf9G1SbsVJNwBfhGuj342ksNf6J1PnVTSE1OEF8rsMT9AvgHaMbRN9KEApYU-O0EeyeVhyw" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/ufiTlB5ivpAOouqC7PcLqZCHtx-asg7wnkBRXkifyVHJOVSbpqNKjLoUUVBuXHvlrN3ckdy3yNAOjm02fUHR9iW-_ZztUD6corY96foLMnCt1x1MKDUEPPsZJSVa_B4F-v0tRhi0wUTzhku7rkBMYvq9syl6Y0qcU5_wHgUosfxBRPKxD2cEe2wKVmYSUmiR3DHPNxY-ej2gSligpyrerKRmJ5F7Hf4TETbxyV3IEEniftiURFeBYrPAPEUclWlBBwWAbQ7-NbH76yRAmJVyZ_E0K8Fprq5aqXr1edsReMXNOGAa7svSx9JeMShuf6mlhlu7-L1laQqBXYMCWURKHg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     پشتیبانی فعال و تمام وقت
+     <tg-emoji emoji-id="6301027265899661025">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M56%2C94c-12%2C0-25%2C2-35-4-10-5%2C2-15%2C3-19%2C5-27-1-55%2C38-50%2C24%2C3%2C11%2C38%2C18%2C50%2C2%2C2%2C11%2C13%2C7%2C18-7%2C8-23%2C5-31%2C5z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn5.telesco.pe/file/9f5e1d1194.webm?token=C2yRYWGNbLYKipZgdBVeGU9fo5kL-jsNnUAxGBRBw59eDI7fgIOv33lmmjFMclSttLO4l7DmvfSgLMUwwbddJIfntA0LKtBWJA-GP9M497kmMI04IlpdliBF1py_Sq9XcR_GHi2fxGkVFQGcQtxB1HREvbY_j0o0URAU76QhGwZdnxw9f0OS9Q9R0LOSB9y2Yg9wc5cEMJFVNjm5lzR4lJMJ_J0BxtzPAj4dOeq3Ijc2LIvq-JrRz5Vr94ojn_2rLW5Ah97GfpuWThri5hFYQAtYWd-C6HSyCgLMeF_uZztcFT-NAsza72Js4mR28N1-8WlgR3XDzYpu-o_5aD16sg" width="100%">
+         <img src="https://cdn5.telesco.pe/file/vUe8q4IM00DwHwjDjUjCWoseWogiZguSVkl1bEmgR5wQzdhlUcBw5ueQSp_ECAYAjwM1-T9S0WdcyHMtrMUSIQ42Q3-F9YnuV3CmYMaz_XAZGrgjuR-uuht_mU9Y4bqdYAKKVQO406b0OmcsXvIp821xKTr_8MroyUKMCW0m6mQfzoWPiRnE5PngzNBJWTVg8XX4ZvBDyzWq9cweXE1B8YslUKB_adY5tB-HMPzLOHW6i7DdJ4vyaVEg02bEov5if8sJgptVtwLqArG2bnyqIdX3j7CVAARF65fRiw0t1i1J46FVtpM1daEjnVT4Qa5GrfwtgARAPvnz8PfmnR4xtw"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8698.png')">
+       <b>
+        🆘
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5980930633298350051">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GGXqTM60efroNdpuD2bzQLiw72qr6M5J4DUicDEWvzB7LK9_7QCgT2jhtTbSISMERKbKZh8kES2A2kj8YOwEQlbFkZ258g0Nm6wk0SA2CEL1GsEvwmxn-2naomXlrTMGbCXvTDOtXObiM2poZy-ebKYYHAD7WlQ6tPD_Ef0grLaD_SA44B41Bfb-75vRE9NUhDvJM3NfnDpThVamH1Aj6oUjx1uK0lwWrVabfKHPL99YueTHf3YLQc5WChaweavlJp5Rm7WxyULvEqYLf9G1SbsVJNwBfhGuj342ksNf6J1PnVTSE1OEF8rsMT9AvgHaMbRN9KEApYU-O0EeyeVhyw" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/ufiTlB5ivpAOouqC7PcLqZCHtx-asg7wnkBRXkifyVHJOVSbpqNKjLoUUVBuXHvlrN3ckdy3yNAOjm02fUHR9iW-_ZztUD6corY96foLMnCt1x1MKDUEPPsZJSVa_B4F-v0tRhi0wUTzhku7rkBMYvq9syl6Y0qcU5_wHgUosfxBRPKxD2cEe2wKVmYSUmiR3DHPNxY-ej2gSligpyrerKRmJ5F7Hf4TETbxyV3IEEniftiURFeBYrPAPEUclWlBBwWAbQ7-NbH76yRAmJVyZ_E0K8Fprq5aqXr1edsReMXNOGAa7svSx9JeMShuf6mlhlu7-L1laQqBXYMCWURKHg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     دارای subscription برای اپدیت خودکار
+     <tg-emoji emoji-id="5868594866023305128">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=jGyY5BK2VGEuSRRej74Q0r13TmAtCSBKHxO3oQ3vDG5oqDfg_GQsl29QnxvCX9tuv3KTEyfI-PN-q_PX8SEbnNbybg451zhMxb4FjJh0IOenYCpMmKgQ5HSJglmECK3aK6_ou3np5uD0Oy-6-eIu85OXFOLsctTddPxMcWJ80IeSjtkI9v3BCWtyvd5i1Po7IlFq0BkWF4wPYi7-oIZKSUOor9cFsgZ8HhfZ7y0jhhu2mr1nH-BMi2cMGmXBjlWGf_PwIOdV8UCcR-iijrrkzGIEn2f44DQZgk0_yzJgOgCT6L3AR3oSxx2mKJYKnNb9sHeZsyX-UK9AvvWXLQ7WOA" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M261%2C456c-56%2C2-111-22-150-62-149-157%2C31-410%2C227-321%2C192%2C88%2C134%2C378-77%2C383z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')">
+       <b>
+        🔄
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5355051922862653659">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs tg-emoji-text-color">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=bATmM7Ixy8HsloZbJdO-WjFSdK6QQ8Ox2MaXdGWkDAyzsLBEnCHpd7riPtvbJksoSVvwTYkl88MLShhBIsZeBNmLlQLFHRGmSSgj5Z4zSD3FZgsDOiQn-9vSycBorf5OSmKLIVmHDKof7XcHKnByYU2tIyGZRBN6jdY6V1pZsXc7z1MU41WxEFTxKDpQ5QFU72pMuZd65rx8sTtSnpqvILR3ZiK3CiuQZe63JoetXXzKNVcPy9oYOh2rAufm1zyFzNgGc8VGKXqATAiZKtKGhpv8IHRbijMg292uz1jY35KqgnuODsol6zL-fDrUshoMRLuTFKVMvc9lN7xZ8DQMYQ" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M154%2C446c-103%2C1-83%2C13-83-87%2C0-5%2C3-25%2C0-29-7-10-37%2C9-41-14-5-22-12-114%2C6-129%2C7-7%2C31%2C0%2C35-5%2C14-20-2-90%2C0-116%2C0-3%2C46-1%2C51-1%2C58%2C0%2C116%2C1%2C174%2C1%2C15%2C0%2C144-1%2C146%2C1%2C20%2C19-16%2C92%2C0%2C115%2C6%2C9%2C35-8%2C41%2C13%2C4%2C21%2C9%2C116-6%2C130-7%2C7-31%2C1-34%2C5-16%2C24%2C19%2C95%2C0%2C115-3%2C3-260%2C1-289%2C1zM106%2C229c12%2C2%2C7-12%2C7-23%2C0-41%2C47-67%2C84-55%2C18%2C6%2C34%2C23%2C40%2C42%2C3%2C7%2C3%2C16%2C3%2C24%2C0%2C4-6%2C11-2%2C12%2C8%2C2%2C28%2C2%2C36%2C0%2C2%2C0-1-3-1-4-1-9-1-16%2C0-24%2C8-41%2C52-64%2C90-47%2C19%2C8%2C36%2C31%2C36%2C52%2C0%2C5%2C1%2C11%2C0%2C16%2C1%2C3-3%2C6-1%2C7%2C3%2C1%2C6%2C0%2C9%2C0%2C4%2C0%2C8%2C2%2C10%2C0%2C6-6%2C0-50%2C0-59%2C0-8%2C1-78%2C0-79-3-4-32%2C0-38%2C0-75%2C0-150%2C0-226%2C0-8%2C0-51-6-56%2C0-2%2C2%2C0%2C106%2C0%2C118%2C0%2C7-4%2C15%2C0%2C20%2C2%2C2%2C5%2C0%2C8%2C0z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')">
+       <b>
+        🤖
+       </b>
+      </i>
+     </tg-emoji>
+     <a href="https://t.me/Random_VPNbot" target="_blank">
+      @Random_VPNbot
+     </a>
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5307981757063110606">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=uVVs9ocdQ3Wj8iBtr0zS_oQLN36ge_0r_VFACC9nNo2SVdFj-H9qkX2CVjTE56l-fVag1rfbG6-KjFvV88xJJhcklUiYXxZSQ9qtZyagWnHf_aQbw2A9PwIok4QiV4iszqCr8R1JTwQyLD20uajFPQca-MnczlwtpAIHy0WUQAlj9m3FraAUGVpl71vtexxf2R6eV471FhAocud5RTvDvH3w0qmYd1QPdic95e_CG9DUkWv8LLIDwYGnU9MFK8M5higbTprRc_gADdEsGzadHUDaRE0W0YREst-mdxGUiAB_y3y7iBKUyOyMqxkd5gqETNrO3GPK6m1tK799ujCX2w" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/fJbmJBJDAoqFGU1NJpy6GbEI_ff7NvnOVmraVWIEdUcvCZjJg48pyna8CqDPozHOf-xSfiZlx5i6EoOxJSKqrB5Tb1h7hKLJGr3p61y24_pjBiRJO85zFWxg9JXbdBCZ7KzlN2ZBjvbcGoZP8ZQtOnu3oRfVjD3wBKiBhS3RWqzIVRq5HjFduoNIog3BKXDpzRNna4edNgxnvGrY-PMtlfy7yikNfeUTX7BzjxwFiyFfu8EcNTPfv2zNGXgOEQzqa8sltMA29kqbApX8wIjXUDPVJ9n7RYF8qJRuwiVITJH1gqqXwk-SKSC7C9yhhh7DUiOklkC7wEqH754huzVuCg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FABA5.png')">
+       <b>
+        🫥
+       </b>
+      </i>
+     </tg-emoji>
+     میتونید قبل از خرید اکانت تست  خودتون رو دریافت  کنید و در صورت راضی بودن تهیه کنید
+     <tg-emoji emoji-id="5980930633298350051">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=GGXqTM60efroNdpuD2bzQLiw72qr6M5J4DUicDEWvzB7LK9_7QCgT2jhtTbSISMERKbKZh8kES2A2kj8YOwEQlbFkZ258g0Nm6wk0SA2CEL1GsEvwmxn-2naomXlrTMGbCXvTDOtXObiM2poZy-ebKYYHAD7WlQ6tPD_Ef0grLaD_SA44B41Bfb-75vRE9NUhDvJM3NfnDpThVamH1Aj6oUjx1uK0lwWrVabfKHPL99YueTHf3YLQc5WChaweavlJp5Rm7WxyULvEqYLf9G1SbsVJNwBfhGuj342ksNf6J1PnVTSE1OEF8rsMT9AvgHaMbRN9KEApYU-O0EeyeVhyw" type="application/x-tgsticker"/>
+        <source srcset="https://cdn4.telesco.pe/file/ufiTlB5ivpAOouqC7PcLqZCHtx-asg7wnkBRXkifyVHJOVSbpqNKjLoUUVBuXHvlrN3ckdy3yNAOjm02fUHR9iW-_ZztUD6corY96foLMnCt1x1MKDUEPPsZJSVa_B4F-v0tRhi0wUTzhku7rkBMYvq9syl6Y0qcU5_wHgUosfxBRPKxD2cEe2wKVmYSUmiR3DHPNxY-ej2gSligpyrerKRmJ5F7Hf4TETbxyV3IEEniftiURFeBYrPAPEUclWlBBwWAbQ7-NbH76yRAmJVyZ_E0K8Fprq5aqXr1edsReMXNOGAa7svSx9JeMShuf6mlhlu7-L1laQqBXYMCWURKHg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+    </blockquote>
+    <br/>
+    <br/>
+    <blockquote expandable="">
+     <tg-emoji emoji-id="5370784581341422520">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=fFcboibeQotTKWc_IR9Pp59YoBmIXNHdX6zwid62OEtiIEmkldBSAAojZcUsrMX8tTLgW3DZ-C6K49o3gS0RiEuJ2-Za31sspIb5vOC7joKRqK3OBL10TVzrxrQczlXrP0ntLIAVdRKCCXUZw9yRVbU3R3AzcyPcdljUNXWMbx1toXah4iJVyAD1l5m_0FdzFKhBt4nWYGiYU5i0p0ihqhbfoiXp9UY5GDsEqQTYPm4vYLBZD2jdwjzHE4VdgudrDlh-ZNH2-cTjbcthUHjRXzT1_5RXjQ7JNlo4b2Pep3i4IBfP4ab044qw0DahBahmP9p4bnYF4tJMv_jSHSLpbQ" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M142%2C438c-45-7-6-100%2C16-119%2C21-19%2C51-29%2C76-41%2C8-3%2C42-14%2C43-25%2C2-17-62%2C0-71%2C2-51%2C9-86%2C16-127-19-11-9-25-18-29-31-13-40%2C113-29%2C134-34%2C30-8%2C33-137%2C77-125%2C32%2C8%2C35%2C103%2C63%2C123%2C22%2C16%2C115-5%2C134%2C16%2C24%2C25-74%2C85-86%2C99-27%2C28%2C36%2C112%2C17%2C143-23%2C36-100-47-126-51-46-7-78%2C58-121%2C62z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐️
+       </b>
+      </i>
+     </tg-emoji>
+     Telegram Premium | تلگرام پرمیوم
+     <tg-emoji emoji-id="5370784581341422520">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=fFcboibeQotTKWc_IR9Pp59YoBmIXNHdX6zwid62OEtiIEmkldBSAAojZcUsrMX8tTLgW3DZ-C6K49o3gS0RiEuJ2-Za31sspIb5vOC7joKRqK3OBL10TVzrxrQczlXrP0ntLIAVdRKCCXUZw9yRVbU3R3AzcyPcdljUNXWMbx1toXah4iJVyAD1l5m_0FdzFKhBt4nWYGiYU5i0p0ihqhbfoiXp9UY5GDsEqQTYPm4vYLBZD2jdwjzHE4VdgudrDlh-ZNH2-cTjbcthUHjRXzT1_5RXjQ7JNlo4b2Pep3i4IBfP4ab044qw0DahBahmP9p4bnYF4tJMv_jSHSLpbQ" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M142%2C438c-45-7-6-100%2C16-119%2C21-19%2C51-29%2C76-41%2C8-3%2C42-14%2C43-25%2C2-17-62%2C0-71%2C2-51%2C9-86%2C16-127-19-11-9-25-18-29-31-13-40%2C113-29%2C134-34%2C30-8%2C33-137%2C77-125%2C32%2C8%2C35%2C103%2C63%2C123%2C22%2C16%2C115-5%2C134%2C16%2C24%2C25-74%2C85-86%2C99-27%2C28%2C36%2C112%2C17%2C143-23%2C36-100-47-126-51-46-7-78%2C58-121%2C62z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐️
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <tg-emoji emoji-id="5350377396421797635">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=IuUULlebjAwHGVKWiUiy0gEX9KP-nSkL2xc0ONMxOr5qcp0k3r-B7jDEpI29qiaR-ZURkMSbvw-D2o1nL2edauHmrx1y6QhudT3XLef_d-bNjnvaNfvvuVA41QNwbl5W5coOxvgD8QAsU1AotwhHYB0rN6qx1dC2IacnuBb0elFRJSo6j7o5qYgraYgEAm_cnINbHJHh5gE31aK-auEY7CV6n2YpdGs9-RHQCRg80lIZL5vIN_z6epzdkyd_mH0MJgVDf4oAxk3LxVtHdIJpakxZotKN_8xOZ7xWURyyK7GZ6Ye4LrnjgMCjbcHOcnkPx9sEcLgC4IVRoYkFPbBVQw" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M168%2C416c-39-2-9-79%2C8-95%2C16-16%2C43-25%2C64-36%2C6-3%2C22-8%2C22-16%2C0-15-39-2-47%2C1-45%2C7-68%2C9-104-22-9-7-25-17-19-31%2C10-25%2C54-4%2C72-15%2C4-3-23-19-24-20-2-2%2C13-10%2C14-10%2C2-2%2C16-23%2C18-21%2C10%2C12%2C16%2C18%2C28%2C28%2C1%2C1-46%2C33-2%2C20%2C14-4%2C31-57%2C34-71%2C2-9-25-19-25-25%2C0-2%2C12-9%2C15-11%2C1-2%2C9-16%2C11-13%2C5%2C6%2C6%2C16%2C14%2C19%2C8%2C3%2C18-4%2C23%2C7%2C9%2C18%2C25%2C81%2C38%2C91%2C21%2C15%2C105-3%2C112%2C22%2C6%2C20-58%2C63-73%2C78-6%2C6-5%2C40%2C2%2C43%2C2%2C1%2C4-3%2C5-5%2C17-16%2C9-26%2C23-7%2C3%2C4%2C26%2C22%2C25%2C22-14%2C11-20%2C18-31%2C32-5%2C6-18-26-16-18%2C2%2C9%2C20%2C72-14%2C55-21-10-66-51-85-51-23%2C0%2C0%2C12%2C5%2C17%2C2%2C2-10%2C8-10%2C8-7%2C5-9%2C12-14%2C18-2%2C2-14-23-21-20-16%2C7-31%2C26-48%2C28z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐️
+       </b>
+      </i>
+     </tg-emoji>
+     تلگرام پرمیوم گیفتی بدون ورود به اکانت
+     <tg-emoji emoji-id="5215440433198413312">
+      <span class="tg-emoji-wrap">
+       <div class="tg-emoji tg-emoji-webm" style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M52%2C93c-16-2-37%2C9-37-11%2C0-8%2C2-21%2C0-29-3-11-6%2C15-6-12%2C0-31%2C36%2C6%2C10-17-6-6%2C0-15%2C6-17%2C14-4%2C15%2C11%2C26%2C13%2C8%2C2%2C15-21%2C30-11%2C3%2C2%2C6%2C7%2C4%2C11-3%2C5-18%2C5-14%2C10%2C2%2C3%2C17-3%2C20%2C0%2C6%2C7-4%2C26-4%2C32%2C0%2C3%2C2%2C30-1%2C31-10%2C2-24%2C0-34%2C0z%22%2F%3E%3C%2Fsvg%3E');">
+        <video autoplay="" disablepictureinpicture="" height="100%" loop="" muted="" playsinline="" preload="" src="https://cdn4.telesco.pe/file/87b0afee7c.webm?token=OcfjMLg5MA-06mmuwVt_2UiGxKPIPNbpy-217moGdiCS6azA2EIyDmTO05LaVnqk7tyED_gHZ1CoRJjAQlA99rOZZ0vFCbUc9s-Yvn8KxS6VPpHk00_Uf9NWwwX-B4vXxoBFYw1jecmc2UOvCPmBROliLyy8CsTqBHyY7V8mFU6OofkbtXgBBJEHHG5J_ab_uupH9pmIFwDqljXK5W5TOKdzWwrS8xb9YUW8Fb9OtkrUUG0e2YzTlEwFK-3pGWx4I_m0KqYikZrm33W5Jd_bPmwT8fsbq-g3ttJSusHpDbvz5C84J3H891TvvpDvFksjUXyNOm_EYrJvi62-tVeZqQ" width="100%">
+         <img src="https://cdn4.telesco.pe/file/mY49yGwawSIKeyTPewe9WuWEgWMu3mmd2VDz1_EGk-sGFDL7kFXCtV9xdJDBeMihOdQwOY05ZO5wGuMYnjPswA5JOMZmoxzBRgQ-6NxRg_axqJGMtz0-CGk4Vo9-D9i8Mm09mIq4-b5g-Gv09NnORD3Tl-2uVbySFAGpl8KCu8atFeXbEtug2k8UldhVTcZvfZd7SWcVpdzqSOMNDISvX-6neTaHskFP9Xx5_0VtP9FoxHfxPV06qHFT3eYTgFZCyQpkuskebfHKjRXROkBkCn70vKo1SZhAZSu9vT8VMTnzHRSmNhY7-C5Ud-C57i9JY0W9tfBhQ9GQbljwIkJDPg"/>
+        </video>
+       </div>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')">
+       <b>
+        🎁
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <br/>
+     3 ماهه
+     <tg-emoji emoji-id="6136464120779638846">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn5.telesco.pe/file/sticker.tgs?token=dTUI3SwwHus3TjMKdxDUd2O3BsjHCAfKKALHJagjWpaVVU54djmWyf39A_RjCBtGu8lrB7f65HvNOozRoeu3yhpcMbp40c1tvCc4W6xohIavrVfXj5RGIvk3N19qYxLKltDA5PCAk-Nn9rZbhp3Mj7f8jfGmxoEkLdooNtmIIDZuR1LqpvoWVGSPM6YWaPv38kYg47QWA7uGPHPEvlByJ1IyGks65hOm_A8iNLX7ZCQ_V0NVkS-sRPa7Mzlt_P9-ky7VYptQrH5I2O44iBTDZJQYMCe3kJF7QxHRnEod2inik1brzldl3jnU_ZGh3GdC7fwikDnpgSdKK4BpO9jw1A" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M387%2C484c-20-1-37-14-54-24-19-11-53-41-76-36-43%2C9-88%2C78-135%2C54-18-9-16-28-14-45%2C9-112%2C41-111%2C136-154%2C7-4-16%2C0-24%2C1-17%2C1-34%2C2-51%2C3-21%2C2-43%2C5-63%2C1-30-6-93-53-82-88%2C12-40%2C108-35%2C142-45%2C31-8%2C48-104%2C76-127%2C52-41%2C89%2C95%2C106%2C121%2C15%2C24%2C114%2C6%2C143%2C27%2C59%2C44-70%2C112-84%2C146-14%2C34%2C53%2C167-20%2C166z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     6 ماهه
+     <tg-emoji emoji-id="6136464120779638846">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn5.telesco.pe/file/sticker.tgs?token=dTUI3SwwHus3TjMKdxDUd2O3BsjHCAfKKALHJagjWpaVVU54djmWyf39A_RjCBtGu8lrB7f65HvNOozRoeu3yhpcMbp40c1tvCc4W6xohIavrVfXj5RGIvk3N19qYxLKltDA5PCAk-Nn9rZbhp3Mj7f8jfGmxoEkLdooNtmIIDZuR1LqpvoWVGSPM6YWaPv38kYg47QWA7uGPHPEvlByJ1IyGks65hOm_A8iNLX7ZCQ_V0NVkS-sRPa7Mzlt_P9-ky7VYptQrH5I2O44iBTDZJQYMCe3kJF7QxHRnEod2inik1brzldl3jnU_ZGh3GdC7fwikDnpgSdKK4BpO9jw1A" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M387%2C484c-20-1-37-14-54-24-19-11-53-41-76-36-43%2C9-88%2C78-135%2C54-18-9-16-28-14-45%2C9-112%2C41-111%2C136-154%2C7-4-16%2C0-24%2C1-17%2C1-34%2C2-51%2C3-21%2C2-43%2C5-63%2C1-30-6-93-53-82-88%2C12-40%2C108-35%2C142-45%2C31-8%2C48-104%2C76-127%2C52-41%2C89%2C95%2C106%2C121%2C15%2C24%2C114%2C6%2C143%2C27%2C59%2C44-70%2C112-84%2C146-14%2C34%2C53%2C167-20%2C166z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="6136464120779638846">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn5.telesco.pe/file/sticker.tgs?token=dTUI3SwwHus3TjMKdxDUd2O3BsjHCAfKKALHJagjWpaVVU54djmWyf39A_RjCBtGu8lrB7f65HvNOozRoeu3yhpcMbp40c1tvCc4W6xohIavrVfXj5RGIvk3N19qYxLKltDA5PCAk-Nn9rZbhp3Mj7f8jfGmxoEkLdooNtmIIDZuR1LqpvoWVGSPM6YWaPv38kYg47QWA7uGPHPEvlByJ1IyGks65hOm_A8iNLX7ZCQ_V0NVkS-sRPa7Mzlt_P9-ky7VYptQrH5I2O44iBTDZJQYMCe3kJF7QxHRnEod2inik1brzldl3jnU_ZGh3GdC7fwikDnpgSdKK4BpO9jw1A" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M387%2C484c-20-1-37-14-54-24-19-11-53-41-76-36-43%2C9-88%2C78-135%2C54-18-9-16-28-14-45%2C9-112%2C41-111%2C136-154%2C7-4-16%2C0-24%2C1-17%2C1-34%2C2-51%2C3-21%2C2-43%2C5-63%2C1-30-6-93-53-82-88%2C12-40%2C108-35%2C142-45%2C31-8%2C48-104%2C76-127%2C52-41%2C89%2C95%2C106%2C121%2C15%2C24%2C114%2C6%2C143%2C27%2C59%2C44-70%2C112-84%2C146-14%2C34%2C53%2C167-20%2C166z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     12 ماهه
+     <tg-emoji emoji-id="6136464120779638846">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn5.telesco.pe/file/sticker.tgs?token=dTUI3SwwHus3TjMKdxDUd2O3BsjHCAfKKALHJagjWpaVVU54djmWyf39A_RjCBtGu8lrB7f65HvNOozRoeu3yhpcMbp40c1tvCc4W6xohIavrVfXj5RGIvk3N19qYxLKltDA5PCAk-Nn9rZbhp3Mj7f8jfGmxoEkLdooNtmIIDZuR1LqpvoWVGSPM6YWaPv38kYg47QWA7uGPHPEvlByJ1IyGks65hOm_A8iNLX7ZCQ_V0NVkS-sRPa7Mzlt_P9-ky7VYptQrH5I2O44iBTDZJQYMCe3kJF7QxHRnEod2inik1brzldl3jnU_ZGh3GdC7fwikDnpgSdKK4BpO9jw1A" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M387%2C484c-20-1-37-14-54-24-19-11-53-41-76-36-43%2C9-88%2C78-135%2C54-18-9-16-28-14-45%2C9-112%2C41-111%2C136-154%2C7-4-16%2C0-24%2C1-17%2C1-34%2C2-51%2C3-21%2C2-43%2C5-63%2C1-30-6-93-53-82-88%2C12-40%2C108-35%2C142-45%2C31-8%2C48-104%2C76-127%2C52-41%2C89%2C95%2C106%2C121%2C15%2C24%2C114%2C6%2C143%2C27%2C59%2C44-70%2C112-84%2C146-14%2C34%2C53%2C167-20%2C166z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="6136464120779638846">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn5.telesco.pe/file/sticker.tgs?token=dTUI3SwwHus3TjMKdxDUd2O3BsjHCAfKKALHJagjWpaVVU54djmWyf39A_RjCBtGu8lrB7f65HvNOozRoeu3yhpcMbp40c1tvCc4W6xohIavrVfXj5RGIvk3N19qYxLKltDA5PCAk-Nn9rZbhp3Mj7f8jfGmxoEkLdooNtmIIDZuR1LqpvoWVGSPM6YWaPv38kYg47QWA7uGPHPEvlByJ1IyGks65hOm_A8iNLX7ZCQ_V0NVkS-sRPa7Mzlt_P9-ky7VYptQrH5I2O44iBTDZJQYMCe3kJF7QxHRnEod2inik1brzldl3jnU_ZGh3GdC7fwikDnpgSdKK4BpO9jw1A" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M387%2C484c-20-1-37-14-54-24-19-11-53-41-76-36-43%2C9-88%2C78-135%2C54-18-9-16-28-14-45%2C9-112%2C41-111%2C136-154%2C7-4-16%2C0-24%2C1-17%2C1-34%2C2-51%2C3-21%2C2-43%2C5-63%2C1-30-6-93-53-82-88%2C12-40%2C108-35%2C142-45%2C31-8%2C48-104%2C76-127%2C52-41%2C89%2C95%2C106%2C121%2C15%2C24%2C114%2C6%2C143%2C27%2C59%2C44-70%2C112-84%2C146-14%2C34%2C53%2C167-20%2C166z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐
+       </b>
+      </i>
+     </tg-emoji>
+     <tg-emoji emoji-id="6136464120779638846">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn5.telesco.pe/file/sticker.tgs?token=dTUI3SwwHus3TjMKdxDUd2O3BsjHCAfKKALHJagjWpaVVU54djmWyf39A_RjCBtGu8lrB7f65HvNOozRoeu3yhpcMbp40c1tvCc4W6xohIavrVfXj5RGIvk3N19qYxLKltDA5PCAk-Nn9rZbhp3Mj7f8jfGmxoEkLdooNtmIIDZuR1LqpvoWVGSPM6YWaPv38kYg47QWA7uGPHPEvlByJ1IyGks65hOm_A8iNLX7ZCQ_V0NVkS-sRPa7Mzlt_P9-ky7VYptQrH5I2O44iBTDZJQYMCe3kJF7QxHRnEod2inik1brzldl3jnU_ZGh3GdC7fwikDnpgSdKK4BpO9jw1A" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M387%2C484c-20-1-37-14-54-24-19-11-53-41-76-36-43%2C9-88%2C78-135%2C54-18-9-16-28-14-45%2C9-112%2C41-111%2C136-154%2C7-4-16%2C0-24%2C1-17%2C1-34%2C2-51%2C3-21%2C2-43%2C5-63%2C1-30-6-93-53-82-88%2C12-40%2C108-35%2C142-45%2C31-8%2C48-104%2C76-127%2C52-41%2C89%2C95%2C106%2C121%2C15%2C24%2C114%2C6%2C143%2C27%2C59%2C44-70%2C112-84%2C146-14%2C34%2C53%2C167-20%2C166z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <br/>
+     <tg-emoji emoji-id="5388615365704048764">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn4.telesco.pe/file/sticker.tgs?token=MbBnKn5qrElIFAuQN9l0FFViP-nND9l_WbMxDazYaa-4IyDbCHiItc_lh8ZPgoUKYgiBrWIbckJsyOoUdnYUuBCxr0jT-gPMZXncBGUgPq1Ap90Uq_kXZfoReW8GsPEE5GrjwV_PnXuH_jrDwzohiCFpXW3_56I4_pRx75yZCjC-TD2yGfDjdeOAW9gm80PyA_GJbdpPsRJtMjrsXa52BjV5RkyH3JR8UztlkrRYoVwACjpGoOf76CLSa8VHpNNKTQ4gtj7LguKIK1lnlCmw3aqNdzfhRI82ufU15_uEkLd-5_yUbjmgpKrwH4ZNP9LgMTPbje5nkJvrAPCM0m6xaA" type="application/x-tgsticker"/>
+        <source srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%22-300%25%22%20x2%3D%22-200%25%22%20y1%3D%220%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%22-10%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%2230%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%2270%25%22%20stop-opacity%3D%22.07%22%2F%3E%3Cstop%20offset%3D%22110%25%22%20stop-opacity%3D%22.1%22%2F%3E%3Canimate%20attributeName%3D%22x1%22%20from%3D%22-300%25%22%20to%3D%221200%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22x2%22%20from%3D%22-200%25%22%20to%3D%221300%25%22%20dur%3D%223s%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20fill%3D%22url(%23g)%22%20d%3D%22M253%2C479c-61-22-156-45-190-107-29-54-16-154-15-214%2C1-16-2-97%2C7-105%2C11-10%2C102-3%2C122-3%2C61%2C0%2C122%2C1%2C184%2C1%2C28%2C1%2C59-3%2C87%2C1%2C4%2C1%2C10%2C6%2C11%2C10%2C7%2C45%2C0%2C103%2C1%2C149%2C0%2C54%2C8%2C135-29%2C180-40%2C47-122%2C69-179%2C88z%22%2F%3E%3C%2Fsvg%3E" type="image/svg+xml"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')">
+       <b>
+        ⭐️
+       </b>
+      </i>
+     </tg-emoji>
+     Stars Telegram
+     <br/>
+     به هر تعداد انجام میشود
+     <tg-emoji emoji-id="5021905410089550576">
+      <span class="tg-emoji-wrap">
+       <picture class="tg-emoji tg-emoji-tgs">
+        <source srcset="https://cdn1.telesco.pe/file/sticker.tgs?token=bELHDMqK3Wbmy633ylgmAeHwWsBlrSTU86fpNabrvNgErXzyBEL63832K4Qpyc5De0mwC4_nfYg6v_Ws-IGKJXNx9VtZrP6D_X3xuvEDuX0gQZR2Un7KBHGxQmG5BiorRxSUaDYJZnbestMmY8J33yKa0nL7Vkdy_zeFRU498sYRS17I9S1Fj2USOKiIaiuD_HmAGq34jned1szaGaehZdjCJ6W4GMFjHf3VyK7zY70qjCJM5R8TdjR0iQGjpE9V17N0X-hPxnMpvn9et3WyjeCVEQjUz3h8NfrnaCP5Di8mh3ehWBf0uvwlWh3aYjlBeZ49-nfdnla-iKtnC4iY6Q" type="application/x-tgsticker"/>
+        <source srcset="https://cdn1.telesco.pe/file/lNZG6wnnuUBCa8d1kaUlcw3AtBnZCU8azuiltfY85lt3DNZSsFcMLUmMzypv57wYVO8D_-gY_-L2jFbxjhewNW3hWXRX7iTzJ9ogPq2h7NR2N1Acns9Xb2CmtXJgsCO2prVyxkoXSMQPvHWTpVbkwx5cDnx5hmkRGYOhLollGTx62a3gYTqCCoa2BUmJvW0iPU7_jrzcEKY4WkWcrHsMg86vbjNzL0iZtOni_bUWMGRzrGCOML7CkkjcGEkGiB-w6JrG_ujZaZOxqLsyvpEEY7CkoiuYm7_Sqhd-dD5Xt1zalbsy6KZf84RycLovKRDvnBKljT2lPzZbR3gAm2eysg" type="image/webp"/>
+        <canvas height="19" width="19">
+        </canvas>
+       </picture>
+      </span>
+      <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')">
+       <b>
+        ✅
+       </b>
+      </i>
+     </tg-emoji>
+     <br/>
+     <br/>
+    </blockquote>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <tg-emoji emoji-id="4967667085606912536">
+     <span class="tg-emoji-wrap">
+      <picture class="tg-emoji tg-emoji-tgs">
+       <source srcset="https://cdn1.telesco.pe/file/sticker.tgs?token=Q0yQOkl9TWAVRdNrQu-f6XPoXXijZMhB5phTf1na5dxcEMtRJ2El9byAiDZQcHXczTulLjkfe6j6nzN8iuYgW-VzKM8ToG3KS46XIImJSf1pYks4b8F1UTe7GY5H2V5Hql1QY7FvOFHIEfFle3yE3Rjt2x8_PJnHFnXUvGznIk4Gmq_fiHZUNG8Ekttj1N1NcwZWKoQqDQmi3_l0ywfii87ajdkefhNAZwP1aMBxmqM0v6ceCLnXbTF97WWnH1N7WHhNtDcQt7dDtKQGjcztXHZYdWy60MdcdJ3vXS62RI-QhdlFB9xDO568P0AhPcqUkyCZTWdb1jbBarw3lhFcfg" type="application/x-tgsticker"/>
+       <source srcset="https://cdn1.telesco.pe/file/PyXYEVnh6hjylgPhZpSksY_qvE37M_bBSFG6Y9oGTNvDEnF-7Qf776vHNzHYS0FKsAE5QkUUa-3M5_XlTSktyfOyRWYDI1F31pIs47_JY3nKp8cH3Aqu6SRfhT0d_dk9wB_93pPjIjy0Qeu7--GwnyV9a3J7WRbJ_8IR7ZgAUiC6RBO_QFAnlm7h0JXsJ6XWKgvWRyLpLoIcVZm7o-hEMZQYNp4ludBkzZGOlUvkmEEW9OT7yKI32U3qYskrYOq5ImJ6MeXi-kkVLXz7sYlWRVq6HbTfiZTafRWWbYa3iHUig_fcKP5KOgFLAc_qNr26jPlNNVEqM2SGEpbTVo8n-Q" type="image/webp"/>
+       <canvas height="19" width="19">
+       </canvas>
+      </picture>
+     </span>
+     <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A4.png')">
+      <b>
+       👤
+      </b>
+     </i>
+    </tg-emoji>
+    جهت خرید:
+    <a href="https://t.me/eProxyy" target="_blank">
+     @eProxyy
+    </a>
+    <br/>
+    <br/>
+    <a href="http://t.me/proSSH" rel="noopener" target="_blank">
+     t.me/proSSH
+    </a>
+   </div>
+  </div>
+  <div class="media_not_supported_cont">
+   <div class="message_media_not_supported_wrap">
+    <div class="message_media_not_supported">
+     <div class="message_media_not_supported_label">
+      Please open Telegram to view this post
+     </div>
+     <a class="message_media_view_in_telegram" href="https://t.me/proSSH/4044">
+      VIEW IN TELEGRAM
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+     <b>
+      ❤
+     </b>
+    </i>
+    21
+   </span>
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')">
+     <b>
+      👍
+     </b>
+    </i>
+    1
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 97px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     31.9K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/proSSH/4044">
+      <time class="time" datetime="2025-06-03T22:15:59+00:00">
+       22:15
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+</div>
