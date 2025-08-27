@@ -1,15 +1,5 @@
 hysteria2://dongtaiwang.com@108.181.5.130:63015?security=tls&insecure=1&sni=apple.com#azad.net.vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#azad.NEt.vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#AZAD.NEEET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#azad.neet.vpn
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#%F0%9F%87%B9%F0%9F%87%B7%20AZADNET%20%E2%9D%A4%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%E2%9D%A4%EF%B8%8FAZaDnET%20VPN.AZADI%E2%9D%A4%EF%B8%8F
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#AZad.net%F0%9F%8C%B9vpn.azadi%F0%9F%A5%82
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#%F0%9F%87%BA%F0%9F%87%B8AzAdnet.vpn%E2%9D%A4%EF%B8%8F
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#azadnet
-wireguard://GNtoyCFBSIVwYXJopb4%2BUx0tJbtboC%2BRr88s5v5AuGA%3D@45.38.16.160:51820?address=100.64.13.95%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://MCWXBNf5gWdsj78AeO4Wttwb9A0k%2BHMvgUFV%2Fc1x0WA%3D@91.148.248.176:51820?address=100.64.9.239%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://OOZ%2FnvdWGRaMaHk5p4cm4Nu4E9xrUIZ0umcRbWJ1DkQ%3D@85.12.4.168:51820?address=100.64.8.32%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://WC5aIQaYrp%2FgNHCOSLznaUR9EMM1ijcaYnGFYEg6ymA%3D@91.148.240.144:51820?address=100.64.3.197%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://kMyxZ78jqFzo%2FJvlP%2FSHjzstiwMFU0htQ8OT8n91LXc%3D@45.38.16.4:51820?address=100.64.21.133%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://mC4LT30m1NULDHcNHAV20jqeeyzaS1FJ77dNRetJLVY%3D@81.171.72.192:51820?address=100.64.1.221%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://wFNRrjknl8Uz2mXezLnzGK5ckfq78hjC4rpy8XfGt2s%3D@81.171.72.64:51820?address=100.64.5.196%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#

@@ -1,2 +1,2 @@
-trojan://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net:15229?type=tcp&security=tls&sni=e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net&allowInsecure=1#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40jiedianssr%20%5B3%5D
-trojan://telegram-id-privatevpns@15.236.173.146:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40jiedianssr%20%5B5%5D
+trojan://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net:15229?type=tcp&security=tls&sni=e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net&allowInsecure=1#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40jiedianssr%20%5B2%5D
+trojan://telegram-id-privatevpns@15.236.173.146:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40jiedianssr%20%5B4%5D
