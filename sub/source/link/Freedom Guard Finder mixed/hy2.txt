@@ -1,2 +1,1 @@
-hysteria2://1HUodXVtct@147.45.40.248:8443?sni=googleusercontent.com&alpn=h3&obfs=salamander&obfs-password=T%40WEmvb41FS2%21MMv&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
-hysteria2://YuTNGwVxrB@[2a01:4f8:1c1b:951::1]:50010?sni=bing.com&obfs=salamander&obfs-password=w%5Egw%40%21s22Hbv%2AX&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
+hysteria2://KevinZakarian@keviny.iserver.store:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
