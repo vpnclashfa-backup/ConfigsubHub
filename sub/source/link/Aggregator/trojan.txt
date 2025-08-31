@@ -1,8 +1,7 @@
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=uk-03.allhubb.info#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-1879
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-0293
-trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-0291
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-0307
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-0310
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0309
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=sbank.ir#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-2781
-trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0168
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=uk-03.allhubb.info#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0251
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-0300
+trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-5092
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-5095
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-0295
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0308
+trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0322

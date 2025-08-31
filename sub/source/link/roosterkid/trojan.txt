@@ -1,1 +1,1 @@
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com]
+trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧[openproxylist.com]
