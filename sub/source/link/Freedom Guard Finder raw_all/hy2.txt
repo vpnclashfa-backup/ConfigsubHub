@@ -1,6 +1,8 @@
 hysteria2://1HUodXVtct@147.45.40.248:8443?sni=googleusercontent.com&alpn=h3&obfs=salamander&obfs-password=T%40WEmvb41FS2%21MMv&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:30300?security=tls&insecure=1&sni=www.bing.com#%40Daily_Configs`
+hysteria2://769b0107-24b2-4ee5-9881-58b42a115bcb@fq-nl.mxtn.net:11016?security=tls&insecure=1&mport=11001-11099&sni=fq-nl.mxtn.net#telegram%20%E2%98%9C%DB%9E%E2%98%9E%20v2xro```
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=tls&insecure=1&sni=www.bing.com#%40Daily_Configs
 hysteria2://KevinZakarian@keviny.iserver.store:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 hysteria2://Nu1uTNq2P4@81.19.137.167:8443?sni=googleapis.com&obfs=salamander&obfs-password=HGVSdvb%23%40bs12&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 hysteria2://YuTNGwVxrB@[2a01:4f8:1c1b:951::1]:50010?sni=bing.com&obfs=salamander&obfs-password=w%5Egw%40%21s22Hbv%2AX&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 hysteria2://ZlC0gAdswU@[2a12:5940:f197::2]:8443?sni=googleapis.com&obfs=salamander&obfs-password=HGVSdvb%23%40bs12&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
-hysteria2://aa517d88689b1b650345d07018329624@putin.fizikade.ir:44666?security=tls&obfs=salamander&obfs-password=jahhahyy7766HTft6tH655&insecure=0&sni=putin.fizikade.ir#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9D%91%B9%F0%9D%92%96%F0%9D%92%94%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%82-%20%E2%9A%A1

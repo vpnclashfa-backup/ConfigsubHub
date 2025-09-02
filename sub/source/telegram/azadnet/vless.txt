@@ -1,3 +1,2 @@
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#AZADNET%20AZADI%F0%9F%8C%B9%F0%9F%A4%9F
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#AZADNET.AZADI%F0%9F%92%99%F0%9F%A4%A9%F0%9F%A5%82
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#AZAD.NET.VPN%F0%9F%A5%B0
