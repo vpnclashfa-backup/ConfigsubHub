@@ -1,6 +1,0 @@
-wireguard://4LMUmsaNkvW62SaMqbPmefeD%2F1ltaZHGx7EGicrUNH4%3D@91.148.228.64:51820?address=100.64.15.91%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://GI06dHCcGWFNXufpmpfS45%2B24QHqHba1HkLO19DbJUI%3D@81.171.72.64:51820?address=100.64.21.127%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://MIAjELi0BhZGpQetynRVFdIzsQYoHRxVEyXaanhfnVw%3D@91.148.246.160:51820?address=100.64.9.98%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://OCOQ6eSlRC7Czz1Xa5aWDUY84x1o%2BzNRtk8aQH%2Bg72s%3D@45.38.18.155:51820?address=100.64.44.187%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://cE258OAwm5UfawtOKsK3GfLSJgIJekHjif%2Bchisjk30%3D@91.148.248.80:51820?address=100.64.32.78%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://mDkad05K2ojyqB81EiromthfAojuKHwnIRmgbrLF7Vo%3D@91.148.240.37:51820?address=100.64.85.17%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#

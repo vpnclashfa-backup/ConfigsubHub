@@ -1,11 +1,4 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.241.88.169:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?type=ws&path=/http#@Hope_Net-join-us-on-Telegram
-vless://26962dba-ddd8-479c-9143-9297abd2a863@5.182.87.141:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=random&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&sid=a7c159&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-vless://408c9c01-b1aa-4c8a-9b6b-f048092700ba@172.66.47.141:443?security=tls&sni=CHANnEl-iD-EliV2RAY.pAGES.DEv&type=ws&host=channel-id-eliv2ray.pages.dev&path=%2F&fp=qq#@Hope_Net-join-us-on-Telegram
-vless://47ea2aa7-a3c1-4060-b54a-2aaa320d0ff5@104.17.148.22:2082?security=none&type=httpupgrade&host=de.kookipaz.ir&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-vless://4821740a-13d0-4a1e-8d1f-e4ac5e06db91@104.26.15.85:2082?security=none&type=httpupgrade&host=1s3-0mh-hj1jar05--bpkv5g5v--swzw6emd_qkj__zwb4frtv7_.mohammadcfz.monster.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
-vless://579b085e-ade2-4ac5-88cb-bb54c7492e2e@62.60.178.251:2053?security=none&type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&sni=blOOM-cHh.pAges.DeV&type=ws&host=blOOM-cHh.pAges.DeV&path=%2Fnyx3uit72gutb8pa#@Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.100:80?security=none&sni=IRANINGOAT.IR&type=ws&host=IRANINGOAT.IR&path=%2F7qJzyVWj0ybhGdPg&fp=randomized&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-vless://baaccba-acba-cbaa-acdb-bccbcaabbcaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://34d83dcf-80ba-461a-b9c7-d057264bd854@2.189.130.90:32117?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
+vless://a1860440-221c-4c7f-9e8e-655fcbfc0cf6@151.101.194.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=tj56jnyjmn.com&path=ws%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://aacbcba-cbaa-abac-cabd-cbcccbbaabaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.12:8000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#@Hope_Net-join-us-on-Telegram

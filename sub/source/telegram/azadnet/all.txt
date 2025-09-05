@@ -1,9 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9F%A5%82AZADNET%20%F0%9F%A5%82
-vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#AZADNET.AZADI%F0%9F%92%99%F0%9F%A4%A9%F0%9F%A5%82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#AZAD%F0%9F%A5%82NET%F0%9F%A4%9F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#AZAD..NET.%F0%9F%A5%B0%F0%9F%A4%9F
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#AZAD.NET.VPN
-wireguard://4LMUmsaNkvW62SaMqbPmefeD%2F1ltaZHGx7EGicrUNH4%3D@91.148.228.64:51820?address=100.64.15.91%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://GI06dHCcGWFNXufpmpfS45%2B24QHqHba1HkLO19DbJUI%3D@81.171.72.64:51820?address=100.64.21.127%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://MIAjELi0BhZGpQetynRVFdIzsQYoHRxVEyXaanhfnVw%3D@91.148.246.160:51820?address=100.64.9.98%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://OCOQ6eSlRC7Czz1Xa5aWDUY84x1o%2BzNRtk8aQH%2Bg72s%3D@45.38.18.155:51820?address=100.64.44.187%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://cE258OAwm5UfawtOKsK3GfLSJgIJekHjif%2Bchisjk30%3D@91.148.248.80:51820?address=100.64.32.78%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://mDkad05K2ojyqB81EiromthfAojuKHwnIRmgbrLF7Vo%3D@91.148.240.37:51820?address=100.64.85.17%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
