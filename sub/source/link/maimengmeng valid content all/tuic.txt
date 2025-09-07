@@ -1,1 +1,1 @@
-tuic://871f77eb-3bf6-4faa-ad2b-79e0b9f1a284:871f77eb-3bf6-4faa-ad2b-79e0b9f1a284@40.233.77.57:16897?sni=www.bing.com&allow_insecure=1&alpn=h3#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2008-34
+tuic://55978e4e-e177-4d37-81a6-956d5f19b808:55978e4e-e177-4d37-81a6-956d5f19b808@172.245.22.42:56095?sni=www.bing.com&alpn=h3&congestion_control=bbr#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20tu5-Kunzzz-16

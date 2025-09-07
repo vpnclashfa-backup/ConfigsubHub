@@ -1,1 +1,2 @@
+hysteria2://miaoge110@45.58.38.153:12687?security=tls&insecure=1&sni=www.bing.com#%F0%9F%A5%82AZAD.NET%F0%9F%A5%82
 hysteria2://miaoge110@45.58.38.153:12687?security=tls&insecure=1&sni=www.bing.com#AZAD.NET.VPN.

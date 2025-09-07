@@ -1,11 +1,10 @@
 trojan://04dce2ad-97b3-445a-b26b-dc1b9a58914f@asia.artunnel57.host:443?security=tls&type=tcp&sni=asia.artunnel57.host#❔
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=/6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#❔
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧
 trojan://22dxmxezsm@pouriya.cf:443?security=tls&sni=brec3xLN7Zl2.pouriya.cf&alpn=http/1.1,h2,h3&fp=chrome&type=grpc&serviceName=Amsterdam&mode=gun#❔
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&type=ws&headerType=none&path=%2Fhowdy&sni=de1.test3.net&host=de1.test3.net#🚩
-trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=/&security=none&encryption=none&host=4h1.diginoshops10.ir&type=httpupgrade#🚩
 trojan://40f256db-09d7-4b3a-83c6-a68cd45b3d34@uae.artunnel57.host:443?security=tls&type=tcp&sni=uae.artunnel57.host#❔
 trojan://4134219f-2384-449c-92e9-50fe8474c30a@mumbai-m2.4422331.xyz:10086?security=tls&type=tcp&headerType=none#❔
+trojan://58bb35bc-8c58-4065-8c5f-9eeedb237eb1@gzog.runjustfast.com:30102?allowInsecure=1&sni=sg1.runjustfast.com#🇨🇳
 trojan://6bb546f2-5528-31b2-8d8e-cf1eed4076a0@phxv002.jd0001.top:44303?security=tls&sni=phxv002.jd0001.top&type=tcp&headerType=none&host=phxv002.jd0001.top#🇺🇸
 trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#🇩🇪
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#❔
@@ -22,7 +21,6 @@ trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&secur
 trojan://dcc63659-8091-4afa-a598-af46ade91f94@uae.artunnel57.host:443?security=tls&type=ws&headerType=none&path=%2Ftrojan-tls&sni=uae.artunnel57.host&host=uae.artunnel57.host#❔
 trojan://dcc63659-8091-4afa-a598-af46ade91f94@uae.artunnel57.host:80?security=none&type=ws&headerType=none&path=%2Ftrojan-ntls&host=uae.artunnel57.host#❔
 trojan://e6b506e9-2d37-40cb-aff9-35678d0e6c69@amin.karkas1.ir:443?mode=gun&security=tls&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL&sni=amin.karkas1.ir#❔
-trojan://eyJhZGQiOiIxNDcuNDUuNTEuMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImY0MS5tYXJ5YW0xNTAwLnRvcCIsImlkIjoiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5OCIsInBzIjoiSVItQFYycmF5X0FscGhhLTE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#❔
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:443?security=tls&type=ws&headerType=none&path=%2Ftrojan-tls&sni=asia.artunnel57.host&host=asia.artunnel57.host#❔
 trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none&type=ws&headerType=none&path=%2Ftrojan-ntls&host=asia.artunnel57.host#❔
 trojan://maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=http/1.1&fp=chrome&type=ws&host=teo.history-paint.art&path=/wss24142?ed=2048#❔
