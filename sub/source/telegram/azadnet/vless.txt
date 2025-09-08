@@ -1,2 +1,1 @@
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#AZAD.NET.VPN
 vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#AZADNET%F0%9F%A5%82%F0%9F%8C%B9%F0%9F%A5%B0
