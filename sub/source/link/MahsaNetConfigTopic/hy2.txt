@@ -1,3 +1,7 @@
+hy2://1sbtkLK7F3@195.22.157.104:39279/?sni=joon.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=yukugikguitlbgl#hysteria2-39279```
+hysteria2://1sbtkLK7F3@195.22.157.104:19561?fastopen=1&obfs=salamander&obfs-password=fxdc345t4gcvj459tgc&sni=joon.arshiacomplus.dpdns.org#hysteria2-19561
+hysteria2://1sbtkLK7F3@195.22.157.104:43672?fastopen=1&sni=joon.arshiacomplus.dpdns.org#hysteria2-43672
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=tls&insecure=1&sni=www.bing.com#%40Daily_Configs
 hysteria2://decc260a-d183-465a-9795-74717ef60bbd@fq-us.mxtn.net:11066?security=tls&insecure=0&mport=11001-11099#telegram%20%E2%98%9C%DB%9E%E2%98%9E%20v2xro```
 hysteria2://dongtaiwang.com@208.87.243.187:22222?peer=www.bing.com&insecure=1&obfs=none#mobilesignal%E2%9A%A1%EF%B8%8F```
+hysteria2://joindailyconfigs%3ARBJamRsWyUsuAW9Nc6l3dXLFPvlv1g2P@95.181.174.31:443?sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1#%40Daily_Configs%20%28%E2%80%A2%CB%8B%20_%20%CB%8A%E2%80%A2%29`

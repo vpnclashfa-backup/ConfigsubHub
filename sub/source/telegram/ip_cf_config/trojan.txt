@@ -1,5 +1,4 @@
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none&fp=chrome&allowInsecure=1#
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#
-trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&fp=randomized&type=ws&sni=aio.proxybox.dpdns.org#
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&security=tls&sni=sj3.freeguard.org#
 trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&headerType=none&type=tcp&sni=sp1.shatak.store#
 trojan://telegram-id-directvpn@13.36.17.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#

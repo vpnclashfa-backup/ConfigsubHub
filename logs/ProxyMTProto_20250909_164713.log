@@ -1,0 +1,1879 @@
+Channel: ProxyMTProto
+Timestamp: 2025-09-09T16:47:13.520044
+Reason for Failure: هیچ کانفیگ معتبری در پست‌های اخیر یافت نشد.
+
+==================================================
+ DUMP OF SCANNED MESSAGES (HTML) 
+==================================================
+
+
+--- Message 1 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43301" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDEsInQiOjE3NTc0MzY0MDAsImgiOiJhODU0YjNiOWFlYjQwNDdmNTgifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     717K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43301">
+      <time class="time" datetime="2025-09-08T14:30:01+00:00">
+       14:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=https.www.bahesab.ir-time.conversion-rotwailer.irancell.ir.com-mci.ir.com-co.uk-cilo.com-msn.cloudflare.com-tic.ir-is-filterchi.the-best-proxy.in-the-internet.com-nemidonam-dige-chi.benecisam.co.uk-felan-by.ta-badesh.ir.co.uk.kalivacocie-rotwailer.info.&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 2 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43302" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDIsInQiOjE3NTc0MzY0MDAsImgiOiIxOTFlMDY0OTI0MmJlMzk5NWYifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    9443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    11
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 133px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     722K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     edited
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43302">
+      <time class="time" datetime="2025-09-08T15:30:02+00:00">
+       15:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=49.12.218.172&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=49.13.16.76&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=116.202.23.55&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=net-meli.bozorgavar-game.ir.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 3 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43303" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDMsInQiOjE3NTc0MzY0MDAsImgiOiI5N2QxZTlhOTM1MDIwNThkY2MifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    5777
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeRigzNJvXrFGRMCIMJdEA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     710K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43303">
+      <time class="time" datetime="2025-09-08T16:30:01+00:00">
+       16:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=ticket.space-explorer.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=contactus.space-explorer.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 4 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43304" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDQsInQiOjE3NTc0MzY0MDAsImgiOiI4YmJiYjE4OWZlNDgyZWZhYjAifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    8888
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     708K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43304">
+      <time class="time" datetime="2025-09-08T17:30:01+00:00">
+       17:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=ssl.handshake-cert.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=certificate.handshake-cert.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 5 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43305" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDUsInQiOjE3NTc0MzY0MDAsImgiOiJkMWQwZDAzYmUyZjA4YmRlNGYifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     685K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43305">
+      <time class="time" datetime="2025-09-08T19:08:02+00:00">
+       19:08
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Popya-is.the-best.kaaaaaliandcocie-rotwailer.irancell.ir.com-mci.ir.com-co.uk-cilo.com-msn.cloudflare.com-tic.ir-is-filterchi.the-best-proxy.in-the-internet.com-nemidonam-dige-chi.benecisam.co.uk-felan-by.ta-badesh.ir.co.uk.kalivacocie-rotwailer.info.&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 6 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43306" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDYsInQiOjE3NTc0MzY0MDAsImgiOiJjNjUyMjJmNDhkNDJiNGI3MjQifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    9741
+   </code>
+   <br/>
+   Secret:
+   <code>
+    7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     692K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43306">
+      <time class="time" datetime="2025-09-08T19:30:01+00:00">
+       19:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=scan.security-rails.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=careers.security-rails.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 7 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43307" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDcsInQiOjE3NTc0MzY0MDAsImgiOiJjYjJkYTg0Y2NjYjQ5MTQyNDkifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    176.65.136.227
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     667K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43307">
+      <time class="time" datetime="2025-09-08T20:28:02+00:00">
+       20:28
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Irancell-moaos.berlino-landcvixo.biaboro.etok.info.&amp;port=443&amp;secret=1320PuNyHw_LQKT_Y7XNJw==" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=92.246.87.90&amp;port=443&amp;secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=103.161.34.15&amp;port=443&amp;secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 8 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43308" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDgsInQiOjE3NTc0MzY0MDAsImgiOiJkOTUxOGI2ZTMxZTYxNTlhOTkifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    11
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     694K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43308">
+      <time class="time" datetime="2025-09-08T20:28:02+00:00">
+       20:28
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Desktop.email-wrp.info&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=iPhone.email-wrp.info&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=mci-hamrah-aval-irancell.mci-sys.info.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 9 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43309" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMDksInQiOjE3NTc0MzY0MDAsImgiOiI5Zjg5ZDQwMzQ3YzY1Y2E2NWYifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     574K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43309">
+      <time class="time" datetime="2025-09-09T05:30:03+00:00">
+       05:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=https.ddns-cdnco.co.uk.&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 10 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43310" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTAsInQiOjE3NTc0MzY0MDAsImgiOiI3MGU2YTFjMDgwZDBlNTQyMGMifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    2
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     569K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43310">
+      <time class="time" datetime="2025-09-09T06:30:01+00:00">
+       06:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=https.www.bahesab.ir-time.conversion-rotwailer.irancell.ir.com-mci.ir.com-co.uk-cilo.com-msn.cloudflare.com-tic.ir-is-filterchi.the-best-proxy.in-the-internet.com-nemidonam-dige-chi.benecisam.co.uk-felan-by.ta-badesh.ir.co.uk.kalivacocie-rotwailer.info.&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 11 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43311" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTEsInQiOjE3NTc0MzY0MDAsImgiOiJmN2VmNzk2Yjk0Zjc1MWY0MDMifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    1080
+   </code>
+   <br/>
+   Secret:
+   <code>
+    79e344818749bd7ac519130220c25d09
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    1
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 133px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     551K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     edited
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43311">
+      <time class="time" datetime="2025-09-09T07:30:01+00:00">
+       07:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=siteimproves.space&amp;port=1080&amp;secret=79e344818749bd7ac519130220c25d09" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 12 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43312" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTIsInQiOjE3NTc0MzY0MDAsImgiOiIwODQ3Y2Q4ZTNlNzVjZWI2YjEifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    9741
+   </code>
+   <br/>
+   Secret:
+   <code>
+    ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    6
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     531K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43312">
+      <time class="time" datetime="2025-09-09T08:30:02+00:00">
+       08:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=HAMRAH-AVAL.new-visioncity.ir.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Iranam.new-visioncity.ir.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=New-p.new-visioncity.ir.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Iphone-windows.bozorgavar-game.ir.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 13 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43313" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTMsInQiOjE3NTc0MzY0MDAsImgiOiIzY2Y0Mzc4ZTQzM2QxNGE1MjUifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    108.181.123.105
+   </code>
+   <br/>
+   Port:
+   <code>
+    9443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    11
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     506K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43313">
+      <time class="time" datetime="2025-09-09T09:30:02+00:00">
+       09:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=web.eitaa.com.download-ir.co.uk.&amp;port=443&amp;secret=7hT4o0UAuSNUG_Aiah56EpB3ZWIuZWl0YWEuY29t" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=108.181.123.105&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=nuke.download-ir.co.uk.&amp;port=6443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ==" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 14 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43314" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTQsInQiOjE3NTc0MzY0MDAsImgiOiIyZjk2NDA1YjJlYjc0ODI3ZjIifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span style="display: inline-block; visibility: hidden; width: 133px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     467K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     edited
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43314">
+      <time class="time" datetime="2025-09-09T10:30:02+00:00">
+       10:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=152.232.8.180&amp;port=443&amp;secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=152.232.8.229&amp;port=155&amp;secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 15 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43315" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTUsInQiOjE3NTc0MzY0MDAsImgiOiJhODEzYWZjZTgzOGU2YTg3NTAifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    8888
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction tgme_reaction_paid">
+    <i class="icon icon-telegram-stars">
+    </i>
+    1
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 93px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     428K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43315">
+      <time class="time" datetime="2025-09-09T11:30:02+00:00">
+       11:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=release.claude-ai.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=buy.claude-ai.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=chat.nespresso-cups.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=code.nespresso-cups.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 16 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43316" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTYsInQiOjE3NTc0MzY0MDAsImgiOiJhNTE3MGU3MmEyMTJmMGQwOTgifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    176.65.136.227
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     382K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43316">
+      <time class="time" datetime="2025-09-09T12:30:02+00:00">
+       12:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Irancell-Nosos.berlino-landcvixo.biaboro.etok.info.&amp;port=443&amp;secret=1320PuNyHw_LQKT_Y7XNJw==" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=92.246.87.90&amp;port=443&amp;secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=103.161.34.15&amp;port=443&amp;secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=65.109.147.218&amp;port=555555&amp;secret=EERighJJvXrFGRMCIMJdCQ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 17 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43317" data-view="eyJjIjotMTM5NTM2Mzg2MSwicCI6NDMzMTcsInQiOjE3NTc0MzY0MDAsImgiOiI0Y2Q0NWVkYTJkZmY1YzQxNjgifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    8888
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     323K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43317">
+      <time class="time" datetime="2025-09-09T13:30:02+00:00">
+       13:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=87.229.100.68&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=87.229.100.67&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 18 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43318">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    443
+   </code>
+   <br/>
+   Secret:
+   <code>
+    7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     248K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43318">
+      <time class="time" datetime="2025-09-09T14:30:02+00:00">
+       14:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=careers.security-rails.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=scan.security-rails.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 19 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43319">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    8888
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 94px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     164K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43319">
+      <time class="time" datetime="2025-09-09T15:30:01+00:00">
+       15:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=iPhone.email-wrp.info&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=release.claude-ai.co.uk.&amp;port=8888&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
+
+
+--- Message 20 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProxyMTProto/43320">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/ProxyMTProto">
+   <i class="tgme_widget_message_user_photo bgcolor3" data-content="P">
+    <img src="https://cdn1.telesco.pe/file/Q6i5GnXlx3jnorPr3ovtaqoqcGmodi2ojQ2Fa2zGD7Z7JfcqW1xPyKwQbx6Lo3CzU_-hPEt48APFdMSpgV0KlBGEogU9pgvl_s-CwjsqBCyoIRN-tFOo8J7x936577FhzztLFlKOp-MkBJ0TW-6PTBhlyVUnicHsMA7CoZ7XcAeqUPyL34vtTt6a8xVdOFtAq_6p-ZqXEJ6qieK-PmM-i_K1HHqIq7NYKO71wJg6GxnttIeWZU6lTEX9mqZHVXC5rO-Uhz_FCviqMTSqpLrKyleJ7DkBkRfoLC84xkA0QBZn4wzh4fv72JX9LYV7Y6GHadjZPS-nCCy9LFRHZDuQsg.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/ProxyMTProto">
+    <span dir="auto">
+     Proxy MTProto
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   Server:
+   <code>
+    Unknown
+   </code>
+   <br/>
+   Port:
+   <code>
+    6773
+   </code>
+   <br/>
+   Secret:
+   <code>
+    eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   </code>
+   <br/>
+   <a href="https://t.me/ProxyMTProto" target="_blank">
+    @ProxyMTProto
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 97px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     51.7K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/ProxyMTProto/43320">
+      <time class="time" datetime="2025-09-09T16:30:02+00:00">
+       16:30
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="tgme_widget_message_inline_keyboard">
+  <div class="tgme_widget_message_inline_row">
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Sareto-hayhay.hamechimyar.ir.&amp;port=6773&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+   <a class="tgme_widget_message_inline_button url_button" href="https://t.me/proxy?server=Pishe-toam-vayvay.hamechimyar.ir.&amp;port=6773&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+    <span class="tgme_widget_message_inline_button_text" dir="auto">
+     Connect
+    </span>
+   </a>
+  </div>
+ </div>
+</div>
