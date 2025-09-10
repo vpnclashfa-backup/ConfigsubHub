@@ -1,1 +1,5 @@
-hysteria2://ZlC0gAdswU@[2a12:5940:f197::2]:8443?sni=googleapis.com&obfs=salamander&obfs-password=HGVSdvb%23%40bs12&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
+hysteria2://1sbtkLK7F3@195.22.157.104:19561?fastopen=1&obfs=salamander&obfs-password=fxdc345t4gcvj459tgc&sni=joon.arshiacomplus.dpdns.org#hysteria2-19561
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=tls&insecure=1&sni=www.bing.com#%40Daily_Configs
+hysteria2://KevinZakarian@keviny.iserver.store:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
+hysteria2://decc260a-d183-465a-9795-74717ef60bbd@fq-us.mxtn.net:11066?security=tls&insecure=0&mport=11001-11099#telegram%20%E2%98%9C%DB%9E%E2%98%9E%20v2xro```
+hysteria2://dongtaiwang.com@208.87.243.187:22222?peer=www.bing.com&insecure=1&obfs=none#mobilesignal%E2%9A%A1%EF%B8%8F```

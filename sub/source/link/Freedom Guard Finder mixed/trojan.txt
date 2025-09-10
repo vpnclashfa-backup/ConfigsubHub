@@ -1,2 +1,4 @@
-trojan://slch2024@188.164.248.87:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=Telegram&security=tls&sni=ocost-dy.wmlefl.cc#34%F0%9F%9B%9E%40oneclickvpnkeys
-trojan://slch2024@194.53.53.195:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=%2FTelegram&security=tls&sni=ocost-dy.wmlefl.cc#12%F0%9F%9B%9E%40oneclickvpnkeys
+trojan://1sbtkLK7F3@195.22.157.104:48677?host=joon.arshiacomplus.dpdns.org&path=%2Fewrf4d453&security=tls&sni=joon.arshiacomplus.dpdns.org&type=ws#trojan-48696
+trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI
+trojan://slch2024@188.244.122.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%40v2FreeHub%20%7C%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN
