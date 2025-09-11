@@ -1,3 +1,2 @@
-vmess://7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9@91.99.185.216:20086?encryption=auto&security=none&type=ws
 vmess://eyJhZGQiOiJjYzJkYXNoLjg5MDYwMDA0Lnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2MyZDMuODkwNjAwMDQueHl6IiwiaWQiOiIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODMiLCJwcyI6IkBEcm9wY3ViZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYzJkMy44OTA2MDAwNC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==vless://5776e394-936a-4edf-855e-8ad8b2fcd793@104.17.26.182:2087?security=tls&alpn=h2,http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws
 vmess://{
