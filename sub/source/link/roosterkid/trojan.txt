@@ -1,6 +1,0 @@
-trojan://slch2024@185.251.83.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B#🇸🇬[openproxylist.com]
-trojan://slch2024@188.42.145.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=Telegram#🇸🇬[openproxylist.com]
-trojan://slch2024@193.9.49.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=%2FTelegram#🇸🇬[openproxylist.com]
-trojan://slch2024@212.183.88.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=%2FTelegram#🇸🇬[openproxylist.com]
-trojan://slch2024@216.24.57.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=%2FTelegram#🇸🇬[openproxylist.com]
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com]
