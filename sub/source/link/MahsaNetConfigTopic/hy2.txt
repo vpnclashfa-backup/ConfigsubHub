@@ -1,4 +1,4 @@
 hy2://1sbtkLK7F3@195.22.157.104:39279/?sni=joon.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=yukugikguitlbgl#hysteria2-39279```
 hysteria2://1sbtkLK7F3@195.22.157.104:19561?fastopen=1&obfs=salamander&obfs-password=fxdc345t4gcvj459tgc&sni=joon.arshiacomplus.dpdns.org#hysteria2-19561
-hysteria2://dongtaiwang.com@208.87.243.187:22222?peer=www.bing.com&insecure=1&obfs=none#mobilesignal%E2%9A%A1%EF%B8%8F```
-hysteria2://kanale_dailyconfigs%3A48nBETs3vTt0SjdCmPGlSJDO98KRONJR@95.181.174.31:443?security=tls&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1&pinSHA256=EC%3A41%3A2A%3AC8%3ADC%3A21%3A90%3A84%3AD2%3AFA%3A57%3AE2%3AE3%3A78%3A2F%3A3F%3AE2%3A88%3A4F%3AF1%3ADE%3A14%3ABE%3A91%3A5D%3A14%3A9F%3AA4%3AFC%3AB2%3A45%3AD2&sni=slack.com#%40Daily_Configs%20IPv4`
+hysteria2://TELEGRAM-ID-free_vpn0088.TELEGRAM-ID-free_vpn0088@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=781528244&insecure=0#TELEGRAM-ID-free_vpn0088```
+hysteria2://mahsaamini%3At7BcRDX9RNcqZXvBhJcMlBsa435nD0Pt@95.181.174.31:443?sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP&insecure=1#%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85

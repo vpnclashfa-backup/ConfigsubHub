@@ -1,0 +1,1 @@
+hysteria2://daily_configs%3ATBZYsRgZwrsmIubgK0AVIgTNLunMkfMH@95.181.174.31:443?security=tls&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP&insecure=1&sni=slack.com#%40V2RAYROZ
