@@ -11,6 +11,7 @@ vless://Parsashonam-306@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-307@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#❔
 vless://Parsashonam-308@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#❔
 vless://Parsashonam-309@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#❔
+vless://Parsashonam-309@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp#❔
 vless://a1591bed-6c12-41cf-93c8-9bcb787ffd16@[2a01:4f9:c010:1ac8::1]:13269?security=none&encryption=none&headerType=none&type=tcp#❔
 vless://baa10442-7622-4b96-bd86-9f72aaac9846@[2a12:5940:1527::2]:8880?type=ws&path=/&host=cdnndsszakanalaslitest.possiblesayt.xyz.&security=none#❔
 vless://bd4de7ea-d6cc-492c-88a6-f1278b9210c3@[2a12:5940:1527::2]:443?type=tcp&path=/&host=www.sourceforge.net&headerType=http&security=none#❔
