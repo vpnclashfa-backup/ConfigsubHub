@@ -11,7 +11,6 @@ vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&p
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪
 vless://45948c7b-cd85-4040-92b2-9e634e9ddd52@104.21.62.144:443?type=xhttp&path=/Sauron/&host=&mode=auto&security=tls&fp=randomized&alpn=h3,h2,http/1.1&allowInsecure=1&sni=sauron.melkore.ir#🚩
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇨🇭
-vless://52004a71-5388-4593-9662-77ed2134f766@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#🇺🇸
 vless://55a4210c-e765-427f-813d-0c55b763f6b0@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱
 vless://57bcea09-fb76-4e8b-b7e3-fd1862bbacd9@104.21.62.144:443?type=xhttp&path=/Sauron/&host=&mode=auto&security=tls&fp=randomized&alpn=h3,h2,http/1.1&allowInsecure=1&sni=sauron.melkore.ir#🚩
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?mode=auto&path=/&security=reality&encryption=none&pbk=I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI&host=zula.ir&fp=chrome&spx=/&type=xhttp&sni=sourceforge.net&sid=2cc45a0088671249#🇩🇪
@@ -23,7 +22,6 @@ vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&path
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.137.185:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp&security=&encryption=none&fp=chrome&type=xhttp#🇩🇪
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=/statue/??ed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇩🇪
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱
@@ -49,7 +47,6 @@ vless://d6873a1d-38bf-430d-a701-a874b9be3982@193.233.19.17:2053?type=xhttp&mode=
 vless://e1fd5a63-a979-459c-8f64-6f70cb682e23@185.113.10.132:8650?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=/&type=xhttp&path=/&mode=auto#🇩🇪
 vless://e4b67aa2-27d0-429e-9c13-a0e8b576faa9@104.21.62.144:443?type=xhttp&path=/Sauron/&host=&mode=stream-up&security=tls&fp=randomized&alpn=h2&allowInsecure=1&sni=sauron.melkore.ir#🚩
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸
-vless://f1e9bc7a-9c0f-4ff5-8b43-7e6894764b91@185.92.182.148:27834?type=xhttp&encryption=none&path=/zcjJIIWA8uhyhTVYTfgg7gbHUNI&host=storm.xseller.com&mode=auto&security=none#🇺🇸
 vless://f33f8f0b-e520-4212-9c9b-aeefcdcc62af@91.99.115.171:8080?mode=auto&path=/&security=reality&encryption=none&pbk=T8lvKu6Po4yDVOdIb8UXFDPJJapWOHHLw-0kAqWWjl8&fp=firefox&spx=/cdn/image.jpg&type=xhttp&sni=cp7.cloudflare.com&sid=a6df009b#🇩🇪
 vless://f98e06c6-6b36-47f1-a0e3-77d7937c3ec7@104.21.62.144:443?type=xhttp&path=/Sauron/&host=&mode=auto&security=tls&fp=randomized&alpn=h3,h2,http/1.1&allowInsecure=1&sni=sauron.melkore.ir#🚩
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none#🇺🇸

@@ -1,1 +1,1 @@
-hysteria2://dd4091b8-82bf-4e5b-9240-4106377c024e@storm123.domenici.org:46964?=1&obfs=salamander&obfs-password=zQCPERraHjAQBRfV2wVO20ESZoPR3p&sni=storm123.domenici.org&insecure=1&allow_insecure=1#%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88%20StormSafeX%40%20Hysteria2`
+hysteria2://YuTNGwVxrB@[2a01:4f8:1c1b:951::1]:50010?sni=bing.com&obfs=salamander&obfs-password=w%5Egw%40%21s22Hbv%2AX&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q

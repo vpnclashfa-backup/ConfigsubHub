@@ -1,4 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#aZADNET.VPN
-vless://346caa60-8fb2-11f0-b237-205c6d5f5d78@asia1.fufo.org:80?path=%2Fvlws&security=none&encryption=none&type=ws#AZAD..NET.
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.117.29:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#AZAD..NET%F0%9F%8C%B9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#AZAD.NET.VPN
