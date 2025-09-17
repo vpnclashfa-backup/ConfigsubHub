@@ -1,1 +1,2 @@
-trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#🇳🇱[openproxylist.com]
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#🇭🇰[openproxylist.com]
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?type=tcp&security=tls&sni=sj3.freeguard.org#🇺🇸[openproxylist.com]
