@@ -1,2 +1,1 @@
-hysteria2://QWMs8htepu4efwwWrzM2nrRMT@80.75.218.223:64381?sni=bing.com&insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8```

@@ -3,8 +3,6 @@ vless://18ce358e-b507-4cde-8c83-94806aedf467@85.239.53.46:443?security=reality&e
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@v2Source
 vless://24c81def-9d06-5b44-a415-6568739eac66@fr1.xvless.online:80?path=%2Fhttpupgrade&security=none&encryption=none&host=fr1.xvless.online&type=httpupgrade#@v2Source
 vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&headerType=none&type=tcp#@v2Source
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@v2Source
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@v2Source
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@v2Source
 vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?security=reality&encryption=none&pbk=Gd8fDDLpqXZoIybSXnBaN-YWrpbgqe2944h0cjXA4wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=3a84f8ce#@v2Source
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@v2Source
