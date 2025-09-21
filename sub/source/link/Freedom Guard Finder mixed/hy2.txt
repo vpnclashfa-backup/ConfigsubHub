@@ -1,1 +1,1 @@
-hysteria2://YuTNGwVxrB@[2a01:4f8:1c1b:951::1]:50010?sni=bing.com&obfs=salamander&obfs-password=w%5Egw%40%21s22Hbv%2AX&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8```
