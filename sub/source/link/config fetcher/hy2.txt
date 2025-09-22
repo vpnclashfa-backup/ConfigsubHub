@@ -44,3 +44,4 @@ hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@172.245.106.236:35091?insecure=
 hysteria2://e48d6377dda26840@185.184.70.120:42353?insecure=1#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net:8443?sni=ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8100%20%7C%20%201.3MB/s
 hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?insecure=1&sni=jp.xn--mes91t7ofgnw.com#12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29
+hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-%40ISVvpnیا
