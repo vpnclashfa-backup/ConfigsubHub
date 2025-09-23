@@ -1,0 +1,6 @@
+hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40Argo_VPN1%F0%9F%87%BA%F0%9F%87%B8
+hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+hysteria://51.159.226.1:49003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#Channel%20id%3A%20%40Argo_VPN1%F0%9F%87%B3%F0%9F%87%B1
+hysteria://51.159.226.1:49003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+hysteria://62.210.127.217:40099/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40Argo_VPN1%F0%9F%87%AB%F0%9F%87%B7
+hysteria://62.210.127.217:40099/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
