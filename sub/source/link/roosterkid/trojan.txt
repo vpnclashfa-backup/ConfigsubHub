@@ -1,2 +1,2 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?allowInsecure=0&sni=hk.freeguard.org#🇭🇰[openproxylist.com]
+trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#🏳[openproxylist.com]
 trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com]

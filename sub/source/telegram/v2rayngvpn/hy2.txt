@@ -1,0 +1,1 @@
+hysteria2://WXjVIPuggK@91.107.150.208:8443?security=tls&obfs=salamander&obfs-password=AmirhsbgribsV2RayNGbejdssskfb&insecure=1#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86

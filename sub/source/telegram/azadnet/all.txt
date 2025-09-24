@@ -2,15 +2,14 @@ anytls://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:443?sni=kotlet.arshia
 hysteria2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#hysteria2
 hysteria2://YwuvGJk36B@filtercheebyha.arshiacom…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B3%F0%9F%87%B1AZAD.NET.VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#.azaDnet.vpn%F0%9F%A5%82
 trojan://02XtoczO7V@5.255.102.41:17590?type=ws&path=%2Fhishhhh123&host=mooshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#TR%2Bws%2Btls-xmdgfvso
 trojan://4mZzfWMLGz@5.255.102.41:10979?type=xhttp&path=%2Fdictator232&host=mooshali.arshiacomplus.dpdns.org&mode=packet-up&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#TR-xhttp-0ed6l7ws
 trojan://4xS33pu88RaTF37ZxRjzAZc9zxe8OaYBX9CSO3p5SSxquFOFEySnDlCleCFA2DN3gaeDl@mintaka.appagent.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8AZAD.NET.VPN
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#trojan-ws-tls
 trojan://diSO4oXGtu@5.255.102.41:57345?type=xhttp&path=%2Fdictator123&host=mooshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=mooshali.arshiacomplus.dpdns.org#TR-xhttp-j8abdzeo
 trojan://diSO4oXGtu@5.255.102.41:57345?type=xhttp&path=%2Fdictator123&host=mooshali.arshiacomplus.dpdns.org&mode=stream-one&securit…
-vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#kiaan.azadnet%F0%9F%A5%B0
 vless://39c8e0d3-c932-4ff7-b3e3-83002647907b@m44a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7azadnet%20vpn.azadi
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.169.160.84:2053?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#AZAD.NET.VPN%F0%9F%A5%82
 vless://d4f5c51c-6bed-4a1c-a335-b0df490249d5@91.98.139.247:39626?security=reality&encryption=none&pbk=eUPFDtu0ZgmQQHqsSJJ2APBDF7X9Pje7LPBYehTMJBs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.steampowered.com&sid=85#%F0%9F%87%A9%F0%9F%87%AAAZAD.NET.VPN
 vless://f825cb73-9140-4314-972c-9812ab785993@qow.mahi25.cfd:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20AZAD.NET.VPN%20%F0%9F%A5%82
 vmess://eyJhZGQiOiI4LjIyMC4xODguMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI1YTgyYzFkLTBkOTgtNGQ0ZC1hNDk5LTVkMDRlNGJiMTE0ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI1OTEzNCIsInBzIjoi8J+HtfCfh61BWkFELk5FVC5WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
