@@ -1,5 +1,5 @@
 hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%BA%F0%9F%87%B2
-hysteria2://TELEGRAM-ID-mrknowsit.TELEGRAM-ID-mrknowsit@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=ed5s8665dsss&insecure=0#TELEGRAM-ID-free_vpv0088```
+hysteria2://TELEGRAM-ID-conf0088.TELEGRAM-ID-conf0088@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=ed5s8665dsss&insecure=0#TELEGRAM-ID-conf0088```
 hysteria2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#hysteria2
 hysteria2://dongtaiwang.com@208.87.243.187:22222?peer=www.bing.com&insecure=1&obfs=none#mobilesignal%E2%9A%A1%EF%B8%8F```
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8```
