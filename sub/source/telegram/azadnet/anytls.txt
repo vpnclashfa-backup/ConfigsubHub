@@ -1,2 +1,1 @@
-anytls://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:443?sni=kotlet.arshiacomplus.dpdns.org#acp
 anytls://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:8443?security=tls&fp=firefox&sni=ghasem.kotlet.org&alpn=h3,http/1.1#anytls-acp-pro

@@ -1,3 +1,2 @@
 anytls://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:443/?sni=kotlet.arshiacomplus.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
-anytls://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:443?sni=kotlet.arshiacomplus.dpdns.org#acp
 anytls://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:8443?security=tls&fp=firefox&sni=ghasem.kotlet.org&alpn=h3,http/1.1#anytls-acp-pro

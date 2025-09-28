@@ -1,6 +1,4 @@
-anytls://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:443?sni=kotlet.arshiacomplus.dpdns.org#acp
 anytls://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:8443?security=tls&fp=firefox&sni=ghasem.kotlet.org&alpn=h3,http/1.1#anytls-acp-pro
-hysteria2://YwuvGJk36B@filtercheebyha.arshiacom…
 hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?security=tls&obfs=salamander&obfs-password=ki%28rtoko%28s-maret-khamneii&insecure=1&sni=ghasem.kotlet.org#hysteria2-11940
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#shadowsocks-pro
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#%F0%9F%87%B3%F0%9F%87%B1AZAD.NET.VPN
@@ -14,6 +12,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7AZAD.NET.VPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#AZAD.NET.VPN%E2%9D%A4%EF%B8%8F%F0%9F%A4%9F
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc
