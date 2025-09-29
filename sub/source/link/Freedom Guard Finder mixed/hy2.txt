@@ -1,2 +1,2 @@
-hysteria2://1HUodXVtct@147.45.40.248:8443?sni=googleusercontent.com&alpn=h3&obfs=salamander&obfs-password=T%40WEmvb41FS2%21MMv&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
-hysteria2://TELEGRAM-ID-conf0088.TELEGRAM-ID-conf0088@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=ed5s8665dsss&insecure=0#TELEGRAM-ID-conf0088```
+hysteria2://ZlC0gAdswU@[2a12:5940:f197::2]:8443?sni=googleapis.com&obfs=salamander&obfs-password=HGVSdvb%23%40bs12&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8```

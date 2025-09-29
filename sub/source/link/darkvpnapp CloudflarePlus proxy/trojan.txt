@@ -1,2 +1,0 @@
-trojan://R8ufkVqwRZAgtwjyrA@nl-2.concert-geb.com:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
