@@ -1,2 +1,2 @@
-hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?security=tls&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv&insecure=1#%40meli_proxyy
-hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?security=tls&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv&insecure=1#%40meli_proxyy
+hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#@meli_proxyy
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#@meli_proxyy
