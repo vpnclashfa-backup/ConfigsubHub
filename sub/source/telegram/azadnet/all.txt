@@ -6,7 +6,6 @@ trojan://253bc477d4e43c209f2d427272968280@203.198.123.174:443?security=tls&heade
 trojan://biOrJGlcfX@creativecommons.org:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#tr-ws-tls-acp-pro
 tuic://3cf62ed3-f3b4-4c4a-b371-0829d506338f:siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2087?security=tls&fp=firefox&sni=ghasem.kotlet.org&alpn=h3,http/1.1&congestion_control=bbr#tuic-acp-pro
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk
-vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=AZAD%20NET&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7AZAD.NET.VPN%F0%9F%92%99
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc
@@ -17,6 +16,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v6.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc
-vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#KIAN.AZADNET%20VPN%E2%9D%A4%EF%B8%8F
 vless://turboo-server@turboo-server.aftabz.com:80?path=%2F--ping--www.speedtest.net%3Fed%3D2080&security=none&encryption=none&type=ws
 wireguard://eMzYuSWkUcFWDF8ZfLoiysQlC%2BO2fAZDSD20fkXAvWI%3D@adas-polo-ba-mahi.kotlet.org:30914?wnoise=quic&presharedkey=&address=10.0.0.2%2F32&keepalive=5&wpayloadsize=5-10&publickey=TQbzV70123vd9F2LypBHEIrG%2Bx6AcMx2%2BEQM%2FX%2BfCjQ%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#wire-acp-pro

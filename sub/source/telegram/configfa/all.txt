@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT085aHR0WDFWUWdXVkJWcEVrbnpt@45.95.232.236:4248#%5B%F0%9F%8F%81%5DT.me%2FFREECONFIGSPLUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUZtakthYW1TclBxVnkxanRYRVg0@212.192.14.226:41968#%5B%F0%9F%87%B7%F0%9F%87%BA%5DT.me%2FFREECONFIGSPLUS
+trojan://3%5DsjM%21r%7CL%3BQl@zs41t69imjif5vzsxvlg4gvitc80mmx5.pages.dev:2096?path=%2FeyJqdW5rIjoiMTEyVW1vUXFzU0dTMUFMWCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS42MS40Mi4xMDUiXX0%3D%3Fed%3D2560&security=tls&host=zs41t69imjif5vzsxvlg4gvitc80mmx5.pages.dev&type=ws&sni=zs41t69iMjIf5vzsXvLG4gVITc80MmX5.pAges.dEv#hamedp71-13
 vless://0001e585-a648-4db2-8c9e-af346110c642@141.227.180.86:43239/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%5B%F0%9F%8F%81%5DT.me%2FFREECONFIGSPLUS
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337/?type=tcp&encryption=none#%5B%F0%9F%87%A9%F0%9F%87%AA%5DT.me%2FFREECONFIGSPLUS
 vless://70d8e055-9062-4184-a224-fe7e60f2527e@46.8.231.197:3479/?type=grpc&encryption=none&serviceName=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#%5B%F0%9F%87%B3%F0%9F%87%B1%5DT.me%2FFREECONFIGSPLUS
@@ -9,7 +10,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880/?type=grpc&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880/?type=grpc&encryption=none#%5B%F0%9F%87%AB%F0%9F%87%B7%5DT.me%2FFREECONFIGSPLUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880/?type=grpc&encryption=none#%5B%F0%9F%87%AB%F0%9F%87%B7%5DT.me%2FFREECONFIGSPLUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#%5B%F0%9F%87%B3%F0%9F%87%B1%5DT.me%2FFREECONFIGSPLUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#%5B%F0%9F%87%AB%F0%9F%87%B7%5DT.me%2FFREECONFIGSPLUS
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880/?type=grpc&encryption=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5DT.me%2FFREECONFIGSPLUS
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880/?type=grpc&encryption=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5DT.me%2FFREECONFIGSPLUS
 vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTk1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0ZSRUVDT05GSUdTUExVUyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYW1wb25nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
