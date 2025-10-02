@@ -1,1 +1,0 @@
-wireguard://eMzYuSWkUcFWDF8ZfLoiysQlC%2BO2fAZDSD20fkXAvWI%3D@adas-polo-ba-mahi.kotlet.org:30914?wnoise=quic&presharedkey=&address=10.0.0.2%2F32&keepalive=5&wpayloadsize=5-10&publickey=TQbzV70123vd9F2LypBHEIrG%2Bx6AcMx2%2BEQM%2FX%2BfCjQ%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1420#wire-acp-pro
