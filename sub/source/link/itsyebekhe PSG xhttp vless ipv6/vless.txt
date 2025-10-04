@@ -3,6 +3,7 @@ vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#KingRezaPahlavi
 vless://0a29e0b5-c4ef-4992-ab0e-1d371dd8b3cd@[2a12:5940:1527::2]:443?type=tcp&path=/&host=www.sourceforge.net&headerType=http&security=none#❔
 vless://12471e51-fcd4-421c-a71f-2ef755c34fec@[2a01:4f9:c010:1ac8::1]:8443?path=/@InterNet_Nor&security=none&encryption=none&type=ws#❔
+vless://5b9fb1fe-f919-426b-763c-55a5d9139e0e@2a01:4f8:1c17:d10d::1:8080?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#🇩🇪
 vless://5b9fb1fe-f919-426b-863c-55a5d9139e0e@2a01:4f8:1c17:d10d::1:8080?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#🇩🇪
 vless://78d743e4-1519-4770-aa84-ca0d6de0cc80@[2a12:5940:1527::2]:443?type=tcp&path=/&host=www.sourceforge.net&headerType=http&security=none#❔
 vless://8bfbdbb1-9126-4372-96a1-5547d629559f@[2a12:5940:1527::2]:443?type=tcp&path=/&host=www.sourceforge.net&headerType=http&security=none#❔
