@@ -1,1 +1,1 @@
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#%40V2_MOD_SHOP%20-%20%F0%9F%87%AD%F0%9F%87%B0%20%E2%9A%A1%20%7C
+hysteria2://miaoge110@45.58.38.153:40112?sni=www.bing.com&insecure=1#%40Daily_Configs`
