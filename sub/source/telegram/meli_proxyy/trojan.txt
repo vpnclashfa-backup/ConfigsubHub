@@ -1,2 +1,1 @@
-trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#@meli_proxyy
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@meli_proxyy
+trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?type=ws&host=gamang.gpj2.dpdns.org&path=/Free-VPN-Geo-Project/80.66.85.115-2053&security=tls&sni=gamang.gpj2.dpdns.org&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA@meli_proxyy

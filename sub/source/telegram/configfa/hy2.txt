@@ -1,0 +1,1 @@
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20%20hamedp71%20-%20%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3

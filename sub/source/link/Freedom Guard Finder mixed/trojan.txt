@@ -1,1 +1,4 @@
+trojan://9ba843b2-3e77-488b-b468-d934c5ef5f76@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F129.151.128.105-16731&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%5B%40v2FreeHub%5D%F0%9F%87%A6%F0%9F%87%AA%20-%20Oracle%20Corporation%20WS%20TLS
+trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#%40Daily_Configs
+trojan://ttfang@166.0.244.206:2053?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#
 trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
