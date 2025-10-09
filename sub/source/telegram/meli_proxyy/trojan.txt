@@ -1,1 +1,0 @@
-trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?type=ws&host=gamang.gpj2.dpdns.org&path=/Free-VPN-Geo-Project/80.66.85.115-2053&security=tls&sni=gamang.gpj2.dpdns.org&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA@meli_proxyy

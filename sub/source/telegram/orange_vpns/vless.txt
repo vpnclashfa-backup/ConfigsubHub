@@ -1,0 +1,14 @@
+vless://33c2b39d-b53f-45cd-d5c9-d58df4756e95@167.172.177.180:35722?mode=auto&path=%2Fvxkxixgo&security=none&encryption=none&host=5548.ir&type=xhttp#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://9d7fd31c-2cbc-4a13-9c92-93242b967f41@103.193.173.217:50619?security=reality&encryption=none&pbk=BvRxvo-i2lH6f0R4AsVskWkubLRwRSIG3yicP3Fwp0M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://acdf1a94-393f-4b5a-86c2-65558b18e7b5@188.132.141.58:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://e5660582-4608-59b6-648b-85a8004ab28c@sw.baziir.ir:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=821bbc44dd7a4e15#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support

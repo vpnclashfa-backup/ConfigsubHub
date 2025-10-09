@@ -1,1 +1,0 @@
-hysteria2://miaoge110@45.58.38.153:40112?sni=www.bing.com&insecure=1#%40Daily_Configs`
