@@ -1,4 +1,3 @@
-trojan://253bc477d4e43c209f2d427272968280@221.128.195.218:4431?sni=www.nintendogames.net&path=%2f#
-trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#
-trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?path=%2FFree-VPN-Geo-Project%2F92.178.109.187-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#
+trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#
+trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#
