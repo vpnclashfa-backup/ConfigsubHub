@@ -1,1 +1,0 @@
-trojan://253bc477d4e43c209f2d427272968280@221.128.195.218:4431/?type=tcp&security=tls&sni=www.nintendogames.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3

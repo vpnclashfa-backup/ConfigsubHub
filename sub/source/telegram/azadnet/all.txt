@@ -2,13 +2,4 @@ trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&t
 vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@104.26.12.31:2096?path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4&security=tls&encryption=none&host=vless-10.webn.cc&type=ws&sni=vless-10.webn.cc#Kiaan.azadnet%F0%9F%A5%82%E2%9D%A4%EF%B8%8F
 vless://7ZBZR28BkGmCeSxGP+xsHwXd5ebYr37mTOpr+EPMRaGAYGZq5NLjO6dm2t9tGnNX9bno6QWjfuOZOXUz8L5jiK21E1/yfab2CxB4nhXWrUcKw20FlAs/hYtbvVwNgXCmbZqDxztLs8WJEzMOk6Xvlgx4tAJP4Cn86hbE4OJ4bcTbVLtOthzJU6UXe4vIIw8U
 vless://c4b46615-5a3c-4431-f3b9-01b16a9fde69@5.75.192.6:443?security=reality&encryption=none&pbk=fVtKLgnLnnS9SXhHujGSWEiqQipzlTV1lG7C2dNThSM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iubenda.com&sid=48#AZAD.NET.VPN%E2%9D%A4%EF%B8%8F
-wireguard://MEDMo2eLcBuSAWP%2F9yvQW%2ByXTh3vYq6aJb4l3wAYaH8%3D@45.38.16.4:51820?address=100.64.64.36%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://UNs%2B6UlITVxyU4ffWWnGFuuqYacOYsSeRYP2mAjqrW8%3D@91.148.240.183:51820?address=100.64.12.2%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://WLYXbTidlrrptUr9BWIPuJ59ql%2BS9NvT21r2bU656mc%3D@91.148.248.80:51820?address=100.64.75.147%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://YITZuwr5mNre35n6zFqjdpmjLDH%2FCTqcpLfVBkcoZU4%3D@85.12.5.80:51820?address=100.64.15.28%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://aK4A0aK%2B%2FcPTIubOX%2BqXh8BCgOCfFCjwVygPgtlJRGY%3D@91.148.244.199:51820?address=100.64.24.223%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://kPH2CyUIg6d9jpbQE%2FJg03APwbylsCmUPByNuYE42n8%3D@45.38.16.128:51820?address=100.64.42.85%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://mAwqq7YapCLpD37r83iXVJ5PjvvLfa2oONvEhfpLYWM%3D@91.148.247.43:51820?address=100.64.23.211%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://mPtrsV%2FW8yUvvdFPqxh539n4HmksBQjj7mHQ%2BoQbUlI%3D@91.148.246.148:51820?address=100.64.50.167%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
-wireguard://wExJVgiLpqts8kbZOiF2cD%2BRUlJTLt3CBznkrU0wtGM%3D@91.
-wireguard://wExJVgiLpqts8kbZOiF2cD%2BRUlJTLt3CBznkrU0wtGM%3D@91.148.244.96:51820?address=100.64.37.98%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=%2Fsnippets%2Fip&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#AZAD.NET.VPN.KIAN.%F0%9F%A5%82%E2%9D%A4%EF%B8%8F
