@@ -1,3 +1,4 @@
+trojan://01TELEGRAM-ID-conf0088@abbotsfordhallforhire.org.au.abbotsfordhallforhire.org.au:22878?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=chrome&type=tcp#🆔configfa%20🔒%20TR-TCP-N/A%20🇫🇮%20FI%20down
 trojan://telegram-id-directvpn@13.37.24.11:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔soskeynet%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20down
 trojan://telegram-id-directvpn@15.188.175.202:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔soskeynet%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20down
 trojan://telegram-id-directvpn@18.193.171.224:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔soskeynet%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20down

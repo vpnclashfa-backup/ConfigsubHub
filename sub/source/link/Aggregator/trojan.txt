@@ -1,3 +1,0 @@
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.19:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US-23.227.194.19-0195
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US-23.227.194.234-0196
-trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.152-0241
