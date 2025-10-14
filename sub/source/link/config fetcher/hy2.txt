@@ -9,9 +9,8 @@ hysteria2://48c1e014-28d6-11ec-a0fc-f23c913c8d2b@3e8cbc42-svwf40-sw0dp4-3z3v.hy2
 hysteria2://4a7f880c-72f4-11ed-b0b5-f23c9164ca5d@6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net:8443?sni=6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8108%20%7C%20%201.4MB/s
 hysteria2://4c0c889785026935@77.110.115.25:5053?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=4c0c889785026935#12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%232
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@45.130.146.158:22160?security=tls&insecure=1&sni=hsels.huasuan666.top#%F0%9F%8F%8033%40ConfigV2RayNG
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsadly.huasuan666.top:22159?security=tls&insecure=1&sni=hsadly.huasuan666.top#%F0%9F%AA%A986%40ConfigV2RayNG﻿
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsels.huasuan666.top:22160?security=tls&insecure=1&sni=hsels.huasuan666.top#%F0%9F%A5%8A90%40ConfigV2RayNG
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?security=tls&insecure=1&sni=hshl.huasuan666.top#%F0%9F%A5%8A8%40ConfigV2RayNG
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsadly.huasuan666.top:22159?security=tls&insecure=1&sni=hsadly.huasuan666.top#%F0%9F%AA%A986%40ConfigV2RayNG
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsels.huasuan666.top:22160?security=tls&insecure=1&sni=hsels.huasuan666.top#%F0%9F%A5%8A90%40ConfigV2RayNG﻿
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsmg.huasuan666.top:22151?security=tls&insecure=1&sni=hsmg.huasuan666.top#%F0%9F%AA%A982%40ConfigV2RayNG
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsxg.huasuan666.top:22153?security=tls&insecure=1&sni=hsxg.huasuan666.top#%F0%9F%A5%8A97%40ConfigV2RayNG
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsxjp.huasuan666.top:22154?security=tls&insecure=1&sni=hsxjp.huasuan666.top#%F0%9F%AA%A985%40ConfigV2RayNG
@@ -29,8 +28,10 @@ hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#
 hysteria2://6e9cdc20-b92a-11ef-973a-f23c913c8d2b@6b99ff62-svy9s0-sww7b0-1qwp5.hy2.gotochinatown.net:8443?sni=6b99ff62-svy9s0-sww7b0-1qwp5.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8120%20%7C%20%201.4MB/s
 hysteria2://6e9cdc20-b92a-11ef-973a-f23c913c8d2b@9d5cde75-sw3ts0-sww7b0-1qwp5.hy2.gotochinatown.net:8443?sni=9d5cde75-sw3ts0-sww7b0-1qwp5.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8121%20%7C%20%201.2MB/s
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#11%7C%40Selinc
-hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@vn.gomeow.online:443?security=tls&obfs=salamander&obfs-password=TTEmefHq1OlFElQr&insecure=1&mport=20601-20699&sni=vn.gomeow.online#%F0%9F%9B%9E87%40ConfigV2RayNG
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#%F0%9F%9B%8E%EF%B8%8F13%40ConfigV2RayNG
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#%F0%9F%9B%8E%EF%B8%8F27%40ConfigV2RayNG
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net:8443?sni=1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8116%20%7C%20%201.2MB/s
+hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#%F0%9F%9B%8E%EF%B8%8F77%40ConfigV2RayNG
 hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443?sni=ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B896%20%7C%20%202.4MB/s
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&sni=sinavm.ru&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#2%7C%F0%9F%8C%805-LI%20%7C%20%202.0MB/s%7C0%25%7COpenai
@@ -39,9 +40,11 @@ hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?insecure=
 hysteria2://NauyynT4jo@p4.3dfigures.ir:56116?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#11%7C%40V2ray1_Ng%20ALL
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%AA%8179%40ConfigV2RayNG
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%E2%8F%B042%40ConfigV2RayNG
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%40meli_proxyy
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%AA%8196%40ConfigV2RayNG
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#13%F0%9F%9A%A8%40ConfigV2RayNG
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20%20hamedp71%20-%20%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3با
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%AB%8669%40ConfigV2RayNG
+hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%40meli_proxyy
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%F0%9F%AA%814%40ConfigV2RayNG
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%8C%BF16%40ConfigV2RayNG
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%8C%BF85%40ConfigV2RayNG
