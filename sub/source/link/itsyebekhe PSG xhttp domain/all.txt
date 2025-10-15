@@ -13,5 +13,8 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stre
 vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?mode=auto&path=/Amirrezagol?ed=2560&security=none&encryption=none&host=amirrezagol.global.ssl.fastly.net&type=xhttp#🇨🇦
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?encryption=none&type=xhttp&mode=auto&path=/#🚩
 vless://TELEGRAM-CONFiGLiNE-byA@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=configlinechannel.com&type=xhttp#🇺🇸
+vless://a193c4d3-30b5-4ebc-8e5e-800a4f1ea556@wedrdeersed.hulkirani.shop:80?type=xhttp&encryption=none&path=/admin?ed=2048&host=makevaslim_01.global.ssl.fastly.net&mode=auto&security=none#🇺🇸
 vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=/&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=/&type=xhttp&sni=bimeh.com&sid=c5a5b0#🇸🇪
+vless://f829af7a-eaac-4f1f-b02a-38bbc0346868@wedrdeersed.hulkirani.shop:80?type=xhttp&encryption=none&path=/admin?ed=2048&host=makevaslim_01.global.ssl.fastly.net&mode=auto&security=none#🇺🇸
+vless://f89ce743-ac04-43db-bfad-041ce541ccf5@ergwork.web.unc.edu:80?type=xhttp&encryption=none&path=/&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#🇺🇸
 vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=Mtkirand.com&type=xhttp#🇺🇸

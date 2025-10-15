@@ -1,5 +1,7 @@
 vless://3956e45d-e9fa-4f2a-a831-b7e8e5904692@2margate.superip.ir:3041?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=4c14#%40server_nekobox
 vless://3956e45d-e9fa-4f2a-a831-b7e8e5904692@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
+vless://77a07419-394a-4e46-b64b-a4ca2bd295f4@1margate.superip.ir:28157?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=4c14#%40server_nekobox
+vless://77a07419-394a-4e46-b64b-a4ca2bd295f4@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
 vless://d49ffd05-c1dc-4bcb-b788-dbbece8860b0@2margate.superip.ir:3041?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=4c14#%40server_nekobox
 vless://d49ffd05-c1dc-4bcb-b788-dbbece8860b0@2margate.superip.ir:3041?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=4c14#%40server_nekobox…
 vless://d49ffd05-c1dc-4bcb-b788-dbbece8860b0@margate2.superip.ir:3912?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%40server_nekobox
