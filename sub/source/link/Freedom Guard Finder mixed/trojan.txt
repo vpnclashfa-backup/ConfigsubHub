@@ -1,2 +1,5 @@
+trojan://541da7c5-dd4b-4318-9252-24eb694230bf@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%AA%F0%9F%87%B8%20WS%20TLS
+trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS
+trojan://e1191c4d-5a2c-406e-977f-63cb7e0aba2c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A9%F0%9F%87%AA%20WS%20TLS
 trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI
-trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
+trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN

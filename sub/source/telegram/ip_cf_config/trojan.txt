@@ -1,3 +1,2 @@
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#
-trojan://telegram-id-directvpn@15.188.36.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
-trojan://telegram-id-directvpn@3.124.147.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://82f7b4b4-575c-414d-b6ac-0e2eac25e2fe@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#
+trojan://c45ba3c9-fa4a-4301-ab1d-4469c24f9320@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES4&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#

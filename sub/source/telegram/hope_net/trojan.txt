@@ -1,2 +1,5 @@
-trojan://acbcbaa-caab-acba-acbd-bacaccabbacb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.27:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:21005?sni=alibabashop.com#@Hope_Net-join-us-on-Telegram
+trojan://bccabaa-bcaa-aabc-cabd-bbacaaacbbcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://cbcabaa-abca-acba-abcd-bbcaabaccbca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@15.157.18.202:22222?sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram

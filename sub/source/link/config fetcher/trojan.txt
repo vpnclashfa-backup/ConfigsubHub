@@ -29,6 +29,7 @@ trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@172.67.153.179:443?security=tls&sn
 trojan://2YDH6ktJOt@104.21.15.33:8443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒
 trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@5.254.17.52:443?security=tls&sni=telewebion.com&type=ws&path=/trojanws#🔒
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#@Hope_Net-join-us-on-Telegram
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
 trojan://3c4e10af98c30972@88.210.36.106:443?security=tls&sni=n2.gladns.com&type=grpc#🔒
 trojan://3qx%25QmCt%5E%26cg@172.67.175.40:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=/sq54iQsL#🔒
@@ -47,6 +48,7 @@ trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@20.2.156.38:443/?type=tcp&security
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443/?type=tcp&security=tls&sni=il.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-5574
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#2%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@70.32.1.32:443?security=tls&sni=jp-h1.sshub.xyz&type=tcp#🔒
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:21005?sni=alibabashop.com#@Hope_Net-join-us-on-Telegram
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#🔒
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.21:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
@@ -80,5 +82,3 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.93:3462?sni=45.32.28.2
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.232&allowInsecure=0#🔒
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&sni=Xxs345rf.857856.xYZ&type=ws&host=xxs345rf.857856.xyz&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&fp=chrome&alpn=http%2F1.1#🔒
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.69:443?sni=ssanj01.100896.xyz#🔒

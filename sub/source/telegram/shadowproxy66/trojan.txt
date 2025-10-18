@@ -1,1 +1,0 @@
-trojan://wb6368@92.243.75.49:2087?path=%2F&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#Channel%20id%3A%20%40ShadowProxy66%20

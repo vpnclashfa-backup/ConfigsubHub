@@ -1,7 +1,7 @@
-trojan://NISHIKUITAN222@198.41.209.227:443?allowInsecure=1&ws=1&wspath=%2F#[
-trojan://telegram-id-directvpn@3.71.183.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
-trojan://telegram-id-directvpn@63.179.221.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@63.179.221.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
-trojan://telegram-id-privatevpns@35.181.147.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
-trojan://telegram-id-privatevpns@63.179.221.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@63.179.221.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://blue2024@162.159.44.203:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#[
+trojan://cbcabaa-abca-acba-abcd-bbcaabaccbca@127.0.0.1:1080?security=tls&type=tcp#[
+trojan://telegram-id-directvpn@3.121.146.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@3.121.146.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://telegram-id-directvpn@63.179.194.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://telegram-id-privatevpns@3.121.146.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@3.121.146.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
