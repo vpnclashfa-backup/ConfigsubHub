@@ -1,0 +1,2 @@
+vless://8e1c3f4a-2066-4dd8-b703-9ea2802e6fc7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%A9%F0%9F%87%AA%20WS%20TLS
+vless://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%B3%F0%9F%87%B1%20WS%20TLS
