@@ -1,4 +1,0 @@
-trojan://Aimer@141.11.203.191:8443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#%F0%9F%8C%B559%40oneclickvpnkeys
-trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.69:2096/?type=tcp&security=tls&sni=vle.amclubssss.dpdns.org&allowInsecure=1#%F0%9F%8C%B560%40oneclickvpnkeys
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#%F0%9F%8F%81RELAY-194.53.53.249-0628
