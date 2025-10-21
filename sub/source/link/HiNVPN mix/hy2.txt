@@ -1,0 +1,1 @@
+hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#🆔v2ray1_ng%20🔒%20HY2-UDP-N/A%20🇩🇪%20DE%20down
