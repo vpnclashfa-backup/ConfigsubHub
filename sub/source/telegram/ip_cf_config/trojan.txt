@@ -1,3 +1,3 @@
-trojan://1sbtkLK7F3@195.22.157.104:37085?security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2f1.1&fp=chrome&type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2fmoshali2plus#
-trojan://3BLPOJr3OY@pl.scpnb.top:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&type=grpc&path=%2f#
-trojan://541da7c5-dd4b-4318-9252-24eb694230bf@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&host=glowingpickle.bananatornado.click&path=%2f#
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#

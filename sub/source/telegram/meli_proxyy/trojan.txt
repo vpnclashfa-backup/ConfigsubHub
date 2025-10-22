@@ -1,4 +1,7 @@
-trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FCZ1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-trojan://9a7b890c-0881-4a6a-ab91-580bc19acafc@104.21.70.241:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-trojan://a1b8cec4-548d-4e98-9ceb-7e80e23c9286@104.21.70.241:443?path=%2FFree-VPN-CF-Geo-Project%2FEE1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-trojan://c13b8217-7388-413b-b421-15580e4e267f@104.21.70.241:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
+trojan://1e84f32e-0dcb-4859-8e08-319c1ddbc748@109.120.179.49:2053?path=%2FFree-VPN-CF-Geo-Project%2FFR2&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#%40meli_proxyy
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@meli_proxyy
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?type=tcp&headerType=none&security=tls&sni=wus02.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&headerType=none&security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
+trojan://b63e5189-88c4-4eb5-9c8b-8dd997cc9b38@104.248.46.225:443?path=%2FFree-VPN-CF-Geo-Project%2FDE2&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#%40meli_proxyy
+trojan://b76a17f9-eaad-4733-89e1-06f8f7f2538c@158.180.233.125:55137?path=%2FFree-VPN-CF-Geo-Project%2FIT2&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#%40meli_proxyy
+trojan://ddce4f3a-e99a-47de-8d93-feeb77fd358a@179.43.156.21:8443?path=%2FFree-VPN-CF-Geo-Project%2FCH2&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#%40meli_proxyy
