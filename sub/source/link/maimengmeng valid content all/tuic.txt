@@ -1,3 +1,2 @@
-tuic://11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0:11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0@143.20.156.166:19945?congestion_control=bbr&alpn=h3&allow_insecure=1&allowInsecure=1&sni=www.microsoft.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20tuic-v5-125
+tuic://11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0:11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0@143.20.156.166:19945?congestion_control=bbr&alpn=h3&allow_insecure=1&allowInsecure=1&sni=www.microsoft.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20tuic-v5-161
 tuic://693af960-070f-46f7-a515-c2015ae13914:NsDqoVZNQD@acck.364685.xyz:52819?security=tls&insecure=1&sni=www.bing.com&alpn=h3&congestion_control=bbr#tuic-%E6%97%A5%E6%9C%ACIIJ
-tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?sni=www.bing.com&allow_insecure=1&alpn=h3#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2049-79

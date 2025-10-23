@@ -1,2 +1,2 @@
-trojan://01TELEGRAM-ID-conf0088@abbotsfordhallforhire.org.au.abbotsfordhallforhire.org.au:22878?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=chrome&type=tcp#@FG_Link
-trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#%40Daily_Configs
+trojan://mmfKxEeVCc@vpncustomize2.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMCI
+trojan://wXy5OyUd2g@vpncustomize.ddns.net:2096?security=tls&sni=V2.loveislam.top&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#%40sina_tec%20%3C%3D150GB%2BMTN
