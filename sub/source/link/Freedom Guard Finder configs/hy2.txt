@@ -3,4 +3,3 @@ hysteria2://KevinZakarian@keviny.iserver.store:8443?obfs=salamander&obfs-passwor
 hysteria2://Nu1uTNq2P4@81.19.137.167:8443?sni=googleapis.com&obfs=salamander&obfs-password=HGVSdvb%23%40bs12&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 hysteria2://YuTNGwVxrB@[2a01:4f8:1c1b:951::1]:50010?sni=bing.com&obfs=salamander&obfs-password=w%5Egw%40%21s22Hbv%2AX&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 hysteria2://ZlC0gAdswU@[2a12:5940:f197::2]:8443?sni=googleapis.com&obfs=salamander&obfs-password=HGVSdvb%23%40bs12&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#%40Daily_Configs`
