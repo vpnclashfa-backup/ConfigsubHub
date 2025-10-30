@@ -1,2 +1,0 @@
-trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#%40Daily_Configs
-trojan://mmfKxEeVCc@VPNCUSTOMIZE2.ddns.net:2096?mode=gun&security=tls&type=grpc&serviceName=

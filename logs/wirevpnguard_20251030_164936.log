@@ -1,0 +1,73 @@
+Channel: wirevpnguard
+Timestamp: 2025-10-30T16:49:36.358965
+Reason for Failure: هیچ کانفیگ معتبری در پست‌های اخیر یافت نشد.
+
+==================================================
+ DUMP OF SCANNED MESSAGES (HTML) 
+==================================================
+
+
+--- Message 1 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="WireVpnGuard/44910" data-view="eyJjIjotMjIzMzYzNTQyMiwicCI6NDQ5MTAsInQiOjE3NjE4NDI5NTksImgiOiIzOTUzZDg2MzlkNTNhMzQ5YzEifQ">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/WireVpnGuard">
+   <i class="tgme_widget_message_user_photo bgcolor4" data-content="W">
+    <img src="https://cdn4.telesco.pe/file/px-gm6euaGmUXHn2xd1HhJB0To6526uj5i7hMpdnqkwmdyTkgMDOXcGwP7aUh2IwUVaHV8oBTW6GOEWBRS5oaI8u2cU58uFDEC0COohqbpNwQ-KxjNxMa69oUKvdxYos9qd2Hiq8680-TlZ_2mlLqOvitjy4Lm5Gc3xn8ecdDtK99Zdf-QBAll_J01Sn6IWN1bJ4NUE_81S3Vg99EIcvzjrjPmi0RZ5YCMz2d1OcNm3aF7WFT9D91gmX0-yXeK4RCMRZPJ5d9cR0jd4eI8AiuikfN_JYXHn5W5E-RGSM2tfHCi3RdrTYSUiAmaHFr7AedXQIJ7CruTnsphPeD2xIuw.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/WireVpnGuard">
+    <span dir="auto">
+     WireVpnGuard
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text before_footer" dir="auto">
+   [22745]
+   <br/>
+   <br/>
+   wireguard://XFRLOnClxpQVXr6MukTPOIUUt%2BLrW0r%2Fsh9sR4%2BfPts%3D@162.159.193.3:500?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8a71%3Ab8ed%3Aaa2c%3A3265%3A4af3%2F128&amp;reserved=206%2C20%2C252&amp;publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&amp;mtu=1420#Peyman_WG
+   <br/>
+   <br/>
+   <a href="https://t.me/WireVpnGuard" target="_blank">
+    @WireVpnGuard
+   </a>
+   <span style="display: inline-block; visibility: hidden; width: 79px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     77
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/WireVpnGuard/44910">
+      <time class="time" datetime="2025-10-20T14:29:52+00:00">
+       14:29
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+</div>

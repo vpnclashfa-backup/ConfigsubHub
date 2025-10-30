@@ -1,0 +1,134 @@
+Channel: vpnaloo
+Timestamp: 2025-10-30T16:49:46.758881
+Reason for Failure: هیچ کانفیگ معتبری در پست‌های اخیر یافت نشد.
+
+==================================================
+ DUMP OF SCANNED MESSAGES (HTML) 
+==================================================
+
+
+--- Message 1 ---
+
+<div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="vpnaloo/5661" data-view="eyJjIjotMTUwODUyMzkzNywicCI6NTY2MSwidCI6MTc2MTg0Mjk1OSwiaCI6IjE1YzdmNjE3ZmUxYTk2NGRhYiJ9">
+ <div class="tgme_widget_message_user">
+  <a href="https://t.me/vpnaloo">
+   <i class="tgme_widget_message_user_photo bgcolor4" data-content="ر">
+    <img src="https://cdn4.telesco.pe/file/ihLWLcYJHfY7JjPHE_ScVSl4PYKTFbIMEJ1e_3bnP2E0P4CXg6HPwzcFNeVFBUTBXzmMCDzDc7Rqx37pMLub7-Zl71SEe5aMTYYtIe9uSIZn9Gp9qahAf5gWFWUDA5CrHlLf4hIvzN9EaqLBNnSJlQePojCNAx9xr8-nfiaa_6-ZblRlDcft7rfQDzY-omlWNWGl9WUlX5NeappXYkuCYF_b7IJZqD3FJ4hiQjxpjhai_Il-ZLHwJyQIliJmrqZocJjKlN8vz9wIGAhDeRtujozS3jKhRuyoVWkx2r4BSuKHL4X9N92gD3EO4_6i2vhabwkJVAW-pQtO84vb5J_S5A.jpg"/>
+   </i>
+  </a>
+ </div>
+ <div class="tgme_widget_message_bubble">
+  <i class="tgme_widget_message_bubble_tail">
+   <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+    <g fill="none">
+     <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+     </path>
+     <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+     </path>
+     <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+     </path>
+     <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+     </path>
+    </g>
+   </svg>
+  </i>
+  <div class="tgme_widget_message_author accent_color">
+   <a class="tgme_widget_message_owner_name" href="https://t.me/vpnaloo">
+    <span dir="auto">
+     رفع فیلتر | پروکسی
+    </span>
+   </a>
+  </div>
+  <div class="tgme_widget_message_text js-message_text" dir="auto">
+   <code>
+    vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#%40vpnaloo
+   </code>
+   <br/>
+   <br/>
+   <code>
+    vless://7c689907-8a79-4299-9162-c817624ad352@switerxaqiri.vtuix.ir:8080?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&amp;pbk=yjKkm6CofGtrJW9uOyu-2E1MfkJ6JAmgPPS-ocL1mSo&amp;fp=chrome&amp;spx=%2F%40khodee_alireza&amp;type=grpc&amp;serviceName=yourServiceName&amp;sni=refersion.com&amp;sid=9b25240418971ddd#%40vpnaloo
+   </code>
+   <br/>
+   <br/>
+   <code>
+    vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@172.67.223.154:443/?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jnir-cdn.29394900.xyz&amp;type=ws&amp;sni=jnir-cdn.29394900.xyz#%40vpnaloo
+   </code>
+   <br/>
+   <br/>
+   <code>
+    vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%40vpnaloo
+   </code>
+   <br/>
+   <br/>
+   <code>
+    vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=edu.frnsoft.com#%40vpnaloo
+   </code>
+   <br/>
+   <br/>
+   <a href="https://t.me/vpnaloo" target="_blank">
+    @vpnaloo
+   </a>
+  </div>
+  <div class="tgme_widget_message_reactions js-message_reactions before_footer">
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')">
+     <b>
+      ❤
+     </b>
+    </i>
+    19
+   </span>
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')">
+     <b>
+      👍
+     </b>
+    </i>
+    2
+   </span>
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9294.png')">
+     <b>
+      💔
+     </b>
+    </i>
+    2
+   </span>
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')">
+     <b>
+      🔥
+     </b>
+    </i>
+    1
+   </span>
+   <span class="tgme_reaction">
+    <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9881.png')">
+     <b>
+      😁
+     </b>
+    </i>
+    1
+   </span>
+   <span style="display: inline-block; visibility: hidden; width: 97px; height: 1rem;">
+   </span>
+  </div>
+  <div class="tgme_widget_message_footer compact js-message_footer">
+   <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">
+     12.6K
+    </span>
+    <span class="copyonly">
+     views
+    </span>
+    <span class="tgme_widget_message_meta">
+     <a class="tgme_widget_message_date" href="https://t.me/vpnaloo/5661">
+      <time class="time" datetime="2025-10-10T17:21:02+00:00">
+       17:21
+      </time>
+     </a>
+    </span>
+   </div>
+  </div>
+ </div>
+</div>

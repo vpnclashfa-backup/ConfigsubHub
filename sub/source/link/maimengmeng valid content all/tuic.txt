@@ -1,1 +1,1 @@
-tuic://11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0:11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0@143.20.156.166:19945?sni=www.microsoft.com&alpn=h3&congestion_control=bbr#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20tuic-v5-89
+tuic://11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0:11ee8f77-d5bd-41e1-9ad7-f176b98bc1b0@143.20.156.166:19945?sni=www.microsoft.com&alpn=h3&congestion_control=bbr#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20tuic-v5-76
