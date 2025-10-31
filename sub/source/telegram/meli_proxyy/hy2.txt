@@ -1,3 +1,7 @@
-hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#@meli_proxyy
-hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?security=tls&insecure=1&sni=bing.com#@meli_proxyy
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#@meli_proxyy
+hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?security=tls&insecure=1&sni=www.bing.com#%40meli_proxyy
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?security=tls&insecure=1&sni=%F0%9F%94%92#%40meli_proxyy
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?security=tls&insecure=1&sni=lsj3.mangshe.xyz#%40meli_proxyy
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?security=tls&insecure=1#%40meli_proxyy
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%40meli_proxyy
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#%40meli_proxyy
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#%40meli_proxyy

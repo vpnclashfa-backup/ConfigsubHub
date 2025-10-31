@@ -1,6 +1,0 @@
-hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?security=tls&insecure=1&sni=%F0%9F%94%92#
-hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?security=tls&insecure=1&sni=bing.com#
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=%F0%9F%94%92#
