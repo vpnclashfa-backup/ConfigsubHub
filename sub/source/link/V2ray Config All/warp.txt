@@ -1,3 +1,2 @@
-warp://162.159.192.61:894/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽warp://[2606:4700:d1::d587:ab5b:a95a:5613]:894/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d1::d587:ab5b:a95a:5613]:894/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽MainChannel=
-warp://8.35.211.66:1843/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽warp://[2606:4700:d0::28e4:6c54:a37e:c721]:1010/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d0::28e4:6c54:a37e:c721]:1010/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽MainChannel=
-warp://8.39.204.195:2371/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽warp://[2606:4700:d1::4c98:b1d7:af75:5e1b]:955/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d1::4c98:b1d7:af75:5e1b]:955/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽MainChannel=
+warp://188.114.98.234:1701/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽warp://[2606:4700:d0::b3b4:2456:95a6:4c2f]:7156/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d0::b3b4:2456:95a6:4c2f]:7156/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽MainChannel=
+warp://8.47.69.166:2506/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽warp://[2606:4700:d0::abd4:ffe2:ce21:64a5]:945/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d0::abd4:ffe2:ce21:64a5]:945/?ifp=2-4&ifpm=m6#🆆🅾🆆🗽MainChannel=

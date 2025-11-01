@@ -1,5 +1,7 @@
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20985?allowInsecure=0&sni=sale.alibaba.com#@Hope_Net-join-us-on-Telegram
-trojan://abacbca-caab-aabc-adbc-ccbbbabaacca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?allowInsecure=0&sni=avianrecruit.com&ws=1&wspath=%2F6b777a91#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@13.48.153.146:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@54.78.88.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://3690911436885991424@engaged-dove.opossum872.cfd:443?allowInsecure=0&sni=engaged-dove.opossum872.cfd#@Hope_Net-join-us-on-Telegram
+trojan://aaccabb-caba-abca-abcd-ccababbcbaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://accabab-baac-baca-bcad-acbcbaabccab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.194.228:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=example.ir#@Hope_Net-join-us-on-Telegram
+trojan://baaabcc-caba-aabc-acbd-abbcbbaccaca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://caacabb-abac-abac-cbda-cbaccaabcbab@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@51.21.10.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram

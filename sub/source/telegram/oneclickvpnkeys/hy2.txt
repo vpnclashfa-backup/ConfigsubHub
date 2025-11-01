@@ -6,11 +6,10 @@ hy2://543e9a76-1fde-445f-814c-aaee469379a2@27fr.networklinkpro.net:443/?mport=21
 hy2://543e9a76-1fde-445f-814c-aaee469379a2@30it.networklinkpro.net:443/?mport=21000-26000&insecure=1#%F0%9F%8E%8324%40oneclickvpnkeys
 hy2://543e9a76-1fde-445f-814c-aaee469379a2@31se.networklinkpro.net:443/?mport=21000-26000&insecure=1#%F0%9F%8E%8342%40oneclickvpnkeys
 hy2://543e9a76-1fde-445f-814c-aaee469379a2@34ch.networklinkpro.net:443/?mport=21000-26000&insecure=1#%F0%9F%8E%8321%40oneclickvpnkeys
-hy2://7b7ca0da-c1d7-4716-9cd9-c298e0fa07a7@node-ipv4-de-001.nylz.dpdns.org:50002/?insecure=1&sni=www.cloudflare.com&obfs=salamander&obfs-password=1WHvwbb7lzCU3Vro#%F0%9F%AA%9417%40oneclickvpnkeys
+hy2://7a566127-2537-46ed-91f8-1323d988318f@sfjxjp.sufujia.top:57300/?insecure=1&sni=%F0%9F%94%92#%F0%9F%AA%994%40oneclickvpnkeys
 hy2://7b7ca0da-c1d7-4716-9cd9-c298e0fa07a7@node-ipv4-us-001.nylz.dpdns.org:50002/?insecure=1&sni=www.cloudflare.com&obfs=salamander&obfs-password=E7wnxSAaDO0VFHLZ#%F0%9F%AA%9488%40oneclickvpnkeys
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%F0%9F%AA%AB20%40oneclickvpnkeys
 hy2://8f43835e-10b3-4744-915c-cecb33ee7ff2@[2604:6600:2000:c::3f]:443/?mport=45000-46000&insecure=1&sni=Miku.fjzJnsfzQnnh.CNKWjLYOvJJq.78IF6ImgZpai.com#%F0%9F%AA%9482%40oneclickvpnkeys
-hy2://937f8940-ad8a-409f-93c3-4d6249af628f@de1.oomz.ru:30000/?insecure=1&sni=bing.com#%F0%9F%AA%9424%40oneclickvpnkeys
 hy2://937f8940-ad8a-409f-93c3-4d6249af628f@de2.oomz.ru:30000/?insecure=1&sni=bing.com#%F0%9F%AA%944%40oneclickvpnkeys
 hy2://937f8940-ad8a-409f-93c3-4d6249af628f@de3.oomz.ru:30000/?insecure=1&sni=bing.com#%F0%9F%AA%941%40oneclickvpnkeys
 hy2://937f8940-ad8a-409f-93c3-4d6249af628f@us1.oomz.ru:30000/?insecure=1&sni=bing.com#%F0%9F%AA%9480%40oneclickvpnkeys
@@ -24,9 +23,4 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=jn
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%8E%839%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%8E%8344%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%8E%8337%40oneclickvpnkeys
-hy2://bc5e171b-fe66-47af-a600-b972104fe995@la2.pavo.eu.org:8871/?insecure=1&sni=la2.pavo.eu.org#%F0%9F%AA%9471%40oneclickvpnkeys
-hy2://bc5e171b-fe66-47af-a600-b972104fe995@us1.shigure.eu.org:8870/?insecure=1&sni=us1.shigure.eu.org#%F0%9F%AA%9470%40oneclickvpnkeys
 hy2://bc5e171b-fe66-47af-a600-b972104fe995@vo2.shigure.eu.org:8871/?insecure=1&sni=vo2.shigure.eu.org#%F0%9F%AA%9481%40oneclickvpnkeys
-hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#%F0%9F%AA%946%40oneclickvpnkeys
-hy2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@129.151.251.122:443/?mport=35000-39000&insecure=1&sni=www.lamer.com.hk#%F0%9F%AA%9434%40oneclickvpnkeys
-hy2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@143.47.32.143:443/?mport=35000-39000&insecure=1&sni=www.lamer.com.hk#%F0%9F%AA%9455%40oneclickvpnkeys

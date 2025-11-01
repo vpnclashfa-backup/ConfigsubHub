@@ -1,4 +1,4 @@
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🇦🇪[openproxylist.com]
+trojan://D3OJA7xY5U@209.200.246.53:10785?mode=gun&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&type=grpc&sni=cloudflare.com&sid=20b09680#🇨🇦[openproxylist.com]
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&amp;pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=20b09680#🇨🇦[openproxylist.com]
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
-trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp#🇳🇱[openproxylist.com]
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
