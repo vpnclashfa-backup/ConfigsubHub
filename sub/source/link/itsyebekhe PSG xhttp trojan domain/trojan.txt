@@ -27,6 +27,5 @@ trojan://maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.hi
 trojan://maradona_vpn@maradona_vpn10.history-paint.art:443?path=/wss24142?ed=2048&security=tls&alpn=http/1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#❔
 trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=/wss24142?ed=2048&security=tls&alpn=http/1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#❔
 trojan://saMgiangGt@art1.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc17224&mode=multi#❔
-trojan://trojan@ip.sb:8443?path=/?ed=2560&security=tls&host=qianlang.pages.dev&fp=random&type=ws&sni=qianlang.pages.dev#🚩
 trojan://xl87654321@stonebreak.online:443?security=tls&sni=stonebreak.online&type=tcp&headerType=none&host=stonebreak.online#❔
 trojan://xl87654321@stonebreak.online:443?security=tls&type=tcp&headerType=none#❔
