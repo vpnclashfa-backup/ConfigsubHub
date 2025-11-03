@@ -1,2 +1,3 @@
+trojan://YlfdAfTHoAuoRIbTPl@us-3.regentgrandvalley.com:443/?type=tcp&security=tls#%F0%9F%8D%8284%40oneclickvpnkeys
 trojan://telegram-id-directvpn@15.236.156.19:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%8D%8219%40oneclickvpnkeys
 trojan://telegram-id-privatevpns@15.236.156.19:22222/?type=tcp&security=tls#%F0%9F%8D%8226%40oneclickvpnkeys

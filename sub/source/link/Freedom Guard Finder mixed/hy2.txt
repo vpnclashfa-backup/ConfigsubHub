@@ -1,0 +1,2 @@
+hysteria2://602e99aa-718d-11eb-b77b-f23c913c8d2b@19ad851a-t53wg0-tbcla6-194tt.hk2.hyhuawei.com:443?security=tls&insecure=0&mport=30000-60000&sni=19ad851a-t53wg0-tbcla6-194tt.hk2.hyhuawei.com#%F0%9F%8D%92%F0%9F%8D%92%F0%9F%8D%927
+hysteria2://YuTNGwVxrB@[2a01:4f8:1c1b:951::1]:50010?sni=bing.com&obfs=salamander&obfs-password=w%5Egw%40%21s22Hbv%2AX&insecure=1#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q

@@ -1,4 +1,4 @@
-trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&amp;security=reality&amp;pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=2e#🇵🇱[openproxylist.com]
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🇦🇪[openproxylist.com]
+trojan://BxceQaOe@203.198.122.129:443?allowInsecure=1#🇭🇰[openproxylist.com]
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&amp;pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=20b09680#🇨🇦[openproxylist.com]
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;type=tcp#🇭🇰[openproxylist.com]
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🇭🇰[openproxylist.com]
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
