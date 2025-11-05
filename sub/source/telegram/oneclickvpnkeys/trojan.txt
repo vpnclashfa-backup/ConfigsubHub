@@ -1,3 +1,2 @@
 trojan://BxceQaOe@203.198.122.129:443/?type=tcp&security=tls#%E2%99%9F%EF%B8%8F28%40oneclickvpnkeys
 trojan://BxceQaOe@58.152.53.3:443/?type=tcp&security=tls#%E2%99%9F%EF%B8%8F32%40oneclickvpnkeys
-trojan://YlfdAfTHoAuoRIbTPl@us-3.regentgrandvalley.com:443/?type=tcp&security=tls#%F0%9F%8D%8284%40oneclickvpnkeys

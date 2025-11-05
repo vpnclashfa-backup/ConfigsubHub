@@ -1,0 +1,2 @@
+ss://3bf32aef-fceb-48e9-ff30-5cb6a211aeb8@142.93.169.248:443?type=grpc&encryption=none&serviceName=&authority=&security=none#telegram
+ss://4c6d7438-a9da-4998-a16d-83a9e9390d9e@167.172.185.198:443?type=grpc&encryption=none&serviceName=&authority=&security=none#telegram
