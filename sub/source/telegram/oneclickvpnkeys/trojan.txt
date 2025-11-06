@@ -1,2 +1,2 @@
-trojan://BxceQaOe@203.198.122.129:443/?type=tcp&security=tls#%E2%99%9F%EF%B8%8F28%40oneclickvpnkeys
-trojan://BxceQaOe@58.152.53.3:443/?type=tcp&security=tls#%E2%99%9F%EF%B8%8F32%40oneclickvpnkeys
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#%F0%9F%AB%9F1%40oneclickvpnkeys
+trojan://Sv5AzeZjawJfSMrhhS@v6-nl1.tr202501.com:4003/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#%F0%9F%AB%9F6%40oneclickvpnkeys

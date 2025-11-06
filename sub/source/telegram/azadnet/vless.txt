@@ -1,3 +1,0 @@
-vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@m7a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#KIAN.AZADNET.VPN%F0%9F%87%A8%F0%9F%87%A6
-vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEAZADNET.VPN.vless-FI
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%E2%9C%A8%EF%B8%8F%F0%9F%8C%B9AZAD.NET.VPN%F0%9F%92%A5%F0%9F%8C%B9

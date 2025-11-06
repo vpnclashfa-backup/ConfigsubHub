@@ -1,3 +1,2 @@
-vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&type=ws&sni=smrtwtsm.confappha.com#%40Golestan_VPN%20-%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%F0%9F%91%88%20JOIN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
