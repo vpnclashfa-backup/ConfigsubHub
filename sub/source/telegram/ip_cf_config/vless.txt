@@ -1,4 +1,3 @@
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=c2fa#
-vless://01db045e-e42d-4fb1-a010-13711ceacc48@194.182.79.240:22720?mode=gun&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#
-vless://01fa2da8-479a-4deb-b579-7f4627d55204@new.dota.website:443?path=/ws/637923d362dadfb7b7d0e972/U&security=tls&alpn=http/1.1&encryption=none&host=ill.dota.website&type=ws&sni=api.dota.website#
 vless://06b3470c-4f92-4496-b384-9f7409c75b15@realweb.irinnn4iran2peaple.news:19111?security=reality&encryption=none&pbk=f9yiwYlmUbEnHE5P0OD0QUxYSVDfISQfeDpPdreh-gQ&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=7e6315d730cb175b#
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&path=/#

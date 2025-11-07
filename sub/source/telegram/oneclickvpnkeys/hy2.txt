@@ -1,7 +1,6 @@
+hy2://98256f2f-1a3e-4db8-ad9b-d553b6894d50@141.147.52.24:44001/?insecure=1#%F0%9F%90%B86%40oneclickvpnkeys
 hy2://JOh7tQHdp8@191.96.11.107:48361/?insecure=1#%E2%99%9F%EF%B8%8F40%40oneclickvpnkeys
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%94%9654%40oneclickvpnkeys
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%94%9668%40oneclickvpnkeys
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%94%9676%40oneclickvpnkeys
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%90%B852%40oneclickvpnkeys
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#%F0%9F%AB%9F7%40oneclickvpnkeys
 hy2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000/?insecure=1&sni=bing.com#%F0%9F%AB%9F10%40oneclickvpnkeys
 hy2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb2.oomz.ru:30000/?insecure=1&sni=bing.com#%F0%9F%AB%9F19%40oneclickvpnkeys

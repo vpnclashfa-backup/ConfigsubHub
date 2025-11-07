@@ -1,2 +1,1 @@
-tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?allow_insecure=1&alpn=h3&congestion_control=cubic&sni=www.bing.com&udp_relay_mode=native#Channel%20id:%20@proxy_kafee%F0%9F%87%A8%F0%9F%87%A6
 tuic://a13a6ce4-cafa-4b26-a710-a03aa91c5418:a13a6ce4-cafa-4b26-a710-a03aa91c5418@40.233.77.57:52434?allow_insecure=1&alpn=h3&congestion_control=cubic&sni=www.bing.com&udp_relay_mode=native#⤿
