@@ -1,6 +1,10 @@
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?allowInsecure=0#@Hope_Net-join-us-on-Telegram
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18433?allowInsecure=0&sni=hn.xiaohouzi.club#@Hope_Net-join-us-on-Telegram
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:16082?allowInsecure=0&sni=nh-hinet06.xiaohouzi.club#@Hope_Net-join-us-on-Telegram
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:51052?allowInsecure=0&sni=hnm.xiaohouzi.club#@Hope_Net-join-us-on-Telegram
-trojan://bs6KJkPBW9MP74uHEa@de1.trojan-lite.com:443?allowInsecure=0&sni=de1.trojan-lite.com#@Hope_Net-join-us-on-Telegram
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?allowInsecure=0&sni=2.hg.kr.cat77.cloud#@Hope_Net-join-us-on-Telegram
+trojan://95b@117.123.144.67:28825?allowInsecure=0&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com#@Hope_Net-join-us-on-Telegram
+trojan://a3ca0380-8a17-403a-a5b3-a9f6e59be193@claw-ali-hkg-1ge.china-next-generation-any-path-smart-route-global.2h.ma:443?allowInsecure=0&sni=claw-ali-hkg-1ge.china-next-generation-any-path-smart-route-global.2h.ma#@Hope_Net-join-us-on-Telegram
+trojan://auto@162.159.136.232:8443?allowInsecure=0&sni=e9464f45.trauma-2r4.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://bpb-trojan@23.227.60.8:443?allowInsecure=0&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@18.216.168.34:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@3.64.17.216:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@108.128.146.252:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.36.4.38:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@3.64.191.45:22222?allowInsecure=0&sni=sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@52.18.111.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram

@@ -1,0 +1,2 @@
+hysteria://195.154.200.40:15010?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&protocol=udp&peer=apple.com&insecure=1&alpn=h3&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2020
+hysteria://62.210.10.186:50011?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=11
