@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#AZAD.NET.VPN%F0%9F%8E%89%F0%9F%8E%89
 ss://YWVzLTEyOC1nY206STFxcll4T1h4UFlDT2toVA@sg1.web3sp.com:50229#AzaDnEt.vpn
 vless://0581705f-e7ae-40df-9d27-f51fbbc7c42f@amsterdam.fonixapp.org:31603?security=reality&encryption=none&pbk=OLM6uNG4kXvdtjI8uak4GsPsO1p7g9pSsHSJSVZx_D0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=merriam-webster.com&sid=a1db#%40AzadNet%F0%9F%8E%88Mahsa
-vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEAZADNET.VPN.vless-FI
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%E2%9C%A8%EF%B8%8F%F0%9F%8C%B9AZAD.NET.VPN%F0%9F%92%A5%F0%9F%8C%B9
 vless://6f7562ec-5858-42e4-9934-46d96d94b15b@elementalss.fonixapp.org:37743?security=reality&encryption=none&pbk=HQJisdc7ad3hvl6z7gQexSmTUmTQdVHelo8ZtSz0hSk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=52#%40AzadNet%F0%9F%8E%88Mahsa
 vless://7b6df8d0-100c-48e1-beec-30effe41c04e@earthshaker.fonixapp.org:43326?security=reality&encryption=none&pbk=e4jsuyfW6xyjfYOVsFI4AKnJihGp4MMqtRv5TaVurlw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c3#%40AzadNet%F0%9F%8E%88Mahsa
