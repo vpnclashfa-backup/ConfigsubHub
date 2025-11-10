@@ -1,3 +1,2 @@
-hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%B9%F0%9F%87%BC%20%E2%9A%A1%20%7C
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%A1%20%7C`
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.71.65:45979?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9A%A1%20%7C
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#%F0%9F%8C%B9%F0%9F%AA%B4%F0%9F%8C%B97
