@@ -1,7 +1,11 @@
 trojan://1b57001bd214304027025a740b6cf1ac@153.121.44.99:1328?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM29
-trojan://Aimer@154.218.15.250:2083/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.171.44:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.16.193.133:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@198.41.215.216:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@5.182.85.176:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@104.26.15.138:2053?security=t...&type=tcp#https://t.me/ShadowsocksM106
+trojan://Aimer@104.26.15.138:2053?security=t...&type=tcp#https://t.me/ShadowsocksM94
+trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=chrome&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680&type=grpc#https://t.me/ShadowsocksM105
+trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=chrome&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680&type=grpc#https://t.me/ShadowsocksM97
+trojan://auto@104.21.90.210:443?security=tls...&type=tcp#https://t.me/ShadowsocksM101
+trojan://auto@159.246.55.132:443?security=tl...&type=tcp#https://t.me/ShadowsocksM89
+trojan://auto@159.246.55.132:443?security=tl...&type=tcp#https://t.me/ShadowsocksM93
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?security=t...&type=tcp#https://t.me/ShadowsocksM107
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?security=t...&type=tcp#https://t.me/ShadowsocksM92
+trojan://bpb-trojan@23.227.60.8:443?security=...&type=tcp#https://t.me/ShadowsocksM125

@@ -1,0 +1,16 @@
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#
+trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#
+trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.199.114:443?#[
+trojan://DailyConfigs@104.18.32.47:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=randomized#
+trojan://DailyConfigs@104.18.32.47:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=randomized#[
+trojan://DailyConfigs@104.21.69.44:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#[
+trojan://DailyConfigs@104.26.13.54:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=firefox#[
+trojan://jU34x7lz-AeXEGBKFXzBYw@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#
+trojan://telegram-id-directvpn@18.192.168.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@18.192.168.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://telegram-id-directvpn@51.20.205.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[
+trojan://telegram-id-privatevpns@15.188.212.53:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[
+trojan://telegram-id-privatevpns@18.192.168.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://telegram-id-privatevpns@18.192.168.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@18.192.168.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://tg-dns68@162.159.153.49:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#[

@@ -1,0 +1,9 @@
+socks5://123456:123456@47.86.38.54:1080#https://t.me/ShadowsocksM129
+socks5://123456:123456@8.210.81.24:1080#https://t.me/ShadowsocksM124
+socks5://123456:123456@8.217.0.62:1080#https://t.me/ShadowsocksM117
+socks5://123456:123456@8.217.0.62:1080#https://t.me/ShadowsocksM130
+socks5://123456:123456@8.217.1.173:1080#https://t.me/ShadowsocksM121
+socks5://123456:123456@8.217.1.173:1080#https://t.me/ShadowsocksM128
+socks5://123456:123456@8.217.89.51:1080#https://t.me/ShadowsocksM113
+socks5://123456:123456@8.217.93.42:1080#https://t.me/ShadowsocksM109
+socks5://123456:123456@8.217.93.42:1080#https://t.me/ShadowsocksM120
