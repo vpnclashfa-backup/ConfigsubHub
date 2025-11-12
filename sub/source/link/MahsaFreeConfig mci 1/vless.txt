@@ -1,2 +1,1 @@
-vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#proxy_kafee
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880/?type=grpc&encryption=none&flow=#%F0%9F%8E%8348%40oneclickvpnkeys

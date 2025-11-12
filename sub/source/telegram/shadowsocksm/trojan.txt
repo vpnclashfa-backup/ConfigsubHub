@@ -1,4 +1,3 @@
-trojan://1b57001bd214304027025a740b6cf1ac@153.121.44.99:1328?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM29
 trojan://Aimer@104.26.15.138:2053?security=t...&type=tcp#https://t.me/ShadowsocksM106
 trojan://Aimer@104.26.15.138:2053?security=t...&type=tcp#https://t.me/ShadowsocksM94
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=chrome&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680&type=grpc#https://t.me/ShadowsocksM105
@@ -8,4 +7,5 @@ trojan://auto@159.246.55.132:443?security=tl...&type=tcp#https://t.me/Shadowsock
 trojan://auto@159.246.55.132:443?security=tl...&type=tcp#https://t.me/ShadowsocksM93
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?security=t...&type=tcp#https://t.me/ShadowsocksM107
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?security=t...&type=tcp#https://t.me/ShadowsocksM92
+trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM1
 trojan://bpb-trojan@23.227.60.8:443?security=...&type=tcp#https://t.me/ShadowsocksM125
