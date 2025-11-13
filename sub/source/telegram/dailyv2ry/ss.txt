@@ -1,11 +1,8 @@
 ss://051133cb-953e-4ed1-c53d-7c14ab898635@159.223.31.223:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2074%20dailyv2ry
-ss://07498162-f6ef-40c1-d84d-3636638953f0@138.68.72.95:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2087%20dailyv2ry
 ss://07498162-f6ef-40c1-d84d-3636638953f0@157.230.22.36:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2085%20dailyv2ry
-ss://07498162-f6ef-40c1-d84d-3636638953f0@159.89.1.70:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2067%20dailyv2ry
-ss://07498162-f6ef-40c1-d84d-3636638953f0@164.90.188.196:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%208%20dailyv2ry
 ss://07498162-f6ef-40c1-d84d-3636638953f0@46.101.121.244:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2038%20dailyv2ry
-ss://07498162-f6ef-40c1-d84d-3636638953f0@68.183.210.241:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2078%20dailyv2ry
 ss://157e459b-e4c1-44bb-d009-ac596636e728@167.172.109.168:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2062%20dailyv2ry
+ss://76221984-4c94-4c3b-9f01-216ae48f88fa@209.38.249.222:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2052%20dailyv2ry
 ss://9378a082-52dc-4a2b-bc66-8b29a2974b5b@159.89.104.66:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2033%20dailyv2ry
 ss://9378a082-52dc-4a2b-bc66-8b29a2974b5b@165.22.64.44:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%203%20dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
@@ -21,6 +18,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeVUwOEhnVVZRelcxcEdnWG9yeUlhUEVtOFlkUGZDag%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeVUwOEhnVVZRelcxcEdnWG9yeUlhUEVtOFlkUGZDag%3D%3D@103.45.246.82:443#telegram%20%F0%9F%9A%80%20dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA%3D%3D@176.126.83.121:443#telegram%20%F0%9F%8C%88%20dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUzJRdmJDOW5xTHAyc1hYWm8wQlZ5NHNsY0VyUnVDdA%3D%3D@103.35.189.136:443#telegram%20%F0%9F%8E%AF%20dailyv2ry
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#telegram%20%F0%9F%8E%AA%20dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZeWJyR2IwQ043Y3NLSmdPMDMzcWg4U2JBZ0U5c0xyVQ%3D%3D@89.46.232.196:443#telegram%20%F0%9F%8E%AA%20dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg%3D%3D@185.156.110.92:443#telegram%20%F0%9F%8D%80%20dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA%3D%3D@213.159.67.124:443#telegram%20%F0%9F%8C%9F%20dailyv2ry
@@ -31,8 +29,7 @@ ss://afaabdc6-b1eb-42a9-8467-2c83d272e3c2@164.92.182.255:443?type=grpc&encryptio
 ss://afaabdc6-b1eb-42a9-8467-2c83d272e3c2@164.92.182.255:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2091%20dailyv2ry
 ss://afaabdc6-b1eb-42a9-8467-2c83d272e3c2@164.92.245.70:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2032%20dailyv2ry
 ss://bd85a33c-f806-4bf9-e259-972fcec3b250@139.59.212.214:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%209%20dailyv2ry
-ss://bd85a33c-f806-4bf9-e259-972fcec3b250@164.92.160.80:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%203%20dailyv2ry
 ss://bd85a33c-f806-4bf9-e259-972fcec3b250@164.92.248.189:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2041%20dailyv2ry
-ss://bd85a33c-f806-4bf9-e259-972fcec3b250@207.154.235.152:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%204%20dailyv2ry
 ss://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany%20PO%201%20dailyv2ry
 ss://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany%20PO%2065%20dailyv2ry
+ss://dd963c31-457f-4873-d886-a5b104a5ce24@104.248.142.166:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2046%20dailyv2ry

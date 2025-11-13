@@ -1,4 +1,3 @@
-trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&security=tls&sni=joss.dus.biz.id#
-trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/Free-VPN-CF-Geo-Project/94.131.114.50=81&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#
-trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?path=/Free-VPN-CF-Geo-Project/194.147.115.149=443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#
+trojan://1b57001bd214304027025a740b6cf1ac@153.121.39.240:1334?security=tls&sni=www.nintendogames.net&type=tcp&path=/#
+trojan://1b57001bd214304027025a740b6cf1ac@160.16.106.144:127?sni=www.nintendogames.net&path=/#
+trojan://1b57001bd214304027025a740b6cf1ac@160.16.223.205:31409?security=tls&sni=www.nintendogames.net&type=tcp&path=/#
