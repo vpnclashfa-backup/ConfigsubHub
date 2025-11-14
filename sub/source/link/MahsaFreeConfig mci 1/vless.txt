@@ -1,2 +1,1 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880/?type=grpc&encryption=none&flow=#%F0%9F%8E%8348%40oneclickvpnkeys
-vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443/?type=tcp&encryption=none&flow=&security=tls&sni=dmt.app-browser.org&allowInsecure=1#%F0%9F%A7%B834%40oneclickvpnkeys

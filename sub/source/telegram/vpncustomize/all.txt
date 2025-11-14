@@ -1,0 +1,1 @@
+vless://bae04bff-4d10-40df-b78a-33d026ed641a@188.114.98.224:443?mode=packet-up&path=%2Fkingmethode%3Fed%3D2048&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%7D&host=kingmethode.Blogmmd.com&fp=chrome&type=xhttp&sni=kingmethode.Blogmmd.com#Nginx%20%2B%20Apache

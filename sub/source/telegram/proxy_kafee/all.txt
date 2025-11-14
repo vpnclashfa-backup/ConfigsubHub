@@ -1,6 +1,4 @@
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#proxy_kafee
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxQmFaUjZ0WUtXTlFoeDM0SG0weFhx@194.87.216.218:52571#Channel%20id%3A%20%40@…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYVhsSEtTUXhPVk5iUGtWV1lNQUNq@62.133.63.21:65262#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%B9%F0%9F%87%B7
 vless://03225b36-1dec-4ac8-e45e-1fba0091ec8e@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=retetefor.com&type=xhttp#proxy_kafee
 vless://0442e0ca-6c0e-4cc3-a195-91796b40dfd7@clinkz.fonixapp.org:36200?security=reality&encryption=none&pbk=STZOlHDnnn3pvzI7oxCS7fDjo8qAAqkU3_EVzKGm2wM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smallpdf.com&sid=ee02#proxy_kafee
 vless://094fdaf8-929b-4b8c-81f3-ab61e6c8adff@185.242.247.22:443?security=reality&encryption=none&pbk=ea2MWaZ6KT7Y6qWxqzoZI2k1CszvdaIi8vjj0L9gI08&headerType=none&fp=chrome&spx=%2FXt31tPvmdJjitk7&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a1faa67cfc#%40proxy_kafee%F0%9F%87%AB%F0%9F%87%AE
