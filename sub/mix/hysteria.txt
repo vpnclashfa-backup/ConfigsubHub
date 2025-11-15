@@ -1,3 +1,2 @@
-hysteria://195.154.200.40:15010?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&protocol=udp&peer=apple.com&insecure=1&alpn=h3&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2002
-hysteria://51.159.226.1:49003?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&protocol=udp&peer=apple.com&insecure=1&alpn=h3&udp=true#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2005
-hysteria://62.210.10.186:50011?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=50&downmbps=80&protocol=udp&peer=apple.com&insecure=1&alpn=h3&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2003
+hysteria://195.154.200.40:15010?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&protocol=udp&peer=apple.com&insecure=1&alpn=h3&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2003
+hysteria://51.159.226.1:49003?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&protocol=udp&peer=apple.com&insecure=1&alpn=h3&udp=true#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2006

@@ -1,6 +1,2 @@
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=Amsterdam.nezhasu.com#
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=moxige1.nezhasu.com#
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?security=tls&insecure=1#
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?security=tls&insecure=1&sni=www.bing.com#

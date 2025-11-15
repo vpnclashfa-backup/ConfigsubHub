@@ -1,1 +1,7 @@
-trojan://469eb2d7-c86c-3484-ba85-4f26f0645b9b@do-sg-01.vvsoga.net:1234?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh18.pages.dev&fp=chrome&type=ws&sni=pardazesh18.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://6e3acf13-788a-4de7-90f3-2887871bb42d@[2a01:4f8:c013:637f::1]:40346?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@35.182.177.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.50.60.250:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.50.60.250:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&headerType=none&type=tcp&sni=z-v2-002750.kailib.com#@Hope_Net-join-us-on-Telegram

@@ -1,4 +1,6 @@
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#https://t.me/ShadowsocksM6
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#https://t.me/ShadowsocksM39
+hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?insecure=1&sni=www.bing.com#https://t.me/ShadowsocksM36
+hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#https://t.me/ShadowsocksM21
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?security=tls&insecure=1#%F0%9F%87%A7%F0%9F%87%B7%20%4
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#%F0%9F%87%A
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40Pe
