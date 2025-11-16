@@ -1,3 +1,6 @@
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?security=tls&sni=a913a5b91ce37ed2.noproblemvpn.ru&type=ws&path=/tw#https://t.me/ShadowsocksM30
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM41
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&type=tcp#https://t.me/ShadowsocksM22
+trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&type=grpc#https://t.me/ShadowsocksM10
+trojan://LxJCPOP40a@206.206.77.237:51469?security=reality&sni=cloudflare.com&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf&type=grpc#https://t.me/ShadowsocksM18
 trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&sni=refersion.com&fp=chrome&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&sid=4b2cd56a&spx=/&type=tcp#https://t.me/ShadowsocksM13

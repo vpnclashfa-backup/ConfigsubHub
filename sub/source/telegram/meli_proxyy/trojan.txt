@@ -1,7 +1,3 @@
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?path=%2Ftw&security=tls&type=ws&sni=a913a5b91ce37ed2.noproblemvpn.ru#%40meli_proxyy
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@156.67.63.183:11000?path=%2Ftw&security=tls&type=ws&sni=noproblemvpn.ru#%40meli_proxyy
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@194.35.116.62:11000?path=%2Ftw&security=tls&type=ws&sni=f4e23c6c168f0e91.noproblemvpn.ru#%40meli_proxyy
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@37.220.84.91:11000?path=%2Ftw&security=tls&type=ws&sni=688ee466b9661097.noproblemvpn.ru#%40meli_proxyy
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@38.180.45.61:11000?path=%2Ftw&security=tls&type=ws&sni=noproblemvpn.ru#%40meli_proxyy
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@92.51.45.205:11000?path=%2Ftw&security=tls&type=ws&sni=3c621ca307728065.noproblemvpn.ru#%40meli_proxyy
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?path=%2Ftw&security=tls&type=ws&sni=noproblemvpn.ru#%40meli_proxyy
+trojan://LxJCPOP40a@206.206.77.237:51469?mode=gun&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#@meli_proxyy
+trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#@meli_proxyy
+trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#@meli_proxyy

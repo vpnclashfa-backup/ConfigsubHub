@@ -1,9 +1,5 @@
-hy2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=Amsterdam.nezhasu.com#%F0%9F%8E%8D2%40oneclickvpnkeys
-hy2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40oneclickvpnkeys
-hy2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun4.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=lundun4.nezhasu.com#%F0%9F%8E%8D13%40oneclickvpnkeys
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102/?insecure=1#%F0%9F%92%8E46%40oneclickvpnkeys
-hy2://5001b8d8-76ce-474c-bc29-94e6caa61164@140.238.97.244:44401/?insecure=1&sni=www.bing.com#%F0%9F%92%8E44%40oneclickvpnkeys
-hy2://5001b8d8-76ce-474c-bc29-94e6caa61164@85.208.9.189:44001/?insecure=1&sni=www.bing.com#%F0%9F%92%8E39%40oneclickvpnkeys
-hy2://55821780-6970-49df-8a23-800c2c9b7d3a@172.82.67.156.sslip.io:19606/?insecure=1&obfs=salamander&obfs-password=6ON1bhdvLuna5c1HrR7D2XQ6IKTZn#%F0%9F%91%9186%40oneclickvpnkeys
-hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#%F0%9F%91%9157%40oneclickvpnkeys
-hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#%F0%9F%91%9151%40oneclickvpnkeys
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102/?insecure=1#%F0%9F%94%9485%40oneclickvpnkeys
+hy2://621a4388-6f08-4bcd-8609-aa55b30d3c93@172.82.67.154.sslip.io:57617/?insecure=1&obfs=salamander&obfs-password=j1ad5qOGGOk7#%F0%9F%94%9444%40oneclickvpnkeys
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%91%9182%40oneclickvpnkeys
+hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#%F0%9F%91%9192%40oneclickvpnkeys
+hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#%F0%9F%94%9484%40oneclickvpnkeys

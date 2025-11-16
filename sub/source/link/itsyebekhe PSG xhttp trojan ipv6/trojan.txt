@@ -1,1 +1,0 @@
-trojan://6e3acf13-788a-4de7-90f3-2887871bb42d@[2a01:4f8:c013:637f::1]:40346?security=none&encryption=none&headerType=none&type=tcp#❔

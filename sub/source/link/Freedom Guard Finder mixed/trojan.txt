@@ -1,6 +1,2 @@
-trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#
-trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.55%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1`
-trojan://7bdd8f2d-f3ed-4ca6-a33b-522594586791@51.178.82.149:2053?path=%2FFree-VPN-CF-Geo-Project%2F51.178.82.149%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#
-trojan://edeff73d-065d-4b0a-b848-aad9d3380223@77.221.141.207:443?path=%2FFree-VPN-CF-Geo-Project%2F77.221.141.207%3D443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B8%F0%9F%87%AA
-trojan://xeiZPhWKRF@join1antimelinet.melin.shop:2096?security=tls&sni=Heli.melin.shop&type=grpc#sina_tec
+trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7

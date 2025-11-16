@@ -1,3 +1,4 @@
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?path=/tw&security=tls&type=ws&sni=noproblemvpn.ru#🇱🇻
 trojan://04dce2ad-97b3-445a-b26b-dc1b9a58914f@asia.artunnel57.host:443?security=tls&type=tcp&sni=asia.artunnel57.host#❔
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=/6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#❔
 trojan://22dxmxezsm@pouriya.cf:443?security=tls&sni=brec3xLN7Zl2.pouriya.cf&alpn=http/1.1,h2,h3&fp=chrome&type=grpc&serviceName=Amsterdam&mode=gun#❔

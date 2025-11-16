@@ -1,2 +1,0 @@
-warp://162.159.195.1:4500/?ifp=20-30&ifps=10-20&ifpd=1-2&ifpm=m4#HttpProxyGo&&detour=warp://162.159.192.1:4500/?ifp=2-4&ifpm=m4#WoW%20IPv4
-warp://162.159.195.1:4500/?ifp=20-30&ifps=10-20&ifpd=1-2&ifpm=m4#HttpProxyGo&&detour=warp://162.159.193.3:500/?ifp=2-4&ifpm=m4#WoW%20IPv4
