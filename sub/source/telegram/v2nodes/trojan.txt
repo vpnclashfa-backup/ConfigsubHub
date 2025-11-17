@@ -1,2 +1,0 @@
-trojan://BxceQaOe@116.49.237.130:3579?allowInsecure=1&sni=t.me%2Fripaojiedian#
-trojan://LxJCPOP40a@206.206.77.237:51469?security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#

@@ -1,4 +1,5 @@
-trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?sni=www.nintendogames.net&path=/#
-trojan://2274c52572e721086f8bd8f88984643c@160.16.214.6:4095?sni=www.nintendogames.net&path=/#
-trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&sni=www.nintendogames.net&type=tcp&path=/#
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&path=/#
+trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?security=tls&sni=www.nintendogames.net&path=/#
+trojan://2274c52572e721086f8bd8f88984643c@160.16.132.158:1334?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#
+trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:4211?sni=www.nintendogames.net&path=/#
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&path=/#

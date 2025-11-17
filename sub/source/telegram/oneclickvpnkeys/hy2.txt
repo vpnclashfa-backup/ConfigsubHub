@@ -1,5 +1,5 @@
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102/?insecure=1#%F0%9F%94%9485%40oneclickvpnkeys
 hy2://621a4388-6f08-4bcd-8609-aa55b30d3c93@172.82.67.154.sslip.io:57617/?insecure=1&obfs=salamander&obfs-password=j1ad5qOGGOk7#%F0%9F%94%9444%40oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%91%9182%40oneclickvpnkeys
-hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#%F0%9F%91%9192%40oneclickvpnkeys
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%90%B225%40oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#%F0%9F%94%9484%40oneclickvpnkeys

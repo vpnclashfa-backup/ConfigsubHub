@@ -1,2 +1,2 @@
-trojan://b4e8771997c94732acbc9ec4d19c2589@104.17.215.6:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91&allowInsecure=1#
-trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7
+trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?path=%2FFree-VPN-CF-Geo-Project%2F141.94.222.214%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?path=%2FFree-VPN-CF-Geo-Project%2F185.114.72.31%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%AA%F0%9F%87%B8

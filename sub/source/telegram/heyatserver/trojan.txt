@@ -1,5 +1,4 @@
-trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:127?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#[
-trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%86%94%40freenettir
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=tcp&sni=quietplace.lazymountain.click#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%F0%9F%87%A8%F0%9F%87%B1Chile
-trojan://telegram-id-directvpn@18.196.78.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-privatevpns@18.196.78.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=%2FFree-VPN-CF-Geo-Project%2F51.89.128.93%3D44004&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#nitru-%F0%9F%87%AC%F0%9F%87%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore
+trojan://telegram-id-directvpn@3.64.3.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://telegram-id-directvpn@63.180.123.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+trojan://telegram-id-privatevpns@3.64.3.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
